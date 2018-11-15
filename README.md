@@ -1,102 +1,108 @@
-# Project name
-Second Assignment for Software Development Process course @ Unimib 18/19.
+# UniPocket
+Secondo Assignment di Processo e Sviluppo del Software.
 
-# Requirements Analysis Document
+Version 1.0 – 15.11.2018
+
+Adorni Giorgia 806787
+Basso Matteo 807628
+
+# Requirements Analysis Document (RAD)
 
 ## Document Instructions
-This document template contains directions for use or sample entries. These directions are enclosed in brackets ( ) and are italicized. They are included to help you fill out the form. As you complete the form, delete these instructions. 
 
-Please follow this document naming convention to facilitate document search and retrieval:
-
-project code (if appropriate) project name (abbreviated) document name (abbreviated) version (if appropriate)
-
-All documents should be posted to the appropriate project folder in SharePoint. 
-
+<inserire le istruzioni eventuali>
 
 
 ## Purpose
 
-The results of the requirements elicitation and the analysis activities are documented in the Requirements Analysis Document (RAD). This document completely describes the system in terms of functional and nonfunctional requirements and serves as a contractual basis between the customer and the developer. The RAD must be written in the language of the customer's domain of business/expertise. Under no circumstances should any "computerese" terminology creep into this document.
+Vengono documentati nel RAD i risultati dell'estrazione dei requisiti e le attività di analisi, inoltre viene descritto il sistema in termini di requisiti funzionali e non funzionali, fungendo da base contrattuale tra il cliente e lo sviluppatore. 
+Il RAD viene scritto nella lingua del dominio del business / competenza del cliente (nel nostro caso l'italiano). 
 
-## Audience
+In questo documento viene descritta l'applicazione **UniPocket** <da sviluppare, un applicazione/sistema completamente nuovo> e viene definita una strategia per acquisire conoscenze, compresa la proposta di una soluzione<obiettivi e requisiti?>.
 
-The audience for the RAD includes the customer, the users, the project management, the system analysts (i.e., the developers who participate in the requirements), and the system designers (i.e., the developers who participate in the system design). The first part of the document, including use cases and nonfunctional requirements, is written during requirements elicitation. The formalization of the specification in terms of object models is written during analysis. We use an example template for a RAD introduced in the book.
+UniPocket è un applicazione universitaria, utilizzata per lo più da studenti ma anche docenti. <aggiungere i servizi offerti>
 
-## Template
+##Introduction
 
-### Section/Topic and Description
-1. **Introduction**  
-    1.1 Purpose of the system  
-    1.2 Scope of the system  
-    1.3 Objectives and success criteria of the project  
-    1.4 Definitions, acronyms, and abbreviations  
-    1.5 References  
-    1.6 Overview	 
-    
+La prima sezione è un'introduzione con lo scopo di fornire una breve panoramica della funzione del sistema e le ragioni del suo sviluppo, della sua portata e dei suoi riferimenti al contesto di sviluppo (ad es. riferimento alla dichiarazione del problema scritta dal cliente, riferimenti a sistemi esistenti, studi di fattibilità).
+L'introduzione include anche gli obiettivi e i criteri di successo del progetto.
 
-    The first section of the RAD is an Introduction. Its purpose is to provide a brief overview    
-    of the function of the system and the reasons for its development, its scope, and references  
-    to the development context (e.g., reference to the problem statement written by the client,  
-    references to existing systems, feasibility studies).  
-    The introduction also includes the objectives and success criteria of the project.
- 
-2. **Current system**  	
-	The second section, Current system, describes the current state of affairs. If the new system will replace an existing system, this section describes the functionality and the problems of the current system. Otherwise, this section describes how the tasks supported by the new system are accomplished now.  
+###Purpose of the system  
 
-	Describe the current environment in detail to help identify and support the needs and goals described in the previous section.  Consider the following list of questions to help define the current environment  
-	What are the current problems faced (without the system) today?   
-	What problems should this system solve?  
-	Do you have to do things manually that you would like to automate?  
-	Do you have performance problems that need to change?  
-	Do you have functional limitations that you would like to change?  
-	Are you using packages that force you to constrain your business functionality to the boundaries of the package?  
-  
-3. **Proposed system**  
-	The third section documents the requirements elicitation and the analysis model of the new system.  
-   
-    3.1 Overview  	
-    The overview presents a functional overview of the system.  
-     In this section, provide a summary describing the approach, methods, and documentation of the business requirements, including: project drivers, key project stakeholders, main functions that will be performed by the system, and a general requirements documentation timeline.  
+Il sistema UniPocket e i suoi servizi<elencare enventuali nomi per il servizio voti, statistiche etc.> sono progettati per essere una singola applicazione destinata a dispositivi smartphone (iOS e Android ). <valutare se è la sezione giusta in cui inserire questo>
 
-   
-    3.2 Functional requirements ("shall lists")  
-        3.2.1  
-        3.2.2   
-        3.2.3   
-        3.2.4   
-		
-		Functional requirements describes the high-level functionality of the system.  
- 
-    3.3 Nonfunctional requirements  
-        3.3.1 Usability  
-        3.3.2 Reliability  
-        3.3.3 Performance  
-        3.3.4 Supportability  
-        3.3.5 Implementation  
-        3.3.6 Interface  
-        3.3.7 Packaging  
-        3.3.8 Legal	  
+###Scope of the system/Objectives and success criteria of the project
 
-        Nonfunctional requirements describes user-level requirements that are not directly  
-        related to functionality. This includes usability, reliability, performance,  
-        supportability, implementation, interface, operational, packaging, and legal requirements.
- 
-    3.4 System models  
-        3.4.1 Scenarios  
-        3.4.2 Use case model  
-        3.4.3 Analysis object model  
-        3.4.4 Dynamic model  
-        3.4.5 User interface—navigational paths and screen mock-ups	  
-  
-        System models describes the scenarios, use cases, object model, and dynamic models for the system.  
-        This section contains the complete functional specification, including mock-ups illustrating  
-        the user interface of the system and navigational paths representing the sequence of screens. 
-        The subsections Object model and Dynamic model are written during the Analysis activity.  
+Il sistema UniPocket ha due diversi tipi di utenti: studenti e docenti<valutare se aggiungerne altri>. L'utilizzo dell'intero sistema è diverso sulla base del tipo di utente che ha effettuato l'accesso. <accettazione dei termini delle condizioni per il consenso per l'acquisizione dei dati>
 
-    3.5 References/Inputs  
-	Identify the sources of information/reference materials that were used to develop the Requirements Plan, such as:   
-     	1. Author name, title, and publication date.  
-    	2. Author name, title, and publication date.  
-  
-4. **Glossary**  	
-	A glossary of important terms, to ensure consistency in the specification and to ensure that we use the client’s terms. A precurser to the Data Dictionary
+- Modulo di registrazione e accesso per i diversi utenti
+- Consentire all'amministrazione universitaria e alle segreterie di accedere ai dati degli studenti
+- Permettere agli studenti di visualizzare <qualcosa>
+- ....
+- <L'identità di ogni utente è protetta>
+
+### Definitions, acronyms, and abbreviations
+
+<valutare se tenere>
+
+###References  
+
+<contenuto>
+
+###Overview	 
+
+<contenuto>
+
+##Current system
+In questa sezione viene descritto lo stato attuale delle cose. Se il nuovo sistema sostituirà un sistema esistente, questa sezione descrive la funzionalità e i problemi del sistema attuale, altrimenti, quali sono le attività supportate dal nuovo sistema.
+
+<Descrizione dettagliata dell'ambiente corrente per identificare e supportare bisogni e obiettivi descritti nella sezione precedente: 
+Quali sono i problemi attuali (supponendo l'assenza di questo il sistema)?
+Quali problemi dovrebbe risolvere questo sistema?
+Devi fare le cose manualmente, cosa ti piacerebbe automatizzare?
+Hai problemi di prestazioni che devono essere modificati?
+Avete limitazioni funzionali che vorreste cambiare?>
+
+##Proposed system
+La terza sezione documenta l'elicitazione dei requisiti e il modello di analisi del nuovo sistema.
+
+###Panoramica/Overview
+Viene presentata una panoramica funzionale del sistema, con un riepilogo descrittivo dell'approccio, dei metodi e della documentazione dei requisiti aziendali, tra cui: driver di progetto, parti interessate del progetto (stakeholders), funzioni principali che verranno eseguite dal sistema e una tempistica della documentazione dei requisiti generali.
+
+<per la parte stakeholder: Sono compresi in questa categoria ... <analisti di sistema (ad esempio, gli sviluppatori che partecipano ai requisiti). >
+
+###Elenco dei requisiti funzionali
+
+<valutare se tenere>
+
+<I requisiti funzionali descrivono la funzionalità di alto livello del sistema.>     
+
+###Nonfunctional requirements
+
+<valutare se tenere>
+
+<I requisiti non funzionali descrivono i requisiti a livello utente che non sono direttamente relativi alle funzionalità.>
+
+<      3.3.1 Usability  
+​      3.3.2 Reliability  
+​      3.3.3 Performance  
+​      3.3.4 Supportability  
+​      3.3.5 Implementation  
+​      3.3.6 Interface  
+​      3.3.7 Packaging  
+​      3.3.8 Legal	  >
+
+###<System models>
+
+<I modelli di sistema descrivono gli scenari, i casi d'uso, il modello a oggetti e i modelli dinamici per il sistema.
+   Questa sezione contiene le specifiche funzionali complete, compresi i modelli illustrativi
+   l'interfaccia utente del sistema e i percorsi di navigazione che rappresentano la sequenza di schermate.>
+
+<      3.4.1 Scenarios  
+​      3.4.2 Use case model  
+​      3.4.3 Analysis object model  
+​      3.4.4 Dynamic model  
+​      3.4.5 User interface—navigational paths and screen mock-ups	  >
+
+### References/Inputs  
+<Identify the sources of information/reference materials that were used to develop the Requirements Plan, such as: Author name, title, and publication date.  Glossary: A glossary of important terms, to ensure consistency in the specification and to ensure that we use the client’s terms. A precurser to the Data Dictionary>
