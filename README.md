@@ -63,13 +63,50 @@ Devi fare le cose manualmente, cosa ti piacerebbe automatizzare?
 Hai problemi di prestazioni che devono essere modificati?
 Avete limitazioni funzionali che vorreste cambiare?-->
 
+### Product functions
+
+L'applicazione universitaria UniPocket (per ora dedicata alla bicocca ma possibile ampliarla) prevede <n> importanti gruppi di funzionalità. 
+
+- accesso con account universitario
+- visibilità piano di studi, libretto voti
+- statistiche per studenti (relative alla difficoltà esami, media voti, base di laurea, andamento della carriera, valutazioni ai professore, 
+- statistiche per docenti (andamento studenti nei vari corsi)
+- analisi dei dati a scopo statistico dall'amministrazione dell'università
+- Possibilità di gestione delle aule da parte delle segreterie (prenotazioni)
+- prenotazione aule laboratori per lezioni da parte degli insegnati
+- creazione di appelli di esame dai docenti
+- iscrizione degli studenti agli esami
+- orari lezioni ed esami (con reminder)
+- news dall’università (stessa newsletter della mail)
+- (menu mensa)
+- (controllo orari navetta)
+- (vendita libri)
+
 ## Proposed system
 La terza sezione documenta l'elicitazione dei requisiti e il modello di analisi del nuovo sistema.
 
 ### Panoramica/Overview
 Viene presentata una panoramica funzionale del sistema, con un riepilogo descrittivo dell'approccio, dei metodi e della documentazione dei requisiti aziendali, tra cui: driver di progetto, parti interessate del progetto (stakeholders), funzioni principali che verranno eseguite dal sistema e una tempistica della documentazione dei requisiti generali.
 
-<!--per la parte stakeholder: Sono compresi in questa categoria ... <!--analisti di sistema (ad esempio, gli sviluppatori che partecipano ai requisiti). -->
+<!--per la parte stakeholder: Sono compresi in questa categoria ... analisti di sistema (ad esempio, gli sviluppatori che partecipano ai requisiti). -->
+
+<!--un piano che mostra e spiega in quale ordine sono le attività di elicitazione eseguite. Il piano deve indicare chiaramente qualsiasi dipendenza tra le attività.-->
+
+### Stakeholders
+
+Esistono quattro tipi principali "attori" nell'applicazione UniPocket:
+
+#### Studente
+
+#### Professore
+
+#### Amministrazione università (per statistiche etc)
+
+#### Segreterie
+
+<!--una o più strategie di elicitazione associate a ciascun stakeholder: motivare le strategie e descrivere il tipo di informazioni che saranno acquisite sfruttando le strategie indicate.-->
+
+Un requisito è una dichiarazione che identifica un attributo, una capacità, una caratteristica o una qualità necessari di un sistema affinché possa avere valore e utilità per uno stakeholder.
 
 ### Elenco dei requisiti funzionali
 
@@ -92,17 +129,43 @@ Viene presentata una panoramica funzionale del sistema, con un riepilogo descrit
 ​      3.3.7 Packaging  
 ​      3.3.8 Legal	  -->
 
-### <!--System models-->
+### System models
 
-<!--I modelli di sistema descrivono gli scenari, i casi d'uso, il modello a oggetti e i modelli dinamici per il sistema.
-   Questa sezione contiene le specifiche funzionali complete, compresi i modelli illustrativi
-   l'interfaccia utente del sistema e i percorsi di navigazione che rappresentano la sequenza di schermate.-->
+<!--I modelli di sistema descrivono gli scenari, i casi d'uso, il modello a oggetti e i modelli dinamici per il sistema. Questa sezione contiene le specifiche funzionali complete.-->
 
-<!--      3.4.1 Scenarios  
+<!--  3.4.1 Scenarios  
 ​      3.4.2 Use case model  
 ​      3.4.3 Analysis object model  
 ​      3.4.4 Dynamic model  
-​      3.4.5 User interface—navigational paths and screen mock-ups	  -->
+​      3.4.5 User interface--navigational paths and screen mock-ups	  -->
+
+<In questa sezione vengono presentati dei mock-up dell'applicazione: modelli illustrativi, l'interfaccia utente del sistema e i percorsi di navigazione che rappresentano la sequenza di schermate>
 
 ###  References/Inputs  
 <!--Identify the sources of information/reference materials that were used to develop the Requirements Plan, such as: Author name, title, and publication date.  Glossary: A glossary of important terms, to ensure consistency in the specification and to ensure that we use the client’s terms. A precurser to the Data Dictionary-->
+
+## Interviews
+
+- quale tipo di informazioni che dovrebbero essere scoperte
+- perché alcune domande sono state scelte
+- come l'intervista / questionario è organizzato logicamente (gruppi di domande)
+- perché un ordine specifico per le domande
+
+## Questionnaires
+
+- quale tipo di informazioni che dovrebbero essere scoperte
+- perché alcune domande sono state scelte
+- come l'intervista / questionario è organizzato logicamente (gruppi di domande)
+- perché un ordine specifico per le domande
+
+## <!-- Analisi dei risultati analizzati-->
+
+## <!-- Segnalazione dei requisiti emergenti-->
+
+
+
+
+
+
+
+## 
