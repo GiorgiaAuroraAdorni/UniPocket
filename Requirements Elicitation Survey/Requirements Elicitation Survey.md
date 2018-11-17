@@ -27,6 +27,51 @@ Vengono di seguito riepilogate le funzioni/l'ambito di UniPocket:
 
 ## Questionnaire for Requirements Elicitation
 
+
+Passaggio 1: determinare quali informazioni si desidera ottenere.
+Passaggio 2: decidere il pubblico del questionario (vari questionari per i diversi stakeholder)
+Passaggio 3: decidere il metodo di raccolta dei dati (elettronico, telefonico, postale)
+Passaggio 4: decidere i tipi di domande
+Fase 5: Pilotare il questionario su un campione di potenziali rispondenti e, se necessario, rivedere le domande
+Passaggio 6: distribuire il questionario
+<Passaggio 7: analizzare le risposte>
+<Passaggio 9: presentare e utilizzare i risultati>
+
+
+
+1. Quali sono le maggiori sfide nel tuo ruolo?
+
+2. Che aspetto ha il successo?
+
+3. Chi pensi che sia influenzato (positivo e negativo) dal progetto e come?
+
+4. Cosa accadrebbe se non cambiassimo il modo in cui le cose sono fatte oggi? (o Perché stiamo facendo questo progetto? O Perché questo progetto è importante?)
+
+5. Quali altri cambiamenti stanno accadendo all'interno dell'organizzazione che potrebbero avere un impatto su questo progetto?
+
+6. Come descriveresti il processo?
+7. Quali parti del processo miglioreresti e perché?
+8. Di quali idee parlate tu e i tuoi compagni per migliorare il processo?
+9. Come userai questa funzione? 
+10. Come potremmo soddisfare questa esigenza?
+11. Come potremmo pensare a questa funzionalità in modo un po' diverso?
+12. Dove accederà l'utente a questa funzione?
+13. Dove si troverà fisicamente l'utente quando si utilizza questa funzione?
+14. Dove sarebbero visibili i risultati?
+15. Quando verrà utilizzata questa funzione?
+16. Chi userà questa funzione?
+17. Chi conoscerà i risultati di qualcuno che utilizza questa funzione?
+18. Che cosa deve fare questa caratteristica?
+19. Questa funzione soddisfa le esigenze e risolve il problema che stiamo cercando di risolvere?
+20. Devi selezionare una categoria per vedere l'elenco dei risultati? Oppure, dovremmo mostrare tutti gli elementi nella lista dei risultati? (Es. statistiche)
+21. Come / dove saranno visibili queste statistiche e a chi?
+
+
+
+
+
+
+
 Si prega di completare le seguenti informazioni.
 Nome: 
 Dipartimento:
