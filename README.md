@@ -29,6 +29,13 @@ L'introduzione include anche gli obiettivi e i criteri di successo del progetto.
 
 ### Purpose of the system  
 
+### Domain understanding
+
+Studiare l'ambiente e il sistema così com'è
+- Organizzazione aziendale
+- Dominio Applica3on
+- Punti di forza e punti deboli del sistema così com'è
+
 Il sistema UniPocket e i suoi servizi<!--elencare enventuali nomi per il servizio voti, statistiche etc.--> sono progettati per essere una singola applicazione destinata a dispositivi smartphone (iOS e Android ). <!--valutare se è la sezione giusta in cui inserire questo-->
 
 ### Scope of the system/Objectives and success criteria of the project

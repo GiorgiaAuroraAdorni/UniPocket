@@ -9,7 +9,7 @@ Il tuo nome e le tue risposte sono confidenziali e saranno utilizzate esclusivam
 <!--Saluti,
 Nome Cognome
 Dipartimento di Informatica Universita degli Studi di Milano-Bicocca 
-Corso di Progetto e Sviluppo del Software -->
+Corso di Processo e Sviluppo del Software -->
 
 ## Il progetto UniPocket
 
