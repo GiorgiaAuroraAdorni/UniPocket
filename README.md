@@ -109,7 +109,7 @@ Viene presentata una panoramica funzionale del sistema, con un riepilogo descrit
 
 <!--un piano che mostra e spiega in quale ordine sono le attività di elicitazione eseguite. Il piano deve indicare chiaramente qualsiasi dipendenza tra le attività.-->
 
-### Stakeholders
+## Stakeholders
 
 Esistono quattro tipi principali "attori" nell'applicazione UniPocket:
 
@@ -154,6 +154,12 @@ Esaminiamo ciascuno dei candidati in modo più dettagliato:
 <!--una o più strategie di elicitazione associate a ciascun stakeholder: motivare le strategie e descrivere il tipo di informazioni che saranno acquisite sfruttando le strategie indicate.-->
 
 Un requisito è una dichiarazione che identifica un attributo, una capacità, una caratteristica o una qualità necessari di un sistema affinché possa avere valore e utilità per uno stakeholder.
+
+
+
+Priorità delle parti interessate. (es. categoria 1 con diritti, cateoria 2 con diritti limitati)
+
+
 
 ### System models
 
