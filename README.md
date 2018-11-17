@@ -3,42 +3,48 @@ Secondo Assignment di Processo e Sviluppo del Software.
 
 Version 1.0 – 15.11.2018
 
-Adorni Giorgia 806787
+Adorni Giorgia 806787  
 Basso Matteo 807628
 
-# Requirements Analysis Document (RAD)
+# Requirements Elicitation (RE)
 
-## Document Instructions
+## Istruzioni del documento
 
 <!--inserire le istruzioni eventuali-->
 
+## Obiettivi del documento
 
-## Purpose
+Vengono descritte nel seguente documento le procedure di estrazione dei requisiti i conseguenti risultati, incluse attività di analisi. Vengono inoltre riportate le funzionalità del sistema e ciò che intende risolvere, fungendo da base contrattuale tra il cliente e lo sviluppatore.
+Il documento viene redatto nella lingua del dominio del business / competenza del cliente (nel nostro caso l'italiano).
 
-Vengono documentati nel RAD i risultati dell'estrazione dei requisiti e le attività di analisi, inoltre viene descritto il sistema in termini di requisiti funzionali e non funzionali, fungendo da base contrattuale tra il cliente e lo sviluppatore. 
-Il RAD viene scritto nella lingua del dominio del business / competenza del cliente (nel nostro caso l'italiano). 
+In questo documento viene descritta l'applicazione **UniPocket** e viene definita una strategia per acquisire conoscenze, compresa la proposta di una soluzione.
 
-In questo documento viene descritta l'applicazione **UniPocket** <!--da sviluppare, un applicazione/sistema completamente nuovo--> e viene definita una strategia per acquisire conoscenze, compresa la proposta di una soluzione<!--obiettivi e requisiti?-->.
+## Introduzione
 
-UniPocket è un applicazione universitaria, utilizzata per lo più da studenti ma anche docenti. <!--aggiungere i servizi offerti-->
-
-## Introduction
-
-La prima sezione è un'introduzione con lo scopo di fornire una breve panoramica della funzione del sistema e le ragioni del suo sviluppo, della sua portata e dei suoi riferimenti al contesto di sviluppo (ad es. riferimento alla dichiarazione del problema scritta dal cliente, riferimenti a sistemi esistenti, studi di fattibilità).
+La prima sezione è un'introduzione con lo scopo di fornire una breve panoramica della funzione del sistema e le ragioni della sua realizzazione, portata e riferimenti al contesto di sviluppo (ad es. riferimento alla dichiarazione del problema scritta dal cliente, riferimenti a sistemi esistenti, studi di fattibilità).
 L'introduzione include anche gli obiettivi e i criteri di successo del progetto.
-
-### Purpose of the system  
 
 ### Domain understanding
 
 Studiare l'ambiente e il sistema così com'è
 - Organizzazione aziendale
-- Dominio Applica3on
+- Dominio dell'applicazione
 - Punti di forza e punti deboli del sistema così com'è
 
-Il sistema UniPocket e i suoi servizi<!--elencare enventuali nomi per il servizio voti, statistiche etc.--> sono progettati per essere una singola applicazione destinata a dispositivi smartphone (iOS e Android ). <!--valutare se è la sezione giusta in cui inserire questo-->
+Il sistema UniPocket e i suoi servizi<!--elencare enventuali nomi per il servizio voti, statistiche etc.--> sono progettati per essere una singola applicazione destinata a dispositivi smartphone (iOS e Android). <!--valutare se è la sezione giusta in cui inserire questo-->
 
 ### Scope of the system/Objectives and success criteria of the project
+
+UniPocket è un applicazione universitaria, utilizzata per lo più da studenti ma anche docenti. <!--aggiungere i servizi offerti-->
+
+
+- opportunità tecnologiche, condizioni di mercato
+- obiettivi di miglioramento
+- vincoli organizzativi / tecnici sul futuro sistema
+- opzioni alternative per la soddisfazione degli obiettivi, per l'assegnazione delle responsabilità
+- scenari di ipotetica interazione software-ambiente
+- requisiti sul software, ipotesi sull'ambiente
+  Risultato: ulteriori sezioni per la bozza di proposta preliminare
 
 Il sistema UniPocket ha due diversi tipi di utenti: studenti e docenti<!--valutare se aggiungerne altri-->. L'utilizzo dell'intero sistema è diverso sulla base del tipo di utente che ha effettuato l'accesso. <!--accettazione dei termini delle condizioni per il consenso per l'acquisizione dei dati-->
 
@@ -60,7 +66,11 @@ Il sistema UniPocket ha due diversi tipi di utenti: studenti e docenti<!--valuta
 
 <!--contenuto-->
 
-## Current system
+## Sistema corrente
+
+L'applicazione si propone come un'alternativa che unisce al suo interno diversi sistemi preesistenti. Al momento per visualizzare la carriera universitaria e gli orari delle aule è infatti necessario l'utilizzo di due applicazioni differenti. Alcune informazioni invece non risultano disponibili da alcuna di esse ma sono consultabili solamente mediante siti web.
+Appare dunque chiaro che vi è una frammentazione dell'informazione che fa si che gli utenti possano trovarsi confusi o poco soddisfatti dei sistemi in uso. Avere un singolo applicativo mediante il quale è possibile svolgere ogni tipo di attività porterebbe alla semplificazione della vita universitaria e magari ad una maggiore inclusione da parte degli studenti.
+
 In questa sezione viene descritto lo stato attuale delle cose. Se il nuovo sistema sostituirà un sistema esistente, questa sezione descrive la funzionalità e i problemi del sistema attuale, altrimenti, quali sono le attività supportate dal nuovo sistema.
 
 <!--Descrizione dettagliata dell'ambiente corrente per identificare e supportare bisogni e obiettivi descritti nella sezione precedente: 
@@ -72,22 +82,22 @@ Avete limitazioni funzionali che vorreste cambiare?-->
 
 ### Product functions
 
-L'applicazione universitaria UniPocket (per ora dedicata alla bicocca ma possibile ampliarla) prevede <n> importanti gruppi di funzionalità. 
+L'applicazione universitaria UniPocket (per ora dedicata alla Bicocca ma possibile ampliarla) prevede <n> importanti gruppi di funzionalità. 
 
-- accesso con account universitario
-- visibilità piano di studi, libretto voti
-- statistiche per studenti (relative alla difficoltà esami, media voti, base di laurea, andamento della carriera, valutazioni ai professore, 
-- statistiche per docenti (andamento studenti nei vari corsi)
-- analisi dei dati a scopo statistico dall'amministrazione dell'università
-- Possibilità di gestione delle aule da parte delle segreterie (prenotazioni)
-- prenotazione aule laboratori per lezioni da parte degli insegnati
-- creazione di appelli di esame dai docenti
-- iscrizione degli studenti agli esami
-- orari lezioni ed esami (con reminder)
-- news dall’università (stessa newsletter della mail)
-- (menu mensa)
-- (controllo orari navetta)
-- (vendita libri)
+- Accesso tramite account universitario
+- Visibilità piano di studi, libretto voti
+- Statistiche per studenti (relative alla difficoltà esami, media voti, base di laurea, andamento della carriera, valutazioni ai professori)
+- Statistiche per docenti (andamento studenti nei vari corsi)
+- Analisi dei dati a scopo statistico da parte dell'amministrazione dell'università
+- Possibilità di gestire le aule da parte delle segreterie (prenotazioni)
+- Prenotazione aule e laboratori per lezioni da parte degli insegnati
+- Creazione di appelli d'esame dai docenti
+- Iscrizione degli studenti agli esami
+- Orari lezioni ed esami (con reminder)
+- News dall’università (stessa newsletter della mail)
+- Menu mensa
+- Controllo orari navetta
+- Vendita libri
 
 ## Proposed system
 La terza sezione documenta l'elicitazione dei requisiti e il modello di analisi del nuovo sistema.
@@ -103,38 +113,23 @@ Viene presentata una panoramica funzionale del sistema, con un riepilogo descrit
 
 Esistono quattro tipi principali "attori" nell'applicazione UniPocket:
 
+elencarli e spiegare perché ciascun stakeholder è rilevante per il processo di elicitazione;
+
 #### Studente
+
+Gli studenti hanno la possibilità di accedere all'applicazione e monitorare la loro carriera universitaria. Risultano rilevanti per il processo di elicitazione per identificare e risolvere le problematiche circa il reperimento di alcune informazioni che possono risultare utili quotidianamente. Inoltre sono in grado di fornire opinioni riguardo i sistemi correnti, ovvero le motivazioni del loro scarso utilizzo.
 
 #### Professore
 
-#### Amministrazione università (per statistiche etc)
+I professori hanno la possibilità di accedere all'applicazione ed effettuare svariate attività, tra cui la prenotazione delle aule e dei laboratori, l'inserimento di prove d'esame e la visualizzazione delle statistiche relative i propri corsi. Essi risultano coloro che utilizzano l'applicazione per gestire le attività universitarie ed è dunque necessario che il sistema risulti comodo e veloce da utilizzare secondo i loro bisogni. Sono in grado di identificare quali processi possono rendere la comunicazione con gli studenti difficoltosa e una possibile soluzione.
 
-#### Segreterie
+#### Amministrazione università
+
+L'amministrazione universitaria deve essere in grado di accedere a statistiche e informazioni relative l'attività svolta da studenti e professori. Essa risulta rilevante per comprendere quali sono i dati di fondamentale interesse e quali schermate possono essere sviluppate per la loro visualizzazione e analisi. È necessario determinare come l'università può essere in grado di valutare la soddisfazione complessiva e come alcuni cambiamenti si riflettano sugli utenti.
 
 <!--una o più strategie di elicitazione associate a ciascun stakeholder: motivare le strategie e descrivere il tipo di informazioni che saranno acquisite sfruttando le strategie indicate.-->
 
 Un requisito è una dichiarazione che identifica un attributo, una capacità, una caratteristica o una qualità necessari di un sistema affinché possa avere valore e utilità per uno stakeholder.
-
-### Elenco dei requisiti funzionali
-
-<!--valutare se tenere-->
-
-<!--I requisiti funzionali descrivono la funzionalità di alto livello del sistema.-->     
-
-### Nonfunctional requirements
-
-<!--valutare se tenere-->
-
-<!--I requisiti non funzionali descrivono i requisiti a livello utente che non sono direttamente relativi alle funzionalità.-->
-
-<!--      3.3.1 Usability  
-​      3.3.2 Reliability  
-​      3.3.3 Performance  
-​      3.3.4 Supportability  
-​      3.3.5 Implementation  
-​      3.3.6 Interface  
-​      3.3.7 Packaging  
-​      3.3.8 Legal	  -->
 
 ### System models
 
@@ -168,11 +163,3 @@ Un requisito è una dichiarazione che identifica un attributo, una capacità, un
 ## <!-- Analisi dei risultati analizzati-->
 
 ## <!-- Segnalazione dei requisiti emergenti-->
-
-
-
-
-
-
-
-## 
