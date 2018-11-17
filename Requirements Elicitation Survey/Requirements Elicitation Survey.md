@@ -13,19 +13,23 @@ Corso di Processo e Sviluppo del Software -->
 
 ## Il progetto UniPocket
 
-L'idea di questa applicazione è nata per fornire <qualcosa>.
-Vengono riepilogate le funzioni/l'ambito di UniPocket:
+L'applicazione è nata per fornire uno strumento integrato per la gestione della propria carriera universitaria, al momento infatti è necessario consultare diverse fonti per ottenere e gestire tutte le informazioni necessarie.
+Vengono di seguito riepilogate le funzioni/l'ambito di UniPocket:
 
-1. <fare qualcosa>
-2. <fare qualcos altro>
-3. ...
+1. Visibilità piano di studi, libretto voti
+2. Statistiche relative alla difficoltà esami, media voti, base di laurea, andamento della carriera, valutazioni ai professori
+3. Iscrizione agli esami
+4. Orari lezioni ed esami (con notifiche)
+5. News dall’università
+6. Menu mensa
+7. Controllo orari navetta
+8. Vendita libri
 
 ## Questionnaire for Requirements Elicitation
 
 Si prega di completare le seguenti informazioni.
 Nome: 
 Dipartimento:
-Stakeholder rappresentato:
 
 ### Domanda 1
 Si prega di scrivere i requisiti per UniPocket nello spazio sottostante seguendo il modello che abbiamo fornito.
