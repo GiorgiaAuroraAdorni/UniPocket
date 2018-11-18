@@ -185,7 +185,7 @@ Li classificali dando un voto nella colonna di destra, da 0 (non importante) a 5
 |                  Creazione di esami                  |     X 0 1 2 3 4 5     |
 |                   Chat tra docenti                   |     X 0 1 2 3 4 5     |
 
-Scrivq altri requisiti che desidera o non vuole nel modello che abbiamo fornito, e li classifichi secndo quali sono più importanti.
+Scrivere altri requisiti che desidera o non vuole nel modello che abbiamo fornito, e li classifichi secondo quali sono più importanti.
 
 | Requirements | Increasing importance |
 | :----------: | :-------------------: |
@@ -245,7 +245,7 @@ Di quali idee parlate lei e i suoi colleghi per migliorare <>?
 
 ### Domanda 26
 
-In quale luogo pensa che utilizzare questa applicazione?
+In quale luogo pensa che utilizzerebbe questa applicazione?
 
 ### Si prega di scrivere qualsiasi altro commento qui sotto.
 
@@ -253,9 +253,9 @@ In quale luogo pensa che utilizzare questa applicazione?
 
 <!-- Aggiungere questo alle domande che riteniamo più  importanti-->
 
-### Come hai trovato la domanda <n>?  
+### Come ha trovato la domanda <n>?  
 
-Per favore cerchia la risposta appropriata.
+Per favore selezioni la risposta appropriata.
 
 **Livello di difficoltà**
 

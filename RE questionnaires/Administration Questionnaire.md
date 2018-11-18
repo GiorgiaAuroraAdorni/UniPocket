@@ -113,7 +113,7 @@ Li classificali dando un voto nella colonna di destra, da 0 (non importante) a 5
 |    Statistiche riguardo l'efficacia didattica dei docenti    |     X 0 1 2 3 4 5     |
 | Statistiche di gradimento dei servizi offerti dall'università |     X 0 1 2 3 4 5     |
 
-Scrivere altri requisiti che desidera o non vuole nel modello che abbiamo fornito, e li classifichi secndo quali sono più importanti.
+Scrivere altri requisiti che desidera o non vuole nel modello che abbiamo fornito, e li classifichi secondo quali sono più importanti.
 
 | Requirements | Increasing importance |
 | :----------: | :-------------------: |

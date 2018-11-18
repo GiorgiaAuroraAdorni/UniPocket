@@ -1,6 +1,6 @@
 # Student Requirements Elicitation Questionnaire
 
-Come parte di un assigment presso il dipartimento di Informatica, abbiamo sviluppato un questionario per raccogliere i requisiti per un <progetto software>.
+Come parte di un assignment presso il dipartimento di Informatica, abbiamo sviluppato un questionario per raccogliere i requisiti per un <progetto software>.
 L'indagine si propone di <raccogliere i dati del progetto per testare il metodo>. Dovrebbero essere necessari <n> minuti per completare il questionario.
 Il tuo nome e le tue risposte sono confidenziali e saranno utilizzate esclusivamente per la ricerca. Grazie per la vostra partecipazione.
 
@@ -19,7 +19,7 @@ Vengono di seguito riepilogate le funzioni/l'ambito di UniPocket:
 3. Iscrizione agli esami
 4. Orari lezioni ed esami (con notifiche)
 5. News dall’università
-6. Menu mensa
+6. Menù mensa
 7. Controllo orari navetta
 8. Vendita libri
 
@@ -45,7 +45,7 @@ Utilizzi qualche applicazione per controllare l'orario delle lezioni?
 
 ### Domanda 3
 
-Utilizzi qualche applicazione per controllare gli esami?
+Utilizzi qualche applicazione per controllare i risultati degli esami?
 
 - [ ] Si
 - [ ] No
@@ -84,7 +84,7 @@ Con quale grado di difficoltà riesci a vendere i tuoi libri?
 
 ### Domanda 8
 
-Uilizzi un'applicazione per studenti universitari?
+Utilizzi un'applicazione per studenti universitari?
 
 - [ ] Si
 - [ ] No
@@ -109,7 +109,7 @@ Quali attività sono consentite nella tua applicazione universitaria preferita? 
 - [ ] Statistiche valutazioni corsi e professori    
 - [ ] Orari lezioni ed esami    
 - [ ] News dall’università    
-- [ ] Menu mensa    
+- [ ] Menù mensa    
 - [ ] Controllo orari navetta    
 - [ ] Vendita libri    
 - [ ] Acquisto libri    
@@ -128,7 +128,7 @@ Valuta l'importanza che avrebbe per te avere una di queste funzionalità nella t
 | Statistiche valutazioni corsi e professori |     X 0 1 2 3 4 5     |
 |           Orari lezioni ed esami           |     X 0 1 2 3 4 5     |
 |            News dall’università            |     X 0 1 2 3 4 5     |
-|                 Menu mensa                 |     X 0 1 2 3 4 5     |
+|                 Menù mensa                 |     X 0 1 2 3 4 5     |
 |          Controllo orari navetta           |     X 0 1 2 3 4 5     |
 |               Vendita libri                |     X 0 1 2 3 4 5     |
 |               Acquisto libri               |     X 0 1 2 3 4 5     |
@@ -172,7 +172,7 @@ Quanto ti importa di UniPocket? Per favore selezione la risposta appropriata.
 
 ### Domanda 16
 
-Quanto spesso partecipi a eventi/attività organizzate dall'università?
+Quanto spesso partecipi ad eventi/attività organizzate dall'università?
 Dai un voto da 0 (mai) a 5 (sempre).
 
 0 1 2 3 4 5
@@ -196,19 +196,21 @@ Dai un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
 Di seguito è riportato un elenco di requisiti dell'applicazione UniPocket.
 Classificali dando un voto nella colonna di destra da 0 (non importante per te) a 5 (molto importante per te). Scegli la X per i requisiti che non vuoi attivamente nel sistema.
 
-|     Requirements     | Increasing importance |
-| :------------------: | :-------------------: |
-| Visibilità piano di studi, libretto voti |     X 0 1 2 3 4 5     |
-|   Statistiche andamento carriera   |     X 0 1 2 3 4 5     |
-|         Iscrizione agli esami          |     X 0 1 2 3 4 5     |
-|         Orari lezioni ed esami          |     X 0 1 2 3 4 5     |
-|         News dall’università          |     X 0 1 2 3 4 5     |
-|         Menu mensa          |     X 0 1 2 3 4 5     |
-|         Controllo orari navetta          |     X 0 1 2 3 4 5     |
-|         Vendita libri          |     X 0 1 2 3 4 5     |
-| Acquisto libri | X 0 1 2 3 4 5 |
+|                Requirements                | Increasing importance |
+| :----------------------------------------: | :-------------------: |
+| Visibilità piano di studi e libretto voti  |     X 0 1 2 3 4 5     |
+|       Statistiche andamento carriera       |     X 0 1 2 3 4 5     |
+| Statistiche valutazioni corsi e professori |     X 0 1 2 3 4 5     |
+|           Orari lezioni ed esami           |     X 0 1 2 3 4 5     |
+|            News dall’università            |     X 0 1 2 3 4 5     |
+|                 Menù mensa                 |     X 0 1 2 3 4 5     |
+|          Controllo orari navetta           |     X 0 1 2 3 4 5     |
+|               Vendita libri                |     X 0 1 2 3 4 5     |
+|               Acquisto libri               |     X 0 1 2 3 4 5     |
+|             Chat tra studenti              |     X 0 1 2 3 4 5     |
+|           Iscrizione agli esami            |     X 0 1 2 3 4 5     |
 
-Scrivi altri requisiti che hai o non vuoi nel modello che abbiamo fornito, e classificali secndo quali sono più importanti per te.
+Scrivi altri requisiti che desideri o non vuoi nel modello che abbiamo fornito, e classificali secondo quali sono più importanti per te.
 
 | Requirements | Increasing importance |
 | :----------: | :-------------------: |
@@ -228,7 +230,7 @@ Distribuisci i punti tra i requisiti desiderati nella domanda precedente. Assegn
 |         Iscrizione agli esami          |         |
 |         Orari lezioni ed esami          |         |
 |         News dall’università          |         |
-|         Menu mensa          |         |
+|         Menù mensa         |         |
 |         Controllo orari navetta          |         |
 |         Vendita libri          |         |
 | Acquisto libri | |
@@ -250,24 +252,17 @@ Quanto ti importa di UniPocket? Dai un voto da 0 (non mi importa) a 5 (mi import
 
 ### Domanda 23
 
-Potresti partecipare a più iniziative se ti venissero proposte quelle di tuo interesse?
-Dai un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
-
-0 1 2 3 4 5
-
-### Domanda 24
-
 Cosa ti aspetti da UniPocket?
 
-### Domanda 25
+### Domanda 24
 
 Chi pensi che sia interessato a questo progetto e come?
 
-### Domanda 26
+### Domanda 25
 
 Di quali idee parlate tu e i tuoi compagni per migliorare <>?
 
-### Domanda 27
+### Domanda 26
 
 In quale luogo pensi di utilizzare questa applicazione?
 
