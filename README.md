@@ -54,19 +54,7 @@ Il sistema UniPocket ha due diversi tipi di utenti: studenti e docenti<!--valuta
 - ....
 - <!--L'identità di ogni utente è protetta-->
 
-###  Definitions, acronyms, and abbreviations
-
-<!--valutare se tenere-->
-
-### References  
-
-<!--contenuto-->
-
-### Overview	 
-
-<!--contenuto-->
-
-## Sistema corrente
+## Sistem as-is
 
 L'applicazione si propone come un'alternativa che unisce al suo interno diversi sistemi preesistenti. Al momento per visualizzare la carriera universitaria e gli orari delle aule è infatti necessario l'utilizzo di due applicazioni differenti. Alcune informazioni invece non risultano disponibili da alcuna di esse ma sono consultabili solamente mediante siti web.
 Appare dunque chiaro che vi è una frammentazione dell'informazione che fa si che gli utenti possano trovarsi confusi o poco soddisfatti dei sistemi in uso. Avere un singolo applicativo mediante il quale è possibile svolgere ogni tipo di attività porterebbe alla semplificazione della vita universitaria e magari ad una maggiore inclusione da parte degli studenti.
@@ -99,7 +87,7 @@ L'applicazione universitaria UniPocket (per ora dedicata alla Bicocca ma possibi
 - Controllo orari navetta
 - Vendita libri
 
-## Proposed system
+## System to-be
 La terza sezione documenta l'elicitazione dei requisiti e il modello di analisi del nuovo sistema.
 
 ### Panoramica/Overview
