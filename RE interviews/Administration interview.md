@@ -1,12 +1,12 @@
-# Requirements Elicitation Interview
+# Administration Requirements Elicitation Interview
 
-L'interview viene effettuata allo scopo di comprendere quali dati sono rilevanti per effettuare un'analisi da parte dell'amministrazione universitaria e come possono essere visualizzati e utilizzati per migliorare i servizi offerti al personali e agli studenti.
+L'interview viene effettuata allo scopo di comprendere quali dati sono rilevanti per effettuare un'analisi da parte dell'amministrazione universitaria e come possono essere visualizzati e utilizzati per migliorare i servizi offerti al personale e agli studenti.
 Viene dunque dapprima compreso lo stato attuale dell'arte e successivamente vengono poste delle domande circa i possibili miglioramenti e soluzioni che potrebbero portare dei benefici.
 
 ## Sistema corrente
 
 - Come viene effettuata al momento l'analisi dei questionari svolti da studenti e professori?
-- Esa produce risultati considerevoli utili al miglioramento dei servizi?
+- Essa produce risultati considerevoli utili al miglioramento dei servizi?
 - Quali tipologie di dati sono disponibili?
 - Il processo di analisi e consultazione risulta confortevole?
 

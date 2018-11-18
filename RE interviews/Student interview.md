@@ -1,4 +1,4 @@
-# Requirements Elicitation Interview
+# Student Requirements Elicitation Interview
 
 L'interview viene effettuata allo scopo di comprendere la soddisfazione generale degli studenti riguardo l'utilizzo di applicativi offerti dall'università e da terze parti per la gestione della loro carriera universitaria, con conseguente identificazione di una soluzione.
 Viene dunque dapprima compreso il grado di soddisfazione degli studenti e quali sono le problematiche esistenti.
@@ -17,3 +17,7 @@ Successivamente vengono poste delle domande circa le possibili soluzioni che pot
 - Pensi che un'unica applicazione possa rendere la tua esperienza migliore?
 - Cosa desideresti ottenere da questa?
 - Potresti partecipare a più iniziative universitarie se ti venissero proposte in base ai tuoi interessi?
+
+
+
+Chi pensi che sia influenzato (positivo e negativo) dal progetto e come?
