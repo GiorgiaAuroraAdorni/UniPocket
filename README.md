@@ -172,10 +172,19 @@ Priorità delle parti interessate. (es. categoria 1 con diritti, cateoria 2 con 
 
 ## Interviews
 
-- quale tipo di informazioni che dovrebbero essere scoperte
+<!--- quale tipo di informazioni che dovrebbero essere scoperte
 - perché alcune domande sono state scelte
 - come l'intervista / questionario è organizzato logicamente (gruppi di domande)
-- perché un ordine specifico per le domande
+- perché un ordine specifico per le domande-->
+
+Per quanto riguarda le interview, sono stati redatti documenti differenti in base allo stakeholder interessato. Dal punto di vista pratico è stato selezionato un set limitato di domande da porre al fine di ottenere informazioni specifiche e mirate. Esse risultano volutamente non eccessivamente numerose, così da poter lasciare spazio a un libero dialogo, al fine di esplorare e comprendere meglio il sistema corrente, le problematiche e le eventuali soluzioni possibili dal suo punto di vista. Le interview inizieranno dunque con la parte strutturata, costituita dalle domande definite nei documenti e proseguiranno con una parte non strutturata e libera.
+
+Di seguito vengono riportate le informazioni che è necessario ottenere da ciascuno stakeholder:
+- Gli studenti hanno la possibilità di esporre la soddisfazione generale riguardo la ricezione di informazioni, l'utilizzo di applicativi offerti dall'università e da terze parti per la gestione della loro carriera universitaria, con conseguente identificazione di una soluzione.
+- I professori possono esprimere la loro soddisfazione riguardo le procedure e l'utilizzo di applicativi offerti dall'università. Sono in grado di identificare le problematiche esistenti, poichè consuenti utilizzatori dei sistemi e dunque potenzialmente capaci di identificare migliorie dal punto di vista procedurale e comunicativo all'interno dell'ambiente universitario.
+- L'università ha la capacità di identificare quali dati sono rilevanti per effettuare analisi e come possono essere visualizzati e utilizzati per migliorare i servizi offerti al personale e agli studenti.
+
+Successivamente ad ogni interview viene trascritto un report per riassumere ed evidenziare le criticità e i punti di maggior interesse che sono emersi dal processo. Tale report viene sottoposto quindi allo stakeholder che deve confermare o rifinire ciò che è stato riportato. Risulta possibile a questo punto effettuare un'analisi su quanto trascritto e valutare come viene ritenuto adeguato procedere.
 
 ## Questionnaires
 
