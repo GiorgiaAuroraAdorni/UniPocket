@@ -213,6 +213,191 @@ Quanto ti importa di UniPocket? Per favore selezione la risposta appropriata.
 
 
 
+### Domanda 1
+
+Utilizzi qualche applicazione per controllare il tuo piano di studi, media, base di laurea etc?
+
+- [ ] Si
+- [ ] No
+
+### Domanda 2
+
+Utilizzi qualche applicazione per controllare l'orario delle lezioni?
+
+- [ ] Si
+- [ ] No
+
+### Domanda 3
+
+Utilizzi qualche applicazione per controllare gli esami?
+
+- [ ] Si
+- [ ] No
+
+### Domanda 4
+
+Quanto sei soddisfatto del sistema di prenotazione degli esami e gestione della carriera?
+
+- [ ] Poco
+- [ ] Un po'
+- [ ] Tanto
+
+### Domanda 5
+
+Solitamente vendi i tuoi libri universitari?
+
+- [ ] Si
+- [ ] No
+
+### Domanda 6
+
+Utilizzi un'applicazione per venderli?
+
+- [ ] Si
+- [ ] No
+
+### Domanda 7
+
+Con quale grado di difficoltà riesci a vendere i tuoi libri?
+
+- [ ] Basso
+- [ ] Medio
+- [ ] Alto
+
+### Domanda 8
+
+Trovi difficoltoso utilizzare diversi sistemi per svolgere diverse attività nell'ambito universitario?
+Dai un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
+
+0 1 2 3 4 5
+
+### Domanda 9
+
+Quanto tempo potresti risparmiare grazie a una singola applicazione per gestire tutto?
+
+- [ ] Poco
+- [ ] Un po'
+- [ ] Tanto
+
+### Domanda 10
+
+Utilizzeresti quest'applicazione quotidianamente?
+Dai un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
+
+0 1 2 3 4 5
+
+### Domanda 11
+
+Partecipi spesso a eventi/attività organizzate dall'università?
+Dai un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
+
+0 1 2 3 4 5
+
+### Domanda 12
+
+Sei a conoscenza degli eventi/attività organizzate dall'università?
+Dai un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
+
+0 1 2 3 4 5
+
+### Domanda 13
+
+Potresti partecipare a più iniziative se ti venissero proposte quelle di tuo interesse?
+Dai un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
+
+0 1 2 3 4 5
+
+### Domanda 14
+
+Di seguito è riportato un elenco di requisiti.
+Dai un voto da 0 (non importante per te) a 5 (molto importante per te). Cerchia la X per i requisiti che non vuoi attivamente nel sistema.
+
+
+
+|     Requirements     | Increasing importance |
+| :------------------: | :-------------------: |
+| Visibilità piano di studi, libretto voti |     X 0 1 2 3 4 5     |
+|   Statistiche per studenti   |     X 0 1 2 3 4 5     |
+|         Iscrizione agli esami          |     X 0 1 2 3 4 5     |
+|         Orari lezioni ed esami          |     X 0 1 2 3 4 5     |
+|         News dall’università          |     X 0 1 2 3 4 5     |
+|         Menu mensa          |     X 0 1 2 3 4 5     |
+|         Controllo orari navetta          |     X 0 1 2 3 4 5     |
+|         Vendita libri          |     X 0 1 2 3 4 5     |
+
+Scrivi altri requisiti che hai o non vuoi nel modello che abbiamo fornito. Si prega di valutare anche i requisiti.
+
+| Requirements | Increasing importance |
+| :----------: | :-------------------: |
+|              |     X 0 1 2 3 4 5     |
+|              |     X 0 1 2 3 4 5     |
+|              |     X 0 1 2 3 4 5     |
+
+### Domanda 15
+
+Ti vengono dati 100 punti.
+Distribuisci i punti tra i requisiti desiderati nella domanda 2. Assegna più punti ai requisiti che sono più importanti per te.
+
+| Requirements | Points |
+| :----------: | :----: |
+| Visibilità piano di studi, libretto voti |         |
+|   Statistiche per studenti   |         |
+|         Iscrizione agli esami          |         |
+|         Orari lezioni ed esami          |         |
+|         News dall’università          |         |
+|         Menu mensa          |         |
+|         Controllo orari navetta          |         |
+|         Vendita libri          |         |
+
+### Domanda 16
+
+Quanto tempo potresti risparmiare grazie a UniPocket?
+
+- [ ] Poco
+- [ ] Un po'
+- [ ] Tanto
+
+### Domanda 17
+
+Quanto ti importa di UniPocket? Per favore selezione la risposta appropriata.
+
+- [ ] Per niente
+- [ ] Un po'
+- [ ] Così così
+- [ ] Tanto
+
+### Domanda 18
+
+Potresti partecipare a più iniziative se ti venissero proposte quelle di tuo interesse?
+Dai un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
+
+0 1 2 3 4 5
+
+### Domanda 19
+
+Cosa ti aspetti da UniPocket?
+
+### Domanda 20
+
+Cosa ti aspetti da UniPocket?
+
+### Si prega di scrivere qualsiasi altro commento qui sotto.
+
+
+
+
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+
+
+
+
+
 
 
 
