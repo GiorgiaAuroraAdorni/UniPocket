@@ -188,10 +188,12 @@ Successivamente ad ogni interview viene trascritto un report per riassumere ed e
 
 ## Questionnaires
 
-- quale tipo di informazioni che dovrebbero essere scoperte
+<!--- quale tipo di informazioni che dovrebbero essere scoperte
 - perché alcune domande sono state scelte
 - come l'intervista / questionario è organizzato logicamente (gruppi di domande)
-- perché un ordine specifico per le domande
+- perché un ordine specifico per le domande-->
+
+I questionari, come le interview, sono molteplici e differenti in base allo stakeholder. Essi sono costituiti principalmente da domande chiuse e a scelta multipla così da poter ottenere in modo rapido e da svariate persone informazioni soggettive circa il sistema attuale e il suo utilizzo. Vengono utilizzati inoltre per mostrare il grado di interessamento alla soluzione proposta da UniPocket. Essi non mirano alla sostituzione delle interview ma solamente all'acquisizione di informazioni per migliorarle e dar maggior risalto a ciò che risulta veramente importante.
 
 ## <!-- Analisi dei risultati analizzati-->
 
