@@ -14,7 +14,7 @@ Basso Matteo 807628
 
 ## Obiettivi del documento
 
-Vengono descritte nel seguente documento le procedure di estrazione dei requisiti i conseguenti risultati, incluse attività di analisi. Vengono inoltre riportate le funzionalità del sistema e ciò che intende risolvere, fungendo da base contrattuale tra il cliente e lo sviluppatore.
+Vengono descritte nel seguente documento le procedure di estrazione dei requisiti e i conseguenti risultati, incluse attività di analisi. Vengono inoltre riportate le funzionalità del sistema e ciò che intende risolvere, fungendo da base contrattuale tra il cliente e lo sviluppatore.
 Il documento viene redatto nella lingua del dominio del business / competenza del cliente (nel nostro caso l'italiano).
 
 In questo documento viene descritta l'applicazione **UniPocket** e viene definita una strategia per acquisire conoscenze, compresa la proposta di una soluzione.
@@ -139,27 +139,21 @@ Poiché non tutti gli stakeholders possiedono gli attributi di cui sopra (per es
 
 Inoltre sono state definite la priorità e i diritti di ciascuna categoria (parte interessata), in modo da poter scegliere tra due requisiti conttrastanti e risolvere situazioni in cui abbiano uguale priorità e non possano essere scambiati in modo efficace. 
 
-
-
 Esaminiamo ciascuno dei candidati in modo più dettagliato: 
 
 - Committente
 - L'università è interessata a ricevere i dati riguardo statistiche ed altro, non ha il diritto di decidere come sarà il strutturata l'applicazione ma è in grado di fornire dei vincoli esterni al progetto, per esempio quali sono i dati che è interessati a raccogliere e in che modo l'applicazione può aiutare a farlo. Di conseguenza può diventare uno stakeholder con diritti limitati.
-- Le segreterie online possono causare difficoltà nel processo di richiesta dei dati dello studente/professore se alcuni aspetti interferiscono con i loro diritti, ma non sono considerate come stakeholder in quanto il loro impatto principale, se presente, sarà come una fonte di vincoli. 
-- Enti della privacy (garante della protezione dei dati personali), che impongono dei regolamenti sulla gestione dei dati degli utenti, impongono dei vincoli "normativi" ma non sono parti interessate. Il loro principale impatto sarà come una fonte di vincoli. 
 - Gli studenti hanno la possibilità di accedere all'applicazione e monitorare la loro carriera universitaria. Risultano rilevanti per il processo di elicitazione per identificare e risolvere le problematiche circa il reperimento di alcune informazioni che possono risultare utili quotidianamente. Inoltre sono in grado di fornire opinioni riguardo i sistemi correnti, ovvero le motivazioni del loro scarso utilizzo.
 - I professori hanno la possibilità di accedere all'applicazione ed effettuare svariate attività, tra cui la prenotazione delle aule e dei laboratori, l'inserimento di prove d'esame e la visualizzazione delle statistiche relative i propri corsi. Essi risultano coloro che utilizzano l'applicazione per gestire le attività universitarie ed è dunque necessario che il sistema risulti comodo e veloce da utilizzare secondo i loro bisogni. Sono in grado di identificare quali processi possono rendere la comunicazione con gli studenti difficoltosa e una possibile soluzione.
+- Le segreterie online possono causare difficoltà nel processo di richiesta dei dati dello studente/professore se alcuni aspetti interferiscono con i loro diritti, ma non sono considerate come stakeholder in quanto il loro impatto principale, se presente, sarà come una fonte di vincoli. 
 - L'amministrazione universitaria deve essere in grado di accedere a statistiche e informazioni relative l'attività svolta da studenti e professori. Essa risulta rilevante per comprendere quali sono i dati di fondamentale interesse e quali schermate possono essere sviluppate per la loro visualizzazione e analisi. È necessario determinare come l'università può essere in grado di valutare la soddisfazione complessiva e come alcuni cambiamenti si riflettano sugli utenti.
+- Enti della privacy (garante della protezione dei dati personali), che impongono dei regolamenti sulla gestione dei dati degli utenti, impongono dei vincoli "normativi" ma non sono parti interessate. Il loro principale impatto sarà come una fonte di vincoli. 
 
 <!--una o più strategie di elicitazione associate a ciascun stakeholder: motivare le strategie e descrivere il tipo di informazioni che saranno acquisite sfruttando le strategie indicate.-->
 
 Un requisito è una dichiarazione che identifica un attributo, una capacità, una caratteristica o una qualità necessari di un sistema affinché possa avere valore e utilità per uno stakeholder.
 
-
-
 Priorità delle parti interessate. (es. categoria 1 con diritti, cateoria 2 con diritti limitati)
-
-
 
 ### System models
 
