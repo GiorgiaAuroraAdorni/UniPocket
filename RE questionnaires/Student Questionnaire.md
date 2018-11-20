@@ -31,238 +31,213 @@ Dipartimento:
 
 ### Domanda 1
 
-Utilizzi qualche applicazione per controllare il tuo piano di studi, media, base di laurea etc?
+Utilizzi qualche applicazione per controllare il tuo piano di studi, media, base di laurea etc? Se si, quale?
 
-- [ ] Si
-- [ ] No
+- [ ] Uniwhere
+- [ ] iStudiez
+- [ ] Libretto Universitario
+- [ ] MyLibretto
+- [ ] 110eLode
+- [ ] Non ne utilizzo nessuna
+- [ ] Altro
 
 ### Domanda 2
 
-Utilizzi qualche applicazione per controllare l'orario delle lezioni?
+Utilizzi qualche applicazione per controllare l'orario delle lezioni? Se si, quale?
 
-- [ ] Si
-- [ ] No
+- [ ] Uniwhere
+- [ ] iStudiez
+- [ ] UnimibCourse
+- [ ] Time Table
+- [ ] Non ne utilizzo nessuna
+- [ ] Altro
 
 ### Domanda 3
 
-Utilizzi qualche applicazione per controllare i risultati degli esami?
+Utilizzi qualche applicazione per controllare i risultati degli esami? Se si, quale?
 
-- [ ] Si
-- [ ] No
+- [ ] Uniwhere
+- [ ] iStudiez
+- [ ] Libretto Universitario
+- [ ] MyLibretto
+- [ ] 110eLode
+- [ ] Non ne utilizzo nessuna
+- [ ] Altro
 
 ### Domanda 4
 
 Quanto sei soddisfatto del sistema di prenotazione degli esami e gestione della carriera?
+Dai un voto da 0 (per niente soddisfatto) a 5 (molto soddisfatto).
 
-- [ ] Poco
-- [ ] Un po'
-- [ ] Tanto
+0 1 2 3 4 5
 
 ### Domanda 5
 
 Solitamente vendi i tuoi libri universitari o li acquisti usati?
 
-- [ ] Si li vendo
-- [ ] Si li compro usati
-- [ ] Si, li vendo e acquisto
-- [ ] No
+- [ ] Mi è capitato di vendere libri universitari usati
+- [ ] Mi è capitato di acquistare libri universitari usati
+- [ ] Mi è capitato di vendere e acquistare libri universitari usati
+- [ ] Non mi è mai capitato
 
 ### Domanda 6
 
-Utilizzi un'applicazione per vendere o acquistare libri universitari usati?
+Utilizzi un'applicazione per vendere o acquistare libri universitari usati? Se si, quale? *
 
-- [ ] Si
-- [ ] No
+- [ ] Libraccio.it
+- [ ] PickMyBook
+- [ ] Booketplace
+- [ ] Non ne utilizzo nessuna
+- [ ] Altro
 
 ### Domanda 7
 
-Con quale grado di difficoltà riesci a vendere i tuoi libri?
+Quanto trovi difficile vendere i tuoi libri?
+Dai un voto da 0 (molto facile) a 5 (molto difficile).
 
-- [ ] Basso
-- [ ] Medio
-- [ ] Alto
+0 1 2 3 4 5
 
 ### Domanda 8
 
-Utilizzi un'applicazione per studenti universitari?
-
-- [ ] Si
-- [ ] No
+Utilizzi un'applicazione per studenti universitari? Se si dicci quale.
 
 ### Domanda 9
 
 Quanto spesso utilizzi applicazioni per l'università?
+Dai un voto da 0 (mai) a 5 (tutti i giorni).
 
-- [ ] Mai
-- [ ] Un volta al mese
-- [ ] Una volta a settimana
-- [ ] Più volte a settimana
-- [ ] Ogni giorno
-- [ ] Più volte al giorno
+0 1 2 3 4 5
 
 ### Domanda 10
 
 Quali attività sono consentite nella tua applicazione universitaria preferita? Seleziona una o più opzioni.
 
 - [ ] Visibilità piano di studi e libretto voti
-- [ ] Statistiche andamento carriera    
-- [ ] Statistiche valutazioni corsi e professori    
-- [ ] Orari lezioni ed esami    
-- [ ] News dall’università    
-- [ ] Menù mensa    
-- [ ] Controllo orari navetta    
-- [ ] Vendita libri    
-- [ ] Acquisto libri    
-- [ ] Chat tra studenti    
-- [ ] Iscrizione agli esami    
-- [ ] Organizzazione dello studio  
+- [ ] Statistiche andamento carriera
+- [ ] Statistiche valutazioni corsi e professori
+- [ ] Orari lezioni ed esami
+- [ ] News dall’università
+- [ ] Menù mensa
+- [ ] Controllo orari navetta
+- [ ] Vendita libri
+- [ ] Acquisto libri
+- [ ] Chat tra studenti
+- [ ] Iscrizione agli esami
+- [ ] Organizzazione dello studio
+- [ ] Altro
 
 ### Domanda 11
 
-Valuta l'importanza che avrebbe per te avere una di queste funzionalità nella tua applicazione universitaria, da 0 (non importante per te) a 5 (molto importante per te). Scegli la X per i requisiti che non vuoi attivamente nel sistema.
+Quanto trovi difficoltoso utilizzare diversi sistemi per svolgere diverse attività nell'ambito universitario?
+Dai un voto da 0 (molto semplice) a 5 (molto difficoltoso).
 
-|                Requirements                | Increasing importance |
-| :----------------------------------------: | :-------------------: |
-| Visibilità piano di studi e libretto voti  |     X 0 1 2 3 4 5     |
-|       Statistiche andamento carriera       |     X 0 1 2 3 4 5     |
-| Statistiche valutazioni corsi e professori |     X 0 1 2 3 4 5     |
-|           Orari lezioni ed esami           |     X 0 1 2 3 4 5     |
-|            News dall’università            |     X 0 1 2 3 4 5     |
-|                 Menù mensa                 |     X 0 1 2 3 4 5     |
-|          Controllo orari navetta           |     X 0 1 2 3 4 5     |
-|               Vendita libri                |     X 0 1 2 3 4 5     |
-|               Acquisto libri               |     X 0 1 2 3 4 5     |
-|             Chat tra studenti              |     X 0 1 2 3 4 5     |
-|           Iscrizione agli esami            |     X 0 1 2 3 4 5     |
-|        Organizzazione dello studio         |     X 0 1 2 3 4 5     |
-
-
+0 1 2 3 4 5
 
 ### Domanda 12
 
-Trovi difficoltoso utilizzare diversi sistemi per svolgere diverse attività nell'ambito universitario?
-Dai un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
+Quanto tempo potresti risparmiare grazie a una singola applicazione per gestire tutto?
+Dai un voto da 0 (non risparmierei tempo) a 5 (risparmierei molto tempo).
 
 0 1 2 3 4 5
 
 ### Domanda 13
 
-Quanto tempo potresti risparmiare grazie a una singola applicazione per gestire tutto?
+Utilizzeresti quest'applicazione quotidianamente?
+Dai un voto da 0 (assolutamente no) a 5 (assolutamente si).
 
-- [ ] Non risparmierei tempo
-- [ ] Risparmierei poco tempo
-- [ ] Risparmiere abbastanza tempo
-- [ ] Risparmiere molto tempo
+0 1 2 3 4 5
 
 ### Domanda 14
 
-Utilizzeresti quest'applicazione quotidianamente?
-Dai un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
+Quanto ti importa di UniPocket?
+Dai un voto da 0 (per niente) a 5 (moltissimo).
 
 0 1 2 3 4 5
 
 ### Domanda 15
-
-Quanto ti importa di UniPocket? Per favore selezione la risposta appropriata.
-
-- [ ] Per niente
-- [ ] Un po'
-- [ ] Così così
-- [ ] Tanto
-
-### Domanda 16
 
 Quanto spesso partecipi ad eventi/attività organizzate dall'università?
 Dai un voto da 0 (mai) a 5 (sempre).
 
 0 1 2 3 4 5
 
-### Domanda 17
+### Domanda 16
 
 Sei a conoscenza degli eventi/attività organizzate dall'università?
-Dai un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
+Dai un voto da 0 (mai) a 5 (sempre).
+
+0 1 2 3 4 5
+
+### Domanda 17
+
+Quanto tempo potresti risparmiare grazie a UniPocket?
+Dai un voto da 0 (non risparmierei tempo) a 5 (risparmierei molto tempo).
 
 0 1 2 3 4 5
 
 ### Domanda 18
 
-Potresti partecipare a più iniziative se ti venissero proposte quelle di tuo interesse?
-Dai un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
+Pensi che UniPocket sia importante per gli studenti?
+Dai un voto da 0 (assolutamente no) a 5 (assolutamente si).
 
 0 1 2 3 4 5
 
 ### Domanda 19
 
-Di seguito è riportato un elenco di requisiti dell'applicazione UniPocket.
-Classificali dando un voto nella colonna di destra da 0 (non importante per te) a 5 (molto importante per te). Scegli la X per i requisiti che non vuoi attivamente nel sistema.
+Valuta l'importanza che avrebbe per te avere una di queste funzionalità nella tua applicazione universitaria.
+Scegli 0 per i requisiti che non vuoi attivamente nel sistema.
 
-|                Requirements                | Increasing importance |
-| :----------------------------------------: | :-------------------: |
-| Visibilità piano di studi e libretto voti  |     X 0 1 2 3 4 5     |
-|       Statistiche andamento carriera       |     X 0 1 2 3 4 5     |
-| Statistiche valutazioni corsi e professori |     X 0 1 2 3 4 5     |
-|           Orari lezioni ed esami           |     X 0 1 2 3 4 5     |
-|            News dall’università            |     X 0 1 2 3 4 5     |
-|                 Menù mensa                 |     X 0 1 2 3 4 5     |
-|          Controllo orari navetta           |     X 0 1 2 3 4 5     |
-|               Vendita libri                |     X 0 1 2 3 4 5     |
-|               Acquisto libri               |     X 0 1 2 3 4 5     |
-|             Chat tra studenti              |     X 0 1 2 3 4 5     |
-|           Iscrizione agli esami            |     X 0 1 2 3 4 5     |
 
-Scrivi altri requisiti che desideri o non vuoi nel modello che abbiamo fornito, e classificali secondo quali sono più importanti per te.
+Visibilità piano di studi e libretto voti
+0 1 2 3 4 5
 
-| Requirements | Increasing importance |
-| :----------: | :-------------------: |
-|              |     X 0 1 2 3 4 5     |
-|              |     X 0 1 2 3 4 5     |
-|              |     X 0 1 2 3 4 5     |
+Statistiche andamento carriera (Media esami, base di laurea etc.)
+0 1 2 3 4 5
+
+Statistiche valutazioni corsi e professori
+0 1 2 3 4 5
+
+Orari lezioni ed esami
+0 1 2 3 4 5
+
+News dall’università
+0 1 2 3 4 5
+
+Menù mensa
+0 1 2 3 4 5
+
+Controllo orari navetta
+0 1 2 3 4 5
+
+Vendita libri
+0 1 2 3 4 5
+
+Acquisto libri
+0 1 2 3 4 5
+
+Chat tra studenti
+0 1 2 3 4 5
+
+Iscrizione agli esami
+0 1 2 3 4 5
 
 ### Domanda 20
 
-Ti vengono dati 100 punti.
-Distribuisci i punti tra i requisiti desiderati nella domanda precedente. Assegna più punti ai requisiti che sono più importanti per te.
-
-| Requirements | Points |
-| :----------: | :----: |
-| Visibilità piano di studi, libretto voti |         |
-|   Statistiche per studenti   |         |
-|         Iscrizione agli esami          |         |
-|         Orari lezioni ed esami          |         |
-|         News dall’università          |         |
-|         Menù mensa         |         |
-|         Controllo orari navetta          |         |
-|         Vendita libri          |         |
-| Acquisto libri | |
+Scrivi altri requisiti che desideri o non vuoi nel modello che abbiamo fornito, e classificali secondo quali sono più importanti per te.
 
 ### Domanda 21
 
-Quanto tempo potresti risparmiare grazie a UniPocket?
-
-- [ ] Non risparmierei tempo
-- [ ] Risparmierei poco tempo
-- [ ] Risparmiere abbastanza tempo
-- [ ] Risparmiere molto tempo
+Cosa ti aspetti da UniPocket?
 
 ### Domanda 22
 
-Quanto ti importa di UniPocket? Dai un voto da 0 (non mi importa) a 5 (mi importa molto).
-
-0 1 2 3 4 5
+Chi pensi che sia interessato a questo progetto e come?
 
 ### Domanda 23
 
-Cosa ti aspetti da UniPocket?
+Quali idee di cui parli con i tuoi compagni potrebbero migliorare UniPocket?
 
-### Domanda 24
-
-Chi pensi che sia interessato a questo progetto e come?
-
-### Domanda 25
-
-Di quali idee parlate tu e i tuoi compagni per migliorare <>?
-
-### Domanda 26
+### Domanda 24
 
 In quale luogo pensi di utilizzare questa applicazione?
 
@@ -271,26 +246,3 @@ In quale luogo pensi di utilizzare questa applicazione?
 <br><br><br><br><br><br>Grazie.
 
 <!-- Aggiungere questo alle domande che riteniamo più  importanti-->
-
-### Come hai trovato la domanda <n>?  
-
-Per favore cerchia la risposta appropriata.
-
-**Livello di difficoltà**
-
-- [ ] Basso
-- [x] Medio
-- [ ] Alto
-
-**Sforzo richiesto**
-
-- [ ] Basso
-- [x] Medio
-- [ ] Alto
-
-**Tempo trascorso**
-
-- [ ] Basso
-- [x] Medio
-- [ ] Alto
-
