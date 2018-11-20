@@ -1,7 +1,7 @@
 # Student Requirements Elicitation Questionnaire
 
-Come parte di un assignment presso il dipartimento di Informatica, abbiamo sviluppato un questionario per raccogliere i requisiti per un <progetto software>.
-L'indagine si propone di <raccogliere i dati del progetto per testare il metodo>. Dovrebbero essere necessari <n> minuti per completare il questionario.
+Come parte di un assignment presso il dipartimento di Informatica, abbiamo sviluppato un questionario per raccogliere i requisiti per un'applicazione mobile.
+L'indagine si propone di raccogliere opinioni circa il progetto stesso. Dovrebbero essere necessari circa 10 minuti per completare il questionario.
 Il tuo nome e le tue risposte sono confidenziali e saranno utilizzate esclusivamente per la ricerca. Grazie per la vostra partecipazione.
 
 <!--Saluti,
@@ -244,5 +244,3 @@ In quale luogo pensi di utilizzare questa applicazione?
 ### Si prega di scrivere qualsiasi altro commento qui sotto.
 
 <br><br><br><br><br><br>Grazie.
-
-<!-- Aggiungere questo alle domande che riteniamo più  importanti-->
