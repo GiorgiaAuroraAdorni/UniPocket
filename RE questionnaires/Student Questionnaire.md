@@ -82,7 +82,7 @@ Solitamente vendi i tuoi libri universitari o li acquisti usati?
 
 ### Domanda 6
 
-Utilizzi un'applicazione per vendere o acquistare libri universitari usati? Se si, quale? *
+Utilizzi un'applicazione per vendere o acquistare libri universitari usati? Se si, quale?
 
 - [ ] Libraccio.it
 - [ ] PickMyBook
@@ -99,7 +99,7 @@ Dai un voto da 0 (molto facile) a 5 (molto difficile).
 
 ### Domanda 8
 
-Utilizzi un'applicazione per studenti universitari? Se si dicci quale.
+Utilizzi un'applicazione per studenti universitari? Se si, quale?
 
 ### Domanda 9
 
