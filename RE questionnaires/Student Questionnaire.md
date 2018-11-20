@@ -4,13 +4,14 @@ Come parte di un assignment presso il dipartimento di Informatica, abbiamo svilu
 L'indagine si propone di raccogliere opinioni circa il progetto stesso. Dovrebbero essere necessari circa 10 minuti per completare il questionario.
 Il tuo nome e le tue risposte sono confidenziali e saranno utilizzate esclusivamente per la ricerca. Grazie per la vostra partecipazione.
 
-Saluti, Giorgia Adorni e Matto Basso
-Dipartimento di Informatica Universita degli Studi di Milano-Bicocca 
+Saluti, Giorgia Adorni e Matto Basso  
+Dipartimento di Informatica Universita degli Studi di Milano-Bicocca  
 Corso di Processo e Sviluppo del Software
 
 ## Il progetto UniPocket
 
 L'applicazione è nata per fornire uno strumento integrato per la gestione della propria carriera universitaria, al momento infatti è necessario consultare diverse fonti per ottenere e gestire tutte le informazioni necessarie.
+
 Vengono di seguito riepilogate le funzioni/l'ambito di UniPocket:
 
 1. Visibilità piano di studi, libretto voti
@@ -20,12 +21,13 @@ Vengono di seguito riepilogate le funzioni/l'ambito di UniPocket:
 5. News dall’università
 6. Menù mensa
 7. Controllo orari navetta
-8. Vendita libri
+8. Vendita e acquisto libri
 
 ## Questionnaire for Requirements Elicitation
 
 Si prega di completare le seguenti informazioni.
-Nome: 
+
+Nome:  
 Dipartimento:
 
 ### Domanda 1

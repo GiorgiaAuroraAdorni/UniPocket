@@ -30,7 +30,7 @@ Definire chi è il **committente** e chi sono gi **sviluppatori**-->
 Il sistema UniPocket e i suoi servizi<!--elencare enventuali nomi per il servizio voti, statistiche etc.--> sono progettati per essere una singola applicazione destinata a dispositivi smartphone (iOS e Android). 
 
 ## System to-be
-UniPocket è un applicazione mobile universitaria indirizzata a due principali gruppi di utenti: studenti e docenti (dell'Università degli Studi di Milano-bicocca). 
+UniPocket è un applicazione mobile universitaria indirizzata a due principali gruppi di utenti: studenti e docenti (dell'Università degli Studi di Milano-Bicocca). 
 
 Essa prevede numerosi gruppi di funzionalità, differenziati anche sulla base dell'utente. In particolare, effettuando l'accesso (tramite il sistema delle segreterie online) e acconsentendo l'accesso ai dati, sono disponibili le seguenti funzionalità: 
 
@@ -46,7 +46,7 @@ Essa prevede numerosi gruppi di funzionalità, differenziati anche sulla base de
 - Statistiche relative l'andamento della carriera, come media dei voti degli esami e base di laurea
 - Statistiche relative ai corsi difficoltà (es. valutazione dei docenti, valutazione sull'organizzazione e  difficolta di un corso etc.)
 - Iscrizione agli esami
-- Vendita e acquisto libri usati e non
+- Vendita e acquisto di libri usati e non
 
 #### Professori
 
@@ -70,7 +70,7 @@ Esaminando questi cinque candidati abbiamo definito che solo tre sono stakeholde
 <!-- MANCA QUESTO Inoltre, prima di poter procedere alla fase di sottomissione dei questionari e delle interviste, abbiamo definito le priorità e i diritti di ciascuna categoria (parte interessata), in modo da poter scegliere tra due requisiti contrastanti e risolvere situazioni in cui abbiano uguale priorità e non possano essere scambiati in modo efficace. 
 In seguito, dopo aver compreso il ruolo, le responsabilità e le interazioni tra gli stakeholders, abbiamo  identificato i rappresentanti appropriati che possono parlare a nome di un determinato gruppo di stakeholders, in modo da ricevere un contributo per il  processo di sollecitazione dei requisiti del sistema.-->
 
-<!-- Idealmente, un rappresentante adeguato per gli stakeholder deve:  
+<!-- QUESTO é SOLO UN APPUNTO PER LA PROSSIMA SUBMIT Idealmente, un rappresentante adeguato per gli stakeholder deve:  
 • comprendere il dominio aziendale;  
 • comprendere questa particolare area applicativa all'interno del dominio aziendale;  
 • capire il problema specifico;   
@@ -81,7 +81,7 @@ Poiché non tutti gli stakeholders possiedono gli attributi di cui sopra (per es
 
 ### <!--System models-->
 
-<!--Eventuali scenari, storyboard e mockup dell'applicazione: modelli illustrativi, l'interfaccia utente del sistema e i percorsi di navigazione che rappresentano la sequenza di schermate-->
+<!-- PROSSIMA SUBMIT Eventuali scenari, storyboard e mockup dell'applicazione: modelli illustrativi, l'interfaccia utente del sistema e i percorsi di navigazione che rappresentano la sequenza di schermate-->
 
 ## Questionnaires
 
@@ -106,7 +106,7 @@ Sempre nella prima sezione, a seguito di tali domande, ne vengono poste alcune r
 Nelle due sezioni successive viene richiesto di valutare il grado di interessamento alle singole funzionalità, così da identificare al meglio gli interessi degli utenti e potergli dare priorità e rilievo.
 Vengono infine poste alcune domanda aperte per comprendere al meglio ulteriori idee dell'utente, commenti ed interessamente complessivo.
 
-<!--Manca spiegazione della ridondanza di alcune domande, e la spiegazione della scala di gratimento usata -->
+<!--MANCA QUESTO: spiegazione della ridondanza di alcune domande, e la spiegazione della scala di gratimento usata -->
 
 ## Interviews
 
