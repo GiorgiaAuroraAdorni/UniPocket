@@ -1,7 +1,8 @@
 # Student Requirements Elicitation Questionnaire
 
 Come parte di un assignment presso il dipartimento di Informatica, abbiamo sviluppato un questionario per raccogliere i requisiti per un'applicazione mobile.
-L'indagine si propone di raccogliere opinioni circa il progetto stesso. Dovrebbero essere necessari circa 10 minuti per completare il questionario.
+L'indagine si propone di raccogliere opinioni circa il progetto stesso.  
+Dovrebbero essere necessari circa 10 minuti per completare il questionario.  
 Il tuo nome e le tue risposte sono confidenziali e saranno utilizzate esclusivamente per la ricerca. Grazie per la vostra partecipazione.
 
 Saluti, Giorgia Adorni e Matto Basso  
@@ -12,7 +13,7 @@ Corso di Processo e Sviluppo del Software
 
 L'applicazione è nata per fornire uno strumento integrato per la gestione della propria carriera universitaria, al momento infatti è necessario consultare diverse fonti per ottenere e gestire tutte le informazioni necessarie.
 
-Vengono di seguito riepilogate le funzioni/l'ambito di UniPocket:
+Vengono di seguito riepilogate le funzioni di UniPocket:
 
 1. Visibilità piano di studi, libretto voti
 2. Statistiche relative alla difficoltà esami, media voti, base di laurea, andamento della carriera, valutazioni ai professori
@@ -67,7 +68,7 @@ Utilizzi qualche applicazione per controllare i risultati degli esami? Se si, qu
 
 ### Domanda 4
 
-Quanto sei soddisfatto del sistema di prenotazione degli esami e gestione della carriera?
+Quanto sei soddisfatto del sistema di prenotazione degli esami e gestione della carriera?  
 Dai un voto da 0 (per niente soddisfatto) a 5 (molto soddisfatto).
 
 0 1 2 3 4 5
@@ -93,7 +94,7 @@ Utilizzi un'applicazione per vendere o acquistare libri universitari usati? Se s
 
 ### Domanda 7
 
-Quanto trovi difficile vendere i tuoi libri?
+Quanto trovi difficile vendere i tuoi libri?  
 Dai un voto da 0 (molto facile) a 5 (molto difficile).
 
 0 1 2 3 4 5
@@ -104,14 +105,15 @@ Utilizzi un'applicazione per studenti universitari? Se si, quale?
 
 ### Domanda 9
 
-Quanto spesso utilizzi applicazioni per l'università?
+Quanto spesso utilizzi applicazioni per l'università?  
 Dai un voto da 0 (mai) a 5 (tutti i giorni).
 
 0 1 2 3 4 5
 
 ### Domanda 10
 
-Quali attività sono consentite nella tua applicazione universitaria preferita? Seleziona una o più opzioni.
+Quali attività sono consentite nella tua applicazione universitaria preferita?  
+Seleziona una o più opzioni.
 
 - [ ] Visibilità piano di studi e libretto voti
 - [ ] Statistiche andamento carriera
@@ -129,97 +131,96 @@ Quali attività sono consentite nella tua applicazione universitaria preferita? 
 
 ### Domanda 11
 
-Quanto trovi difficoltoso utilizzare diversi sistemi per svolgere diverse attività nell'ambito universitario?
+Quanto trovi difficoltoso utilizzare diversi sistemi per svolgere diverse attività nell'ambito universitario?  
 Dai un voto da 0 (molto semplice) a 5 (molto difficoltoso).
 
 0 1 2 3 4 5
 
 ### Domanda 12
 
-Quanto tempo potresti risparmiare grazie a una singola applicazione per gestire tutto?
+Quanto tempo potresti risparmiare grazie a una singola applicazione per gestire tutto?  
 Dai un voto da 0 (non risparmierei tempo) a 5 (risparmierei molto tempo).
 
 0 1 2 3 4 5
 
 ### Domanda 13
 
-Utilizzeresti quest'applicazione quotidianamente?
+Utilizzeresti quest'applicazione quotidianamente?  
 Dai un voto da 0 (assolutamente no) a 5 (assolutamente si).
 
 0 1 2 3 4 5
 
 ### Domanda 14
 
-Quanto ti importa di UniPocket?
+Quanto ti importa di UniPocket?  
 Dai un voto da 0 (per niente) a 5 (moltissimo).
 
 0 1 2 3 4 5
 
 ### Domanda 15
 
-Quanto spesso partecipi ad eventi/attività organizzate dall'università?
+Quanto spesso partecipi ad eventi/attività organizzate dall'università?  
 Dai un voto da 0 (mai) a 5 (sempre).
 
 0 1 2 3 4 5
 
 ### Domanda 16
 
-Sei a conoscenza degli eventi/attività organizzate dall'università?
+Sei a conoscenza degli eventi/attività organizzate dall'università?  
 Dai un voto da 0 (mai) a 5 (sempre).
 
 0 1 2 3 4 5
 
 ### Domanda 17
 
-Pensi che UniPocket potrebbe farti guadagnare tempo?
+Pensi che UniPocket potrebbe farti guadagnare tempo?  
 Dai un voto da 0 (non guadagnerei tempo) a 5 (guadagnerei molto tempo).
 
 0 1 2 3 4 5
 
 ### Domanda 18
 
-Pensi che UniPocket sia importante per gli studenti?
+Pensi che UniPocket sia importante per gli studenti?  
 Dai un voto da 0 (assolutamente no) a 5 (assolutamente si).
 
 0 1 2 3 4 5
 
 ### Domanda 19
 
-Valuta l'importanza che avrebbe per te avere una di queste funzionalità nella tua applicazione universitaria.
+Valuta l'importanza che avrebbe per te avere una di queste funzionalità nella tua applicazione universitaria.  
 Scegli 0 per i requisiti che non vuoi attivamente nel sistema.
 
-
-Visibilità piano di studi e libretto voti
+Visibilità piano di studi e libretto voti  
 0 1 2 3 4 5
 
-Statistiche andamento carriera (Media esami, base di laurea etc.)
+Statistiche andamento carriera (Media esami, base di laurea etc.)  
 0 1 2 3 4 5
 
-Statistiche valutazioni corsi e professori
+Statistiche valutazioni corsi e professori  
 0 1 2 3 4 5
 
-Orari lezioni ed esami
+Orari lezioni ed esami  
 0 1 2 3 4 5
 
-News dall’università
+News dall’università  
 0 1 2 3 4 5
 
-Menù mensa
+Menù mensa  
 0 1 2 3 4 5
 
-Controllo orari navetta
+Controllo orari navetta  
 0 1 2 3 4 5
 
-Vendita libri
+Vendita libri  
 0 1 2 3 4 5
 
-Acquisto libri
+Acquisto libri  
 0 1 2 3 4 5
 
-Chat tra studenti
+Chat tra studenti  
 0 1 2 3 4 5
 
-Iscrizione agli esami
+Iscrizione agli esami  
 0 1 2 3 4 5
 
 ### Domanda 20
