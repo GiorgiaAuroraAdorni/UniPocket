@@ -4,10 +4,9 @@ Come parte di un assignment presso il dipartimento di Informatica, abbiamo svilu
 L'indagine si propone di raccogliere opinioni circa il progetto stesso. Dovrebbero essere necessari circa 10 minuti per completare il questionario.
 Il tuo nome e le tue risposte sono confidenziali e saranno utilizzate esclusivamente per la ricerca. Grazie per la vostra partecipazione.
 
-<!--Saluti,
-Nome Cognome
+Saluti, Giorgia Adorni e Matto Basso
 Dipartimento di Informatica Universita degli Studi di Milano-Bicocca 
-Corso di Processo e Sviluppo del Software -->
+Corso di Processo e Sviluppo del Software
 
 ## Il progetto UniPocket
 
