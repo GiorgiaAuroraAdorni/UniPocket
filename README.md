@@ -1,7 +1,7 @@
 # UniPocket
 Secondo Assignment di Processo e Sviluppo del Software.
 
-Version 1.0 – 15.11.2018
+Version 1.0 – 20.11.2018
 
 Adorni Giorgia 806787  
 Basso Matteo 807628
