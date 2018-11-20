@@ -37,7 +37,6 @@ Il sistema UniPocket e i suoi servizi<!--elencare enventuali nomi per il servizi
 
 UniPocket è un applicazione universitaria, utilizzata per lo più da studenti ma anche docenti. <!--aggiungere i servizi offerti-->
 
-
 - opportunità tecnologiche, condizioni di mercato
 - obiettivi di miglioramento
 - vincoli organizzativi / tecnici sul futuro sistema
@@ -129,10 +128,10 @@ Inoltre sono state definite la priorità e i diritti di ciascuna categoria (part
 
 Esaminiamo ciascuno dei candidati in modo più dettagliato: 
 
-- Committente
+- Il **committente**
 - Gli **studenti** hanno la possibilità di accedere all'applicazione e monitorare la loro carriera universitaria. Risultano rilevanti per il processo di elicitazione per identificare e risolvere le problematiche circa il reperimento di alcune informazioni che possono risultare utili quotidianamente. Inoltre sono in grado di fornire opinioni riguardo i sistemi correnti, ovvero le motivazioni del loro scarso utilizzo.
 - I **professori** hanno la possibilità di accedere all'applicazione ed effettuare svariate attività, tra cui la prenotazione delle aule e dei laboratori, l'inserimento di prove d'esame e la visualizzazione delle statistiche relative i propri corsi. Essi risultano coloro che utilizzano l'applicazione per gestire le attività universitarie ed è dunque necessario che il sistema risulti comodo e veloce da utilizzare secondo i loro bisogni. Sono in grado di identificare quali processi possono rendere la comunicazione con gli studenti difficoltosa e una possibile soluzione.
-- Le segreterie online possono causare difficoltà nel processo di richiesta dei dati dello studente/professore se alcuni aspetti interferiscono con i loro diritti, ma non sono considerate come stakeholder in quanto il loro impatto principale, se presente, sarà come una fonte di vincoli. 
+- Le **segreterie online** possono causare difficoltà nel processo di richiesta dei dati dello studente/professore se alcuni aspetti interferiscono con i loro diritti, ma non sono considerate come stakeholder in quanto il loro impatto principale, se presente, sarà come una fonte di vincoli. 
 - L'**amministrazione universitaria** deve essere in grado di accedere a statistiche e informazioni relative l'attività svolta da studenti e professori. Essa risulta rilevante per comprendere quali sono i dati di fondamentale interesse e quali schermate possono essere sviluppate per la loro visualizzazione e analisi. È necessario determinare come l'università può essere in grado di valutare la soddisfazione complessiva e come alcuni cambiamenti si riflettano sugli utenti. L'amministrazione fornisce quindi dei vincoli esterni al progetto, per esempio quali sono i dati che è interessati a raccogliere e in che modo l'applicazione può aiutare a farlo, diventando di conseguenza uno stakeholder con diritti limitati.
 - Enti della privacy (garante della protezione dei dati personali), che impongono dei regolamenti sulla gestione dei dati degli utenti, impongono dei vincoli "normativi" ma non sono parti interessate. Il loro principale impatto sarà come una fonte di vincoli. 
 
@@ -182,16 +181,25 @@ Successivamente ad ogni interview viene trascritto un report per riassumere ed e
 
 I questionari, come le interview, sono molteplici e differenti in base allo stakeholder. Essi sono costituiti principalmente da domande chiuse e a scelta multipla così da poter ottenere in modo rapido e da svariate persone informazioni soggettive circa il sistema attuale e il suo utilizzo. Vengono utilizzati inoltre per mostrare il grado di interessamento alla soluzione proposta da UniPocket. Essi non mirano alla sostituzione delle interview ma solamente all'acquisizione di informazioni per migliorarle e dar maggior risalto a ciò che risulta veramente importante.
 
-Passaggio 1: determinare quali informazioni si desidera ottenere.
-Passaggio 2: decidere il pubblico del questionario (vari questionari per i diversi stakeholder)
-Passaggio 3: decidere il metodo di raccolta dei dati (elettronico, telefonico, postale)
-Passaggio 4: decidere i tipi di domande
-Fase 5: Pilotare il questionario su un campione di potenziali rispondenti e, se necessario, rivedere le domande
-Passaggio 6: distribuire il questionario
-<Passaggio 7: analizzare le risposte>
-<Passaggio 9: presentare e utilizzare i risultati>
+I questionari sono stati sviluppati e svolti secondo la scala sotto riportata:
 
+1. determinazione delle informazioni che si desidera ottenere.
+2. decisione del pubblico del questionario (vari questionari per i diversi stakeholder).
+3. decisione del metodo di raccolta dei dati (elettronico, telefonico, postale).
+4. decisione dei tipi di domande.
+5. utilizzo del questionario su un campione di potenziali rispondenti e, se necessario, revisione delle domande.
+6. distribuzione del questionario.
+7. analisi delle risposte.
+9. presentazione e utilizzo dei risultati.
 
+### Questionnaire studente
+
+La prima sezione del questionario pone domande volte alla comprensione dei sistemi correnti e del loro utilizzo da parte degli studenti.
+In particolare viene richiesto quali e quanti di essi utilizzano, di quali funzionalità sono dotati e il grado di soddisfazione del loro utilizzo, così da poter meglio delineare la situazione corrente e poter successivamente agire di conseguenza.
+Sempre nella prima sezione, a seguito di tali domande, ne vengono poste alcune riguardo il livello di interesse ad UniPocket e al suo grado di utilità.
+In questo modo è possibile ottenere informazioni circa l'interesse da parte degli utilizzatori e del mercato.
+Nelle due sezioni successive viene richiesto di valutare il grado di interessamento alle singole funzionalità, così da identificare al meglio gli interessi degli utenti e potergli dare priorità e rilievo.
+Vengono infine poste alcune domanda aperte per comprendere al meglio ulteriori idee dell'utente, commenti ed interessamente complessivo.
 
 
 
