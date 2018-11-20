@@ -31,6 +31,8 @@ Studiare l'ambiente e il sistema così com'è
 - Dominio dell'applicazione
 - Punti di forza e punti deboli del sistema così com'è
 
+Il **committente** <!-- -->
+
 Il sistema UniPocket e i suoi servizi<!--elencare enventuali nomi per il servizio voti, statistiche etc.--> sono progettati per essere una singola applicazione destinata a dispositivi smartphone (iOS e Android). <!--valutare se è la sezione giusta in cui inserire questo-->
 
 ### Scope of the system/Objectives and success criteria of the project
@@ -67,7 +69,7 @@ Devi fare le cose manualmente, cosa ti piacerebbe automatizzare?
 Hai problemi di prestazioni che devono essere modificati?
 Avete limitazioni funzionali che vorreste cambiare?-->
 
-### Product functions
+### Funzionalità del prodotto
 
 L'applicazione universitaria UniPocket (per ora dedicata alla Bicocca ma possibile ampliarla) prevede <n> importanti gruppi di funzionalità. 
 
@@ -89,7 +91,7 @@ L'applicazione universitaria UniPocket (per ora dedicata alla Bicocca ma possibi
 ## System to-be
 La terza sezione documenta l'elicitazione dei requisiti e il modello di analisi del nuovo sistema.
 
-### Panoramica/Overview
+### Panoramica
 Viene presentata una panoramica funzionale del sistema, con un riepilogo descrittivo dell'approccio, dei metodi e della documentazione dei requisiti aziendali, tra cui: driver di progetto, parti interessate del progetto (stakeholders), funzioni principali che verranno eseguite dal sistema e una tempistica della documentazione dei requisiti generali.
 
 <!--per la parte stakeholder: Sono compresi in questa categoria ... analisti di sistema (ad esempio, gli sviluppatori che partecipano ai requisiti). -->
@@ -128,10 +130,9 @@ Inoltre sono state definite la priorità e i diritti di ciascuna categoria (part
 
 Esaminiamo ciascuno dei candidati in modo più dettagliato: 
 
-- Il **committente**
 - Gli **studenti** hanno la possibilità di accedere all'applicazione e monitorare la loro carriera universitaria. Risultano rilevanti per il processo di elicitazione per identificare e risolvere le problematiche circa il reperimento di alcune informazioni che possono risultare utili quotidianamente. Inoltre sono in grado di fornire opinioni riguardo i sistemi correnti, ovvero le motivazioni del loro scarso utilizzo.
 - I **professori** hanno la possibilità di accedere all'applicazione ed effettuare svariate attività, tra cui la prenotazione delle aule e dei laboratori, l'inserimento di prove d'esame e la visualizzazione delle statistiche relative i propri corsi. Essi risultano coloro che utilizzano l'applicazione per gestire le attività universitarie ed è dunque necessario che il sistema risulti comodo e veloce da utilizzare secondo i loro bisogni. Sono in grado di identificare quali processi possono rendere la comunicazione con gli studenti difficoltosa e una possibile soluzione.
-- Le **segreterie online** possono causare difficoltà nel processo di richiesta dei dati dello studente/professore se alcuni aspetti interferiscono con i loro diritti, ma non sono considerate come stakeholder in quanto il loro impatto principale, se presente, sarà come una fonte di vincoli. 
+- Le segreterie online possono causare difficoltà nel processo di richiesta dei dati dello studente/professore se alcuni aspetti interferiscono con i loro diritti, ma non sono considerate come stakeholder in quanto il loro impatto principale, se presente, sarà come una fonte di vincoli. 
 - L'**amministrazione universitaria** deve essere in grado di accedere a statistiche e informazioni relative l'attività svolta da studenti e professori. Essa risulta rilevante per comprendere quali sono i dati di fondamentale interesse e quali schermate possono essere sviluppate per la loro visualizzazione e analisi. È necessario determinare come l'università può essere in grado di valutare la soddisfazione complessiva e come alcuni cambiamenti si riflettano sugli utenti. L'amministrazione fornisce quindi dei vincoli esterni al progetto, per esempio quali sono i dati che è interessati a raccogliere e in che modo l'applicazione può aiutare a farlo, diventando di conseguenza uno stakeholder con diritti limitati.
 - Enti della privacy (garante della protezione dei dati personali), che impongono dei regolamenti sulla gestione dei dati degli utenti, impongono dei vincoli "normativi" ma non sono parti interessate. Il loro principale impatto sarà come una fonte di vincoli. 
 
@@ -141,7 +142,7 @@ Un requisito è una dichiarazione che identifica un attributo, una capacità, un
 
 Priorità delle parti interessate. (es. categoria 1 con diritti, cateoria 2 con diritti limitati)
 
-### System models
+### <!--System models-->
 
 <!--I modelli di sistema descrivono gli scenari, i casi d'uso, il modello a oggetti e i modelli dinamici per il sistema. Questa sezione contiene le specifiche funzionali complete.-->
 
@@ -149,11 +150,11 @@ Priorità delle parti interessate. (es. categoria 1 con diritti, cateoria 2 con 
 ​      3.4.2 Use case model  
 ​      3.4.3 Analysis object model  
 ​      3.4.4 Dynamic model  
-​      3.4.5 User interface--navigational paths and screen mock-ups	  -->
+​      3.4.5 User interface--navigational paths and screen mock-ups	  
+In questa sezione vengono presentati dei mock-up dell'applicazione: modelli illustrativi, l'interfaccia utente del sistema e i percorsi di navigazione che rappresentano la sequenza di schermate-->
 
-<In questa sezione vengono presentati dei mock-up dell'applicazione: modelli illustrativi, l'interfaccia utente del sistema e i percorsi di navigazione che rappresentano la sequenza di schermate>
+###  <!-- References/Inputs-->
 
-###  References/Inputs  
 <!--Identify the sources of information/reference materials that were used to develop the Requirements Plan, such as: Author name, title, and publication date.  Glossary: A glossary of important terms, to ensure consistency in the specification and to ensure that we use the client’s terms. A precurser to the Data Dictionary-->
 
 ## Interviews
@@ -192,7 +193,7 @@ I questionari sono stati sviluppati e svolti secondo la scala sotto riportata:
 7. analisi delle risposte.
 9. presentazione e utilizzo dei risultati.
 
-### Questionnaire studente
+### Questionario studente
 
 La prima sezione del questionario pone domande volte alla comprensione dei sistemi correnti e del loro utilizzo da parte degli studenti.
 In particolare viene richiesto quali e quanti di essi utilizzano, di quali funzionalità sono dotati e il grado di soddisfazione del loro utilizzo, così da poter meglio delineare la situazione corrente e poter successivamente agire di conseguenza.
