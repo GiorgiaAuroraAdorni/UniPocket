@@ -170,8 +170,8 @@ Dai un voto da 0 (mai) a 5 (sempre).
 
 ### Domanda 17
 
-Quanto tempo potresti risparmiare grazie a UniPocket?
-Dai un voto da 0 (non risparmierei tempo) a 5 (risparmierei molto tempo).
+Pensi che UniPocket potrebbe farti guadagnare tempo?
+Dai un voto da 0 (non guadagnerei tempo) a 5 (guadagnerei molto tempo).
 
 0 1 2 3 4 5
 

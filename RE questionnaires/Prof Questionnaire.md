@@ -20,7 +20,7 @@ Vengono di seguito riepilogate le funzioni messe a disposizione da UniPocket:
 4. Creazione di appelli d'esame
 5. Consultazione degli orari delle proprie lezioni ed esami
 6. News dall’università
-7. Menu mensa
+7. Menù mensa
 8. Controllo orari navetta
 
 ## Questionnaire for Requirements Elicitation
