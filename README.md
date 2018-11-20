@@ -196,13 +196,10 @@ I questionari sono stati sviluppati e svolti secondo la scala sotto riportata:
 ### Questionario studente
 
 La prima sezione del questionario pone domande volte alla comprensione dei sistemi correnti e del loro utilizzo da parte degli studenti.
-In particolare viene richiesto quali e quanti di essi utilizzano, di quali funzionalità sono dotati e il grado di soddisfazione del loro utilizzo, così da poter meglio delineare la situazione corrente e poter successivamente agire di conseguenza.
-Sempre nella prima sezione, a seguito di tali domande, ne vengono poste alcune riguardo il livello di interesse ad UniPocket e al suo grado di utilità.
-In questo modo è possibile ottenere informazioni circa l'interesse da parte degli utilizzatori e del mercato.
+In particolare richiediamo quali sono le applicazioni esistenti, quanti di essi le utilizzano, di quali funzionalità sono dotate e il grado di soddisfazione del loro utilizzo, così da poter meglio delineare la situazione corrente e poter successivamente agire di conseguenza offrendo un servizio di più alto livello.
+Sempre nella prima sezione, a seguito di tali domande, ne vengono poste alcune riguardo il livello di interesse verso UniPocket e il suo grado di utilità. In questo modo è possibile ottenere informazioni circa l'interessamento da parte degli utilizzatori verso la nostra proposta.
 Nelle due sezioni successive viene richiesto di valutare il grado di interessamento alle singole funzionalità, così da identificare al meglio gli interessi degli utenti e potergli dare priorità e rilievo.
 Vengono infine poste alcune domanda aperte per comprendere al meglio ulteriori idee dell'utente, commenti ed interessamente complessivo.
-
-
 
 ## <!-- Analisi dei risultati analizzati-->
 
