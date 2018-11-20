@@ -5,7 +5,7 @@ L'indagine si propone di raccogliere opinioni circa il progetto stesso.
 Dovrebbero essere necessari circa 10 minuti per completare il questionario.  
 Il tuo nome e le tue risposte sono confidenziali e saranno utilizzate esclusivamente per la ricerca. Grazie per la vostra partecipazione.
 
-Saluti, Giorgia Adorni e Matto Basso  
+Saluti, Giorgia Adorni e Matteo Basso  
 Dipartimento di Informatica Universita degli Studi di Milano-Bicocca  
 Corso di Processo e Sviluppo del Software
 
@@ -37,7 +37,6 @@ Utilizzi qualche applicazione per controllare il tuo piano di studi, media, base
 
 - [ ] Uniwhere
 - [ ] iStudiez
-- [ ] Libretto Universitario
 - [ ] MyLibretto
 - [ ] 110eLode
 - [ ] Non ne utilizzo nessuna
@@ -60,7 +59,6 @@ Utilizzi qualche applicazione per controllare i risultati degli esami? Se si, qu
 
 - [ ] Uniwhere
 - [ ] iStudiez
-- [ ] Libretto Universitario
 - [ ] MyLibretto
 - [ ] 110eLode
 - [ ] Non ne utilizzo nessuna
