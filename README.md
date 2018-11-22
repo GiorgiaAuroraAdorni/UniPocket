@@ -105,8 +105,7 @@ In particolare richiediamo quali sono le applicazioni esistenti, quanti di essi 
 Sempre nella prima sezione, a seguito di tali domande, ne vengono poste alcune riguardo il livello di interesse verso UniPocket e il suo grado di utilità. In questo modo è possibile ottenere informazioni circa l'interessamento da parte degli utilizzatori verso la nostra proposta.
 Nelle due sezioni successive viene richiesto di valutare il grado di interessamento alle singole funzionalità, così da identificare al meglio gli interessi degli utenti e potergli dare priorità e rilievo.
 Vengono infine poste alcune domanda aperte per comprendere al meglio ulteriori idee dell'utente, commenti ed interessamente complessivo.
-
-<!--MANCA QUESTO: spiegazione della ridondanza di alcune domande, e la spiegazione della scala di gratimento usata -->
+Si noti inoltre che alcune domande vengono ripetute più volte all'interno del questionario, così da comprendere se l'utente stia effettivamente svolgendo una compilazione attenta e poter dare alle sue risposte il giusto peso. Molte domande sono costituite da una scala di gradimento numerica da 0 a 5, così da far sì che l'utente possa attribuire un'importanza maggiormente espressiva ad ogni punto.
 
 ## Interviews
 
