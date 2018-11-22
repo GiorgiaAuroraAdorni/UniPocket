@@ -85,7 +85,8 @@ Poiché non tutti gli stakeholders possiedono gli attributi di cui sopra (per es
 
 ## Questionnaires
 
-I questionari sono molteplici e differenti in base allo stakeholder. Essi sono costituiti principalmente da domande chiuse e a scelta multipla così da poter ottenere in modo rapido e da svariate persone informazioni soggettive circa il sistema attuale e il suo utilizzo. Vengono utilizzati inoltre per mostrare il grado di interessamento alla soluzione proposta da UniPocket. Essi non mirano alla sostituzione delle interview ma solamente all'acquisizione di informazioni per migliorarle e dar maggior risalto a ciò che risulta veramente importante.
+I questionari sono molteplici e differenti in base allo stakeholder. In particolare è stato scelto di sottoporli a studenti e professori, che rappresentano gli stakeholder maggiormente numerosi e quindi adatti alla loro compilazione.
+Essi sono costituiti principalmente da domande chiuse e a scelta multipla così da poter ottenere in modo rapido e da svariate persone informazioni soggettive circa il sistema attuale e il suo utilizzo. Vengono utilizzati inoltre per mostrare il grado di interessamento alla soluzione proposta da UniPocket. Essi non mirano alla sostituzione delle interview ma solamente all'acquisizione di informazioni per migliorarle e dar maggior risalto a ciò che risulta veramente importante.
 
 I questionari sono stati sviluppati e svolti secondo la scala sotto riportata:
 
@@ -109,7 +110,8 @@ Si noti inoltre che alcune domande vengono ripetute più volte all'interno del q
 
 ## Interviews
 
-Anche per quanto riguarda le interview sono stati redatti documenti differenti in base allo stakeholder. Dal punto di vista pratico è stato selezionato un set limitato di domande da porre al fine di ottenere informazioni specifiche e mirate. Esse risultano volutamente non eccessivamente numerose, così da poter lasciare spazio a un libero dialogo, al fine di esplorare e comprendere meglio il sistema corrente, le problematiche e le eventuali soluzioni possibili dal suo punto di vista.  
+Anche per quanto riguarda le interview sono stati redatti documenti differenti in base allo stakeholder. Esse verranno poste sia a studenti, che a professori e amministrazione. Nei primi due casi le interviste saranno svolte a partire dal questionario precedentemente sottoposto a tali stakeholder, nel caso dell'amministrazione invece verrà svolta senza una precedente interazione.
+Dal punto di vista pratico è stato selezionato un set limitato di domande da porre al fine di ottenere informazioni specifiche e mirate. Esse risultano volutamente non eccessivamente numerose, così da poter lasciare spazio a un libero dialogo, al fine di esplorare e comprendere meglio il sistema corrente, le problematiche e le eventuali soluzioni possibili dal suo punto di vista.  
 Le interview inizieranno dunque con la parte strutturata, costituita dalle domande definite nei documenti e proseguiranno con una parte non strutturata e libera.
 
 Di seguito vengono riportate le informazioni che è necessario ottenere da ciascuno stakeholder:
