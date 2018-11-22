@@ -108,6 +108,11 @@ Nelle due sezioni successive viene richiesto di valutare il grado di interessame
 Vengono infine poste alcune domanda aperte per comprendere al meglio ulteriori idee dell'utente, commenti ed interessamente complessivo.
 Si noti inoltre che alcune domande vengono ripetute più volte all'interno del questionario, così da comprendere se l'utente stia effettivamente svolgendo una compilazione attenta e poter dare alle sue risposte il giusto peso. Molte domande sono costituite da una scala di gradimento numerica da 0 a 5, così da far sì che l'utente possa attribuire un'importanza maggiormente espressiva ad ogni punto.
 
+### Questionario professore
+
+Analogamente al questionario degli studenti, il questionario dei professori è composto da una prima sezione per comprendere i sistemi correnti e il loro utilizzo, successivamente vengono richieste informazioni circa l'interesse in UniPocket e i servizi a cui si è maggiormente interessati. Come appare evidente le domande risultano differenti poichè differenti sono le funzionalità di cui si tratta e gli applicativi utilizzati per usufruirne. Mentre per gli studenti sono disponibili svariate applicazioni infatti, nel caso dei professori queste risultano particolarmente limitate, è necessario quindi comprendere ancor di più i requisiti necessari per il sistema.
+Sono sempre presenti domande ridondanti e scale numeriche di gradimento.
+
 ## Interviews
 
 Anche per quanto riguarda le interview sono stati redatti documenti differenti in base allo stakeholder. Esse verranno poste sia a studenti, che a professori e amministrazione. Nei primi due casi le interviste saranno svolte a partire dal questionario precedentemente sottoposto a tali stakeholder, nel caso dell'amministrazione invece verrà svolta senza una precedente interazione.
