@@ -1,18 +1,19 @@
 # Professor Requirements Elicitation Questionnaire
 
-Come parte di un assigment presso il dipartimento di Informatica, abbiamo sviluppato un questionario per raccogliere i requisiti per un <progetto software>.
-L'indagine si propone di <raccogliere i dati del progetto per testare il metodo>. Dovrebbero essere necessari <n> minuti per completare il questionario.
-Il vostro nome e le vostre risposte sono confidenziali e saranno utilizzate esclusivamente per la ricerca. Grazie per la vostra partecipazione.
+Come parte di un assignment presso il dipartimento di Informatica, abbiamo sviluppato un questionario per raccogliere i requisiti per un'applicazione mobile.
+L'indagine si propone di raccogliere opinioni circa il progetto stesso.
+Dovrebbero essere necessari circa 10 minuti per completare il questionario.
+Il suo nome e le suo risposte sono confidenziali e saranno utilizzate esclusivamente per la ricerca. Grazie per la vostra partecipazione.
 
-<!--Saluti,
-Nome Cognome
-Dipartimento di Informatica Universita degli Studi di Milano-Bicocca 
-Corso di Processo e Sviluppo del Software -->
+Saluti, Giorgia Adorni e Matteo Basso  
+Dipartimento di Informatica Universita degli Studi di Milano-Bicocca  
+Corso di Processo e Sviluppo del Software
 
 ## Il progetto UniPocket
 
-L'applicazione UniPocket è nata per fornire uno strumento integrato per la gestione dei propri corsi e dei propri studenti. <!-- Al momento infatti è necessario consultare diverse fonti per ottenere e gestire tutte le informazioni necessarie.-->
-Vengono di seguito riepilogate le funzioni messe a disposizione da UniPocket:
+L'applicazione è nata per fornire uno strumento integrato per la gestione della propria carriera universitaria, al momento infatti è necessario consultare diverse fonti per ottenere e gestire tutte le informazioni necessarie.
+
+Vengono di seguito riepilogate le funzioni di UniPocket:
 
 1. Statistiche relative al gradimento dei propri corsi
 2. Statistiche riguardo l'andamento dei propri studenti nei diversi corsi
@@ -26,6 +27,7 @@ Vengono di seguito riepilogate le funzioni messe a disposizione da UniPocket:
 ## Questionnaire for Requirements Elicitation
 
 Si prega di completare le seguenti informazioni.
+
 Nome: 
 Dipartimento:
 
@@ -52,19 +54,21 @@ Utilizza qualche applicazione per consultare il grado di soffisfazione dei propr
 
 ### Domanda 4
 
-Quanto è soddisfatto del sistema di prenotazione di aule e laboratori? Voto da 0 (per niente soddisfatto) a 5 (molto soddisfatto).
+Quanto è soddisfatto del sistema di prenotazione di aule e laboratori?
+Voto da 0 (per niente soddisfatto) a 5 (molto soddisfatto).
 
 0 1 2 3 4 5
 
 ### Domanda 5
 
-Quanto è soddisfatto del sistema di creazione di nuovi apelli d'esame? Voto da 0 (per niente soddisfatto) a 5 (molto soddisfatto).
+Quanto è soddisfatto del sistema di creazione di nuovi apelli d'esame?
+Voto da 0 (per niente soddisfatto) a 5 (molto soddisfatto).
 
 0 1 2 3 4 5
 
 ### Domanda 6
 
-Solitamente utilizza qualche applicazione per consutare gli orari delle proprie lezioni o esami? Se si, quando è soddisfatto?
+Solitamente utilizza qualche applicazione per consutare gli orari delle proprie lezioni o esami? Se si, quanto è soddisfatto?
 
 - [ ] Non utilizzo alcuna applicazione 
 - [ ] Utilizzo un sito web
@@ -250,28 +254,3 @@ In quale luogo pensa che utilizzerebbe questa applicazione?
 ### Si prega di scrivere qualsiasi altro commento qui sotto.
 
 <br><br><br><br><br><br>Grazie.
-
-<!-- Aggiungere questo alle domande che riteniamo più  importanti-->
-
-### Come ha trovato la domanda <n>?  
-
-Per favore selezioni la risposta appropriata.
-
-**Livello di difficoltà**
-
-- [ ] Basso
-- [x] Medio
-- [ ] Alto
-
-**Sforzo richiesto**
-
-- [ ] Basso
-- [x] Medio
-- [ ] Alto
-
-**Tempo trascorso**
-
-- [ ] Basso
-- [x] Medio
-- [ ] Alto
-
