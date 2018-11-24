@@ -142,6 +142,27 @@ Di seguito vengono riportate le informazioni che è necessario ottenere da ciasc
 
 Successivamente ad ogni interview viene trascritto un report per riassumere ed evidenziare le criticità e i punti di maggior interesse che sono emersi dal processo. Tale report viene sottoposto quindi allo stakeholder che deve confermare o rifinire ciò che è stato riportato. Risulta possibile a questo punto effettuare un'analisi su quanto trascritto e valutare come viene ritenuto adeguato procedere.
 
-## <!-- Analisi dei risultati analizzati-->
+## Analisi dei risultati analizzati ottenuti
+
+### Questionario studenti
+
+Dal questionario sottoposto dagli studenti sono emersi diversi aspetti che vengono riportati di seguito.
+
+#### Utenti intervistati
+
+Il questionario è stato svolto quasi per il 50% da studenti maschili e 50% ad studenti femminili. Essi provengono da diversi corsi di studio, nonostante la grande maggioranza, circa il 70%, proviene da quello di informatica, il 10% da quello di economia e il restante da corsi differenti.
+
+#### Sistemi utilizzati correntemente
+
+Circa il 50% del totale non sembra utilizzare alcuna applicazione per monitorare la propria carriera universitaria, piano di studi, media, orario delle lezioni etc. Mentre tra gli utilizzatori vi è una forte prevalenza dell'applicativo "UniWhere".
+Per quanto riguarda la vendita di libri quasi la totalità degli studenti non utilizza applicazioni, solo circa il 10% utilizza canali alternativi quali social network (facebook in particolare) oppure negozi come il "libraccio".
+Il sistema di prenotazione degli esami sembra soddisfare mediamente gli studenti, la mensa non sembra utilizzata frequentemente se non da pochi studenti e in generale lo spostamento tra gli edifici per le lezioni non appare difficoltoso.
+
+#### La soluzione proposta
+
+Le applicazioni esistenti vengono al momento utilizzate con una media frequenza, tuttavia è emerso che un'unico applicativo contenente tutte le funzionalità farebbe risparmiare molto tempo agli studenti e semplificherebbe la vita universitaria.
+Tutte le funzionalità proposte risultano quasi di uguale importanza, mentre è emerso di particolare rilevanza la possibilità di sapere dove poter trovare posto in aula studio per potersi fermare a studiare.
+Per quanto riguarda l'interesse generale allo sviluppo di UniPocket è emerso che circa il 20% degli intervistati è veramente entuasiasta dell'idea, tanto da lasciare commenti esaustivi.
+Alcuni utenti appaiono visibilmente spaventati dal fatto di produrre un'applicazione unica con molte funzionalità, pensando che essa diventi particolarmente difficile da utilizzare o confusionaria. Come sottolineato da alcuni di essi è necessario sviluppare un sistema semplice, fluido e intuitivo per raggiungere il giusto obiettivo. Tramite l'utilizzo di mock-up sarà possibile verificare se questa condizione verrà correttamente rispettata.
 
 ## <!-- Segnalazione dei requisiti emergenti-->
