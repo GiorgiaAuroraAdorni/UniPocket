@@ -165,4 +165,8 @@ Tutte le funzionalità proposte risultano quasi di uguale importanza, mentre è 
 Per quanto riguarda l'interesse generale allo sviluppo di UniPocket è emerso che circa il 20% degli intervistati è veramente entuasiasta dell'idea, tanto da lasciare commenti esaustivi.
 Alcuni utenti appaiono visibilmente spaventati dal fatto di produrre un'applicazione unica con molte funzionalità, pensando che essa diventi particolarmente difficile da utilizzare o confusionaria. Come sottolineato da alcuni di essi è necessario sviluppare un sistema semplice, fluido e intuitivo per raggiungere il giusto obiettivo. Tramite l'utilizzo di mock-up sarà possibile verificare se questa condizione verrà correttamente rispettata.
 
-## <!-- Segnalazione dei requisiti emergenti-->
+## Segnalazione dei requisiti emergenti
+
+Dopo lo svolgimento di questionari e interviste sono emersi requisiti aggiuntivi di vario genere, provenienti da studenti differenti. Non vengono dunque riportati nella loro totalità ma viene segnalato l'unico requisito richiesto più volte e che costituisce dunque un elemento di discreta importanza:
+
+- dovrebbe essere necessario poter visualizzare la capienza delle aule e sapere quando è possibile trovare dei posti liberi per potersi fermare a studiare
