@@ -99,16 +99,30 @@ Dai un voto da 0 (molto facile) a 5 (molto difficile).
 
 ### Domanda 8
 
-Utilizzi un'applicazione per studenti universitari? Se si, quale?
+Frequenti spesso la mensa universitaria?   
+Dai un voto da 0 (mai) a 5 (quasi tutti i giorni).
+
+0 1 2 3 4 5
 
 ### Domanda 9
+
+Trovi difficoltoso muoverti tra gli edifici dell’università?  
+Dai un voto da 0 (non sono daccordo) a 5 (sono d’accordo).
+
+0 1 2 3 4 5
+
+### Domanda 10
+
+Utilizzi un'applicazione per studenti universitari? Se si, quale?
+
+### Domanda 11
 
 Quanto spesso utilizzi applicazioni per l'università?  
 Dai un voto da 0 (mai) a 5 (tutti i giorni).
 
 0 1 2 3 4 5
 
-### Domanda 10
+### Domanda 12
 
 Quali attività sono consentite nella tua applicazione universitaria preferita?  
 Seleziona una o più opzioni.
@@ -127,63 +141,63 @@ Seleziona una o più opzioni.
 - [ ] Organizzazione dello studio
 - [ ] Altro
 
-### Domanda 11
+### Domanda 13
 
 Quanto trovi difficoltoso utilizzare diversi sistemi per svolgere diverse attività nell'ambito universitario?  
 Dai un voto da 0 (molto semplice) a 5 (molto difficoltoso).
 
 0 1 2 3 4 5
 
-### Domanda 12
+### Domanda 14
 
 Quanto tempo potresti risparmiare grazie a una singola applicazione per gestire tutto?  
 Dai un voto da 0 (non risparmierei tempo) a 5 (risparmierei molto tempo).
 
 0 1 2 3 4 5
 
-### Domanda 13
+### Domanda 15
 
 Utilizzeresti quest'applicazione quotidianamente?  
 Dai un voto da 0 (assolutamente no) a 5 (assolutamente si).
 
 0 1 2 3 4 5
 
-### Domanda 14
+### Domanda 16
 
 Quanto ti importa di UniPocket?  
 Dai un voto da 0 (per niente) a 5 (moltissimo).
 
 0 1 2 3 4 5
 
-### Domanda 15
+### Domanda 17
 
 Quanto spesso partecipi ad eventi/attività organizzate dall'università?  
 Dai un voto da 0 (mai) a 5 (sempre).
 
 0 1 2 3 4 5
 
-### Domanda 16
+### Domanda 18
 
 Sei a conoscenza degli eventi/attività organizzate dall'università?  
 Dai un voto da 0 (mai) a 5 (sempre).
 
 0 1 2 3 4 5
 
-### Domanda 17
+### Domanda 19
 
 Pensi che UniPocket potrebbe farti guadagnare tempo?  
 Dai un voto da 0 (non guadagnerei tempo) a 5 (guadagnerei molto tempo).
 
 0 1 2 3 4 5
 
-### Domanda 18
+### Domanda 20
 
 Pensi che UniPocket sia importante per gli studenti?  
 Dai un voto da 0 (assolutamente no) a 5 (assolutamente si).
 
 0 1 2 3 4 5
 
-### Domanda 19
+### Domanda 21
 
 Valuta l'importanza che avrebbe per te avere una di queste funzionalità nella tua applicazione universitaria.  
 Scegli 0 per i requisiti che non vuoi attivamente nel sistema.
@@ -221,26 +235,26 @@ Chat tra studenti
 Iscrizione agli esami  
 0 1 2 3 4 5
 
-### Domanda 20
+### Domanda 22
 
 Scrivi altri requisiti che desideri o non vuoi nel modello che abbiamo fornito, e classificali secondo quali sono più importanti per te.
 
-### Domanda 21
+### Domanda 23
 
 Cosa ti aspetti da UniPocket?
 
-### Domanda 22
+### Domanda 24
 
 Chi pensi che sia interessato a questo progetto e come?
 
-### Domanda 23
+### Domanda 25
 
 Quali idee di cui parli con i tuoi compagni potrebbero migliorare UniPocket?
 
-### Domanda 24
+### Domanda 26
 
 In quale luogo pensi di utilizzare questa applicazione?
 
 ### Si prega di scrivere qualsiasi altro commento qui sotto.
 
-<br><br><br><br><br><br>Grazie.
+<br><br><br><br><br><br>Grazie per la partecipazione.

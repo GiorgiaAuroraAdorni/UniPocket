@@ -109,7 +109,7 @@ La prima sezione del questionario dedicato agli studenti pone domande volte alla
 In particolare richiediamo quali sono le applicazioni esistenti, quanti di essi le utilizzano, di quali funzionalità sono dotate e il grado di soddisfazione del loro utilizzo, così da poter meglio delineare la situazione corrente e poter successivamente agire di conseguenza offrendo un servizio di più alto livello.
 Sempre nella prima sezione, a seguito di tali domande, ne vengono poste alcune riguardo il livello di interesse verso UniPocket e il suo grado di utilità. In questo modo è possibile ottenere informazioni circa l'interessamento da parte degli utilizzatori verso la nostra proposta.
 Nelle due sezioni successive viene richiesto di valutare il grado di interessamento alle singole funzionalità, così da identificare al meglio gli interessi degli utenti e potergli dare priorità e rilievo.  
-Vengono infine poste alcune domanda aperte per comprendere al meglio ulteriori idee dell'utente, commenti ed interessamente complessivo.  
+Oltre alle domande a scelta multipla vengono infine poste alcune brevi domande aperte, di cui alcune opzionali, per comprendere al meglio ulteriori idee dell'utente, commenti ed interessamente complessivo.   
 
 Si noti inoltre che alcune domande vengono ripetute più volte all'interno del questionario, così da comprendere se l'utente stia effettivamente svolgendo una compilazione attenta e poter dare alle sue risposte il giusto peso. 
 
