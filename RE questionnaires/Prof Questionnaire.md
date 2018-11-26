@@ -3,7 +3,7 @@
 Come parte di un assignment presso il dipartimento di Informatica, abbiamo sviluppato un questionario per raccogliere i requisiti per un'applicazione mobile.
 L'indagine si propone di raccogliere opinioni circa il progetto stesso.
 Dovrebbero essere necessari circa 10 minuti per completare il questionario.
-Il suo nome e le suo risposte sono confidenziali e saranno utilizzate esclusivamente per la ricerca. Grazie per la vostra partecipazione.
+Il suo nome e le sue risposte sono confidenziali e saranno utilizzate esclusivamente per la ricerca. Grazie per la vostra partecipazione.
 
 Saluti, Giorgia Adorni e Matteo Basso  
 Dipartimento di Informatica Universita degli Studi di Milano-Bicocca  
@@ -11,7 +11,7 @@ Corso di Processo e Sviluppo del Software
 
 ## Il progetto UniPocket
 
-L'applicazione è nata per fornire uno strumento integrato per la gestione della propria carriera universitaria, al momento infatti è necessario consultare diverse fonti per ottenere e gestire tutte le informazioni necessarie.
+L'applicazione UniPocket è nata per fornire uno strumento integrato per la gestione della propria carriera universitaria, al momento infatti è necessario consultare diverse fonti per ottenere e gestire tutte le informazioni necessarie.
 
 Vengono di seguito riepilogate le funzioni di UniPocket:
 
@@ -54,46 +54,53 @@ Utilizza qualche applicazione per consultare il grado di soffisfazione dei propr
 
 ### Domanda 4
 
-Quanto è soddisfatto del sistema di prenotazione di aule e laboratori?
+Quanto è soddisfatto del sistema di prenotazione di aule e laboratori?  
 Voto da 0 (per niente soddisfatto) a 5 (molto soddisfatto).
 
 0 1 2 3 4 5
 
 ### Domanda 5
 
-Quanto è soddisfatto del sistema di creazione di nuovi apelli d'esame?
+Quanto è soddisfatto del sistema di creazione di nuovi apelli d'esame?  
 Voto da 0 (per niente soddisfatto) a 5 (molto soddisfatto).
 
 0 1 2 3 4 5
 
 ### Domanda 6
 
-Solitamente utilizza qualche applicazione per consutare gli orari delle proprie lezioni o esami? Se si, quanto è soddisfatto?
+Solitamente quale applicazione utilizza per consutare gli orari delle proprie lezioni o esami?
 
 - [ ] Non utilizzo alcuna applicazione 
 - [ ] Utilizzo un sito web
-- [ ] Non sono per nulla soddisfatto dell'applicazione che uso
-- [ ] Sono poco soddisfatto dell'applicazione che uso
-- [ ] Sono soddisfatto dell'applicazione che uso
-- [ ] Sono molto soddisfatto dell'applicazione che uso
+- [ ] Altro
 
 ### Domanda 7
 
-Utilizza un'applicazione per ricevere news e informazioni dall'università?
+Quanto è soddisfatto del sistema di consultazione degli orari di lezioni e/o esami?   
+Voto da 0 (per niente soddisfatto) a 5 (molto soddisfatto).
 
-- [ ] Si
-- [ ] No
+0 1 2 3 4 5
 
 ### Domanda 8
 
-Uilizza un'applicazione per docenti universitari?
+Quale applicazione utilizza applicazione per ricevere news e informazioni dall'università?
 
-- [ ] Si
-- [ ] No
+- [ ] Non utilizzo alcuna applicazione 
+- [ ] Utilizzo un sito web
+- [ ] Altro
 
 ### Domanda 9
 
-Quali attività sono consentite nella sua applicazione universitaria preferita? Seleziona una o più opzioni.
+Uilizza qualche applicazione per docenti universitari? Se si, quale?
+
+- [ ] Non ne utilizzo 
+- [ ] Utilizzo un sito web
+- [ ] Altro
+
+### Domanda 10
+
+Quali attività sono consentite nella sua applicazione universitaria preferita?  
+ Selezionare una o più opzioni.
 
 - [ ] Statistiche relative al gradimento dei propri corsi
 - [ ] Statistiche di soddisfazione degli studenti
@@ -102,138 +109,89 @@ Quali attività sono consentite nella sua applicazione universitaria preferita? 
 - [ ] News dall’università
 - [ ] Prenotazione aule e laboratori        
 - [ ] Creazione di esami      
-
-### Domanda 10
-
-Quanto sarebbe importante avere una di queste funzionalità nell'applicazione universitaria, da 0 (non importante) a 5 (molto importante ). Scegliere la X per i requisiti che non si vogliono attivamente nel sistema.
-
-|                     Requirements                     | Increasing importance |
-| :--------------------------------------------------: | :-------------------: |
-| Statistiche relative al gradimento dei propri corsi  |     X 0 1 2 3 4 5     |
-|     Statistiche di soddisfazione degli studenti      |     X 0 1 2 3 4 5     |
-| Statistiche riguardo l'andamento dei propri studenti |     X 0 1 2 3 4 5     |
-|                Orari lezioni ed esami                |     X 0 1 2 3 4 5     |
-|                 News dall’università                 |     X 0 1 2 3 4 5     |
-|            Prenotazione aule e laboratori            |     X 0 1 2 3 4 5     |
-|               Controllo orari navetta                |     X 0 1 2 3 4 5     |
-|                  Creazione di esami                  |     X 0 1 2 3 4 5     |
-|                   Chat tra docenti                   |     X 0 1 2 3 4 5     |
+- [ ] Altro
 
 ### Domanda 11
 
-Trova difficoltoso utilizzare diversi sistemi per svolgere diverse attività nell'ambito universitario?
-Dare un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
+Valutare l'importanza che averebbe una di queste funzionalità nell'applicazione universitaria.   
+Votare da 0 (non importante) a 5 (molto importante ).
 
+Statistiche relative al gradimento dei propri corsi  
+0 1 2 3 4 5
+
+Statistiche di soddisfazione degli studenti  
+0 1 2 3 4 5
+
+Statistiche riguardo l'andamento dei propri studenti  
+0 1 2 3 4 5
+
+Orari lezioni ed esami    
+0 1 2 3 4 5
+
+News dall’università Prenotazione aule e laboratori  
+0 1 2 3 4 5
+
+Controllo orari navetta  
+0 1 2 3 4 5
+
+Creazione di esami   
+0 1 2 3 4 5
+
+Chat tra docenti  
 0 1 2 3 4 5
 
 ### Domanda 12
 
-Quanto tempo potrebbe risparmiare grazie a una singola applicazione per gestire tutto?
+Trova difficoltoso utilizzare diversi sistemi per svolgere diverse attività nell'ambito universitario?  
+Dare un voto da 0 (lo trovo semplice) a 5 (trovo che sia difficoltoso).
 
-- [ ] Non risparmierei tempo
-- [ ] Risparmierei poco tempo
-- [ ] Risparmiere abbastanza tempo
-- [ ] Risparmiere molto tempo
+0 1 2 3 4 5
 
 ### Domanda 13
 
-Utilizzerebbe quest'applicazione quotidianamente?
-Dare un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
+Quanto tempo potrebbe risparmiare grazie a una singola applicazione per gestire tutto?  
+Dare un voto da 0 (non risparmierei tempo) a 5 (risparmierei molto tempo).
 
 0 1 2 3 4 5
 
 ### Domanda 14
 
-Quanto è importante UniPocket? Per favore selezionare la risposta appropriata.
+Utilizzerebbe quest'applicazione quotidianamente?  
+Dare un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
 
-- [ ] Per niente
-- [ ] Un po'
-- [ ] Così così
-- [ ] Tanto
+0 1 2 3 4 5
 
 ### Domanda 15
 
-Quanto spesso partecipa ad eventi/attività organizzate dall'università?
-Dare un voto da 0 (mai) a 5 (sempre).
+Quanto è importante UniPocket?   
+Dare un voto da 0 (non mi importa) a 5 (molto importante).
 
 0 1 2 3 4 5
 
 ### Domanda 16
 
-È a conoscenza degli eventi/attività organizzate dall'università?
-Dare un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
+Quanto spesso partecipa ad eventi o attività organizzate dall'università?  
+Dare un voto da 0 (mai) a 5 (sempre).
 
 0 1 2 3 4 5
 
 ### Domanda 17
 
-Parteciperebbe a più iniziative se gli venissero proposte quelle di suo interesse?
+È a conoscenza degli eventi/attività organizzate dall'università?  
 Dare un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
 
 0 1 2 3 4 5
 
 ### Domanda 18
 
-Di seguito è riportato un elenco di requisiti dell'applicazione UniPocket.
-Li classificali dando un voto nella colonna di destra, da 0 (non importante) a 5 (molto importante). Scegliere la X per i requisiti che non si volgiono attivamente nel sistema.
-
-|                     Requirements                     | Increasing importance |
-| :--------------------------------------------------: | :-------------------: |
-| Statistiche relative al gradimento dei propri corsi  |     X 0 1 2 3 4 5     |
-|     Statistiche di soddisfazione degli studenti      |     X 0 1 2 3 4 5     |
-| Statistiche riguardo l'andamento dei propri studenti |     X 0 1 2 3 4 5     |
-|                Orari lezioni ed esami                |     X 0 1 2 3 4 5     |
-|                 News dall’università                 |     X 0 1 2 3 4 5     |
-|            Prenotazione aule e laboratori            |     X 0 1 2 3 4 5     |
-|               Controllo orari navetta                |     X 0 1 2 3 4 5     |
-|                  Creazione di esami                  |     X 0 1 2 3 4 5     |
-|                   Chat tra docenti                   |     X 0 1 2 3 4 5     |
-
-Scrivere altri requisiti che desidera o non vuole nel modello che abbiamo fornito, e li classifichi secondo quali sono più importanti.
-
-| Requirements | Increasing importance |
-| :----------: | :-------------------: |
-|              |     X 0 1 2 3 4 5     |
-|              |     X 0 1 2 3 4 5     |
-|              |     X 0 1 2 3 4 5     |
-
-### Domanda 19
-
-Distribuire 100 punti tra i requisiti desiderati nella domanda precedente. Assegnare più punti ai requisiti che sono più importanti.
-
-|                     Requirements                     |    Points     |
-| :--------------------------------------------------: | :-----------: |
-| Statistiche relative al gradimento dei propri corsi  | X 0 1 2 3 4 5 |
-|     Statistiche di soddisfazione degli studenti      | X 0 1 2 3 4 5 |
-| Statistiche riguardo l'andamento dei propri studenti | X 0 1 2 3 4 5 |
-|                Orari lezioni ed esami                | X 0 1 2 3 4 5 |
-|                 News dall’università                 | X 0 1 2 3 4 5 |
-|            Prenotazione aule e laboratori            | X 0 1 2 3 4 5 |
-|               Controllo orari navetta                | X 0 1 2 3 4 5 |
-|                  Creazione di esami                  | X 0 1 2 3 4 5 |
-|                   Chat tra docenti                   | X 0 1 2 3 4 5 |
-
-### Domanda 20
-
-Quanto tempo risparmierebbe con UniPocket? Dare un voto da 0 (non mi importa) a 5 (mi importa molto).
-
-- [ ] Non risparmierei tempo
-- [ ] Risparmierei poco tempo
-- [ ] Risparmiere abbastanza tempo
-- [ ] Risparmiere molto tempo
-
-### Domanda 21
-
-Quanto le importa di UniPocket? Dare un voto da 0 (non mi importa) a 5 (mi importa molto).
-
-0 1 2 3 4 5
-
-### Domanda 22
-
-Parteciprebbe a più iniziative se le venissero proposte quelle di suo interesse?
+Parteciperebbe a più iniziative se gli venissero proposte quelle di suo interesse?  
 Dare un voto da 0 (non sono d'accordo) a 5 (sono d'accordo).
 
 0 1 2 3 4 5
+
+### Domanda 19
+
+Scrivere altri requisiti che desidera o non vuole nel modello che abbiamo fornito, e li classifichi secondo quali sono più importanti.
 
 ### Domanda 23
 
@@ -245,7 +203,7 @@ Chi pensa che sia interessato a questo progetto e come?
 
 ### Domanda 25
 
-Di quali idee parlate lei e i suoi colleghi per migliorare <>?
+Di quali idee parlate lei e i suoi colleghi per migliorare il sistema?
 
 ### Domanda 26
 

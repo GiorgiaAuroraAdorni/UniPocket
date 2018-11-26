@@ -89,7 +89,7 @@ Secondo le specifiche sugli stakeholder del capitolo precedente la strategia di 
 
 ### Questionnaires
 
-I questionari sono molteplici e differenti in base allo stakeholder. In particolare è stato scelto di sottoporli a studenti e professori, che rappresentano gli stakeholder maggiormente numerosi e quindi adatti alla loro compilazione.
+I questionari sono molteplici e differenti in base allo stakeholder. In particolare è stato scelto di sottoporre questionari diversi a studenti e professori, che rappresentano gli stakeholder più numerosi.
 Essi sono costituiti principalmente da domande chiuse e a scelta multipla così da poter ottenere in modo rapido e da svariate persone informazioni soggettive circa il sistema attuale e il suo utilizzo. Vengono utilizzati inoltre per mostrare il grado di interessamento alla soluzione proposta da UniPocket. Essi non mirano alla sostituzione delle interview ma solamente all'acquisizione di informazioni per migliorarle e dar maggior risalto a ciò che risulta veramente importante.
 
 I questionari sono stati sviluppati e svolti secondo la scala sotto riportata:
@@ -108,13 +108,17 @@ I questionari sono stati sviluppati e svolti secondo la scala sotto riportata:
 La prima sezione del questionario dedicato agli studenti pone domande volte alla comprensione dei sistemi correnti e del loro utilizzo da parte degli studenti.
 In particolare richiediamo quali sono le applicazioni esistenti, quanti di essi le utilizzano, di quali funzionalità sono dotate e il grado di soddisfazione del loro utilizzo, così da poter meglio delineare la situazione corrente e poter successivamente agire di conseguenza offrendo un servizio di più alto livello.
 Sempre nella prima sezione, a seguito di tali domande, ne vengono poste alcune riguardo il livello di interesse verso UniPocket e il suo grado di utilità. In questo modo è possibile ottenere informazioni circa l'interessamento da parte degli utilizzatori verso la nostra proposta.
-Nelle due sezioni successive viene richiesto di valutare il grado di interessamento alle singole funzionalità, così da identificare al meglio gli interessi degli utenti e potergli dare priorità e rilievo.
-Vengono infine poste alcune domanda aperte per comprendere al meglio ulteriori idee dell'utente, commenti ed interessamente complessivo.
-Si noti inoltre che alcune domande vengono ripetute più volte all'interno del questionario, così da comprendere se l'utente stia effettivamente svolgendo una compilazione attenta e poter dare alle sue risposte il giusto peso. Molte domande sono costituite da una scala di gradimento numerica da 0 a 5, così da far sì che l'utente possa attribuire un'importanza maggiormente espressiva ad ogni punto.
+Nelle due sezioni successive viene richiesto di valutare il grado di interessamento alle singole funzionalità, così da identificare al meglio gli interessi degli utenti e potergli dare priorità e rilievo.  
+Vengono infine poste alcune domanda aperte per comprendere al meglio ulteriori idee dell'utente, commenti ed interessamente complessivo.  
+
+Si noti inoltre che alcune domande vengono ripetute più volte all'interno del questionario, così da comprendere se l'utente stia effettivamente svolgendo una compilazione attenta e poter dare alle sue risposte il giusto peso. 
+
+Molte domande sono costituite da una scala di gradimento numerica pari, ovvero da 0 a 5, in modo che l'utente non dia una risposta neutrale e possa attribuire un'importanza maggiormente espressiva ad ogni punto.
 
 #### Questionario professore
 
-Analogamente al questionario degli studenti, il questionario dei professori è composto da una prima sezione per comprendere i sistemi correnti e il loro utilizzo, successivamente vengono richieste informazioni circa l'interesse in UniPocket e i servizi a cui si è maggiormente interessati. Come appare evidente le domande risultano differenti poichè differenti sono le funzionalità di cui si tratta e gli applicativi utilizzati per usufruirne. Mentre per gli studenti sono disponibili svariate applicazioni infatti, nel caso dei professori queste risultano particolarmente limitate, è necessario quindi comprendere ancor di più i requisiti necessari per il sistema.
+Analogamente al questionario degli studenti, il questionario dei professori è composto da una prima sezione per comprendere i sistemi correnti e il loro utilizzo, successivamente vengono richieste informazioni circa l'interesse in UniPocket e i servizi a cui si è maggiormente interessati.   
+Come appare evidente le domande risultano differenti poichè differenti sono le funzionalità di cui si tratta e gli applicativi utilizzati per usufruirne. Mentre per gli studenti sono disponibili svariate applicazioni infatti, nel caso dei professori queste risultano particolarmente limitate, è necessario quindi comprendere ancor di più i requisiti necessari per il sistema.
 Sono sempre presenti domande ridondanti e scale numeriche di gradimento.
 
 ### Interviews
