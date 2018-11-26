@@ -134,26 +134,36 @@ Di seguito vengono riportate le informazioni che è necessario ottenere da ciasc
 
 Successivamente ad ogni interview viene trascritto un report per riassumere ed evidenziare le criticità e i punti di maggior interesse che sono emersi dal processo. Tale report viene sottoposto quindi allo stakeholder che deve confermare o rifinire ciò che è stato riportato. Risulta possibile a questo punto effettuare un'analisi su quanto trascritto e valutare come viene ritenuto adeguato procedere.
 
-## Analisi dei risultati analizzati ottenuti
+## Analisi dei risultati ottenuti
 
 ### Questionario studenti
 
 Dal questionario sottoposto dagli studenti sono emersi diversi aspetti che vengono riportati di seguito.
 
-#### Utenti intervistati
+#### Utenti intervistati <!-- non so se intervistati sia la parola adatta -->
 
 Il questionario è stato svolto quasi per il 50% da studenti maschili e 50% ad studenti femminili. Essi provengono da diversi corsi di studio, nonostante la grande maggioranza, circa il 70%, proviene da quello di informatica, il 10% da quello di economia e il restante da corsi differenti.
 
 #### Sistemi utilizzati correntemente
 
-Circa il 50% del totale non sembra utilizzare alcuna applicazione per monitorare la propria carriera universitaria, piano di studi, media, orario delle lezioni etc. Mentre tra gli utilizzatori vi è una forte prevalenza dell'applicativo "UniWhere".
-Per quanto riguarda la vendita di libri quasi la totalità degli studenti non utilizza applicazioni, solo circa il 10% utilizza canali alternativi quali social network (facebook in particolare) oppure negozi come il "libraccio".
-Il sistema di prenotazione degli esami sembra soddisfare mediamente gli studenti, la mensa non sembra utilizzata frequentemente se non da pochi studenti e in generale lo spostamento tra gli edifici per le lezioni non appare difficoltoso.
+Circa il 50% del totale non sembra utilizzare alcuna applicazione per monitorare la propria carriera universitaria, piano di studi, media etc. Tra gli utilizzatori vi è una forte prevalenza dell'applicativo "UniWhere".  Invece la maggior per controllare gli orari delle lezioni risulta che ma maggior parte degli studenti utilizza l'applicazione "UnimibCourse". <!-- definire cosa offrono queste applicazioni (?)-->  
+Per quanto riguarda la vendita di libri quasi la totalità degli studenti non utilizza applicazioni, solo il 20% sfrutta canali alternativi quali social network (Facebook e Telegram in particolare) oppure negozi come il "libraccio". Inoltre gli utilizzatori non sembrano essere interessati all'aggiunta di questo tipo di funzionalità all'interno di UniPocket.  
+Il sistema di prenotazione degli esami non sembra soddisfare a sufficienza gli studenti, infatti molti esprimono l'esigenza di poterlo fare in modo più pratico tramite un app mobile.  
+La mensa universitaria non sembra essere frequentata spesso, se non da pochi studenti, nonostante ciò notiamo un certo  interesse verso i servizi che vorremmo integrare.   
+Infine, lo spostamento tra gli edifici per le lezioni non appare difficoltoso, nonostante ciò molti sono interessati ad avere a disposizione l'orario della navetta e addirittura altri mezzi di trasporto che collegano i vari edifici .
+
+#### Interesse nelle funzionalità
+
+![Schermata 2018-11-26 alle 22.31.50](/Users/Giorgia/Downloads/PROSVISO/2ndAssignment/RE questionnaires/Schermata 2018-11-26 alle 22.31.50.jpg)
+
+![image-20181126223949057](/Users/Giorgia/Library/Application Support/typora-user-images/image-20181126223949057.png)
+
+
 
 #### La soluzione proposta
 
-Le applicazioni esistenti vengono al momento utilizzate con una media frequenza, tuttavia è emerso che un'unico applicativo contenente tutte le funzionalità farebbe risparmiare molto tempo agli studenti e semplificherebbe la vita universitaria.
-Tutte le funzionalità proposte risultano quasi di uguale importanza, mentre è emerso di particolare rilevanza la possibilità di sapere dove poter trovare posto in aula studio per potersi fermare a studiare.
+Le applicazioni esistenti vengono al momento utilizzate con una media frequenza, tuttavia è emerso che un'unico applicativo contenente tutte le funzionalità farebbe risparmiare molto tempo agli studenti e semplificherebbe la vita universitaria.  
+Tutte le funzionalità proposte risultano quasi di uguale importanza, mentre di particolare rilevanza risulta essere la possibilità di sapere dove poter trovare posto nelle aule studio e in biblioteca per potersi fermare a studiare.  
 Per quanto riguarda l'interesse generale allo sviluppo di UniPocket è emerso che circa il 20% degli intervistati è veramente entuasiasta dell'idea, tanto da lasciare commenti esaustivi.
 Alcuni utenti appaiono visibilmente spaventati dal fatto di produrre un'applicazione unica con molte funzionalità, pensando che essa diventi particolarmente difficile da utilizzare o confusionaria. Come sottolineato da alcuni di essi è necessario sviluppare un sistema semplice, fluido e intuitivo per raggiungere il giusto obiettivo. Tramite l'utilizzo di mock-up sarà possibile verificare se questa condizione verrà correttamente rispettata.
 
@@ -161,4 +171,25 @@ Alcuni utenti appaiono visibilmente spaventati dal fatto di produrre un'applicaz
 
 Dopo lo svolgimento di questionari e interviste sono emersi requisiti aggiuntivi di vario genere, provenienti da studenti differenti. Non vengono dunque riportati nella loro totalità ma viene segnalato l'unico requisito richiesto più volte e che costituisce dunque un elemento di discreta importanza:
 
-- dovrebbe essere necessario poter visualizzare la capienza delle aule e sapere quando è possibile trovare dei posti liberi per potersi fermare a studiare
+- visualizzazione della capienza delle aule e la disponibilità dei posti a sedere
+
+<!-- Ho copiato tutti i requisiti consigliati -->
+
+| **Altri requisiti**                                          | **Percentuale** |
+| ------------------------------------------------------------ | --------------- |
+| Laboratori e aule libere                                     | 6%              |
+| Capienza aule                                                | 12%             |
+| Calendario accademico                                        | 6%              |
+| Materiali forniti dai docenti                                | 6%              |
+| Sezione appunti                                              | 6%              |
+| Orari segreterie e tempo di attesa                           | 6%              |
+| Mail universitaria integrata                                 | 6%              |
+| Sostituzione delle segreterie online                         | 6%              |
+| Orientamento matricole                                       | 6%              |
+| Orari apertura e chiusure edificio e aule                    | 6%              |
+| Sezione bibliotecaria                                        | 6%              |
+| Importazione eventi e lezioni sul calendario personale       | 6%              |
+| Previsione voto sulla base di statistiche generali e andamento | 6%              |
+| Statistiche tempo di studio richiesto per l’esame            | 6%              |
+| Elenco dei capitoli da studiare                              | 6%              |
+| Controllo tasse                                              | 6%              |
