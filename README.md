@@ -14,7 +14,7 @@ Basso Matteo 807628
 
 ## Obiettivi del documento
 
-Vengono descritte nel seguente documento le procedure di estrazione dei requisiti dell'applicazione **UniPocket** e i conseguenti risultati<!--, incluse attività di analisi-->. Vengono inoltre riportate le funzionalità del sistema e ciò che intende risolvere, fungendo da base contrattuale tra il cliente e lo sviluppatore.
+Vengono descritte nel seguente documento le procedure di estrazione dei requisiti dell'applicazione **UniPocket** e i conseguenti risultati, incluse attività di analisi. Vengono inoltre riportate le funzionalità del sistema e ciò che intende risolvere, fungendo da base contrattuale tra il cliente e lo sviluppatore.
 Il documento viene redatto nella lingua del dominio del business e di competenza del cliente (nel nostro caso l'italiano).
 
 ## Sistem as-is
@@ -140,13 +140,13 @@ Successivamente ad ogni interview viene trascritto un report per riassumere ed e
 
 Dal questionario sottoposto dagli studenti sono emersi diversi aspetti che vengono riportati di seguito.
 
-#### Utenti intervistati <!-- non so se intervistati sia la parola adatta -->
+#### Utenti coinvolti
 
 Il questionario è stato svolto quasi per il 50% da studenti maschili e 50% ad studenti femminili. Essi provengono da diversi corsi di studio, nonostante la grande maggioranza, circa il 70%, proviene da quello di informatica, il 10% da quello di economia e il restante da corsi differenti.
 
 #### Sistemi utilizzati correntemente
 
-Circa il 50% del totale non sembra utilizzare alcuna applicazione per monitorare la propria carriera universitaria, piano di studi, media etc. Tra gli utilizzatori vi è una forte prevalenza dell'applicativo "UniWhere".  Invece la maggior per controllare gli orari delle lezioni risulta che ma maggior parte degli studenti utilizza l'applicazione "UnimibCourse". <!-- definire cosa offrono queste applicazioni (?)-->  
+Circa il 50% del totale non sembra utilizzare alcuna applicazione per monitorare la propria carriera universitaria, piano di studi, media etc. Tra gli utilizzatori vi è una forte prevalenza dell'applicativo "UniWhere". Invece per controllare gli orari delle lezioni risulta che la maggior parte degli studenti utilizza l'applicazione "UnimibCourse". <!-- definire cosa offrono queste applicazioni (?) => penso sia sufficiente così, rende l'idea generale -->  
 Per quanto riguarda la vendita di libri quasi la totalità degli studenti non utilizza applicazioni, solo il 20% sfrutta canali alternativi quali social network (Facebook e Telegram in particolare) oppure negozi come il "libraccio". Inoltre gli utilizzatori non sembrano essere interessati all'aggiunta di questo tipo di funzionalità all'interno di UniPocket.  
 Il sistema di prenotazione degli esami non sembra soddisfare a sufficienza gli studenti, infatti molti esprimono l'esigenza di poterlo fare in modo più pratico tramite un app mobile.  
 La mensa universitaria non sembra essere frequentata spesso, se non da pochi studenti, nonostante ciò notiamo un certo  interesse verso i servizi che vorremmo integrare.   
@@ -170,8 +170,6 @@ Alcuni utenti appaiono visibilmente spaventati dal fatto di produrre un'applicaz
 Dopo lo svolgimento di questionari e interviste sono emersi requisiti aggiuntivi di vario genere, provenienti da studenti differenti. Non vengono dunque riportati nella loro totalità ma viene segnalato l'unico requisito richiesto più volte e che costituisce dunque un elemento di discreta importanza:
 
 - visualizzazione della capienza delle aule e la disponibilità dei posti a sedere
-
-<!-- Ho copiato tutti i requisiti consigliati -->
 
 | **Altri requisiti**                                          | **Percentuale** |
 | ------------------------------------------------------------ | --------------- |
