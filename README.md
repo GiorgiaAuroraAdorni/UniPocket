@@ -66,23 +66,11 @@ Esistono sei tipi principali "attori" nell'applicazione UniPocket:
 - Enti della privacy (garante della protezione dei dati personali), che impongono dei regolamenti sulla gestione dei dati degli utenti, impongono dei vincoli "normativi" ma non sono parti interessate. Il loro principale impatto sarà come una fonte di vincoli. 
 - Il team di sviluppo è colui che realizza effettivamente l'applicazione una volta ottenuti tutti i requisiti ed effettuata l'analisi. Appare dunque chiara la motivazione per la quale risulta interessato al prodotto.
 
-Esaminando questi cinque stakeholders abbiamo definito che solo a tre di essi è necessario sottoporre questionari ed interviste, ovvero agli studenti, ai professori e all'amministrazione universitaria.
+Esaminando questi cinque candidati abbiamo definto che solo tre di essi sono dei veri e propri stakeholders, ovvero agli studenti, ai professori e all'amministrazione universitaria. Ad essi verranno sottoposti questionari ed interviste, .
 
-Prima di poter procedere alla fase di sottomissione dei questionari e delle interviste, abbiamo definito le priorità e i diritti di ciascuna categoria, in modo da poter scegliere tra due requisiti contrastanti e risolvere situazioni in cui abbiano uguale priorità e non possano essere scambiati in modo efficace. In particolare è stato scelto di attribuire maggior importanza agli studenti, poichè risultano coloro che utilizzano maggiormente i sistemi mobile durante la vita quotidiana e che hanno la necessità di accedere a una grande quantità di informazioni di diversa natura. Successivamente vi sono i professori che utilizzano i sistemi informativi per svolgere il loro lavoro, probabilmente per la maggior parte del tempo mediante l'utilizzo di un computer laptop, e solo infine l'amministrazione dell'università.
-Nonostante ciò i requisiti di studenti, professori e amministrazione non dovrebbero risultare in contrasto tra di loro, poichè ognuno di essi visualizza una versione differente dell'applicazione con le sole funzionalità disponibili coerenti con il ruolo ricoperto.
-Sono stato inoltre selezionati alcuni rappresentati appropriati degli stakeholder che possono parlare a nome del gruppo. Nel caso degli studenti, come nel caso dei professori, essi risultano coloro che ricoprono cariche amministrative, ovvero i rappresentanti degli studenti e i coordinatori dei vari dipartimenti. Nel caso dell'amministrazione invece è necessario individuare gli addetti all'analisi dei dati e questionari per la soddisfazione generale.
-
-<!-- SOPRA: Inoltre, prima di poter procedere alla fase di sottomissione dei questionari e delle interviste, abbiamo definito le priorità e i diritti di ciascuna categoria (parte interessata), in modo da poter scegliere tra due requisiti contrastanti e risolvere situazioni in cui abbiano uguale priorità e non possano essere scambiati in modo efficace. 
-In seguito, dopo aver compreso il ruolo, le responsabilità e le interazioni tra gli stakeholders, abbiamo  identificato i rappresentanti appropriati che possono parlare a nome di un determinato gruppo di stakeholders, in modo da ricevere un contributo per il  processo di sollecitazione dei requisiti del sistema.-->
-
-<!-- QUESTO é SOLO UN APPUNTO PER LA PROSSIMA SUBMIT Idealmente, un rappresentante adeguato per gli stakeholder deve:  
-• comprendere il dominio aziendale;  
-• comprendere questa particolare area applicativa all'interno del dominio aziendale;  
-• capire il problema specifico;   
-• rappresentare fedelmente le esigenze della propria comunità di stakeholder;  
-• essere di supporto al sistema e al processo di definizione dei requisiti;  
-• avere tempo sufficiente per essere in grado di contribuire quando richiesto. 
-Poiché non tutti gli stakeholders possiedono gli attributi di cui sopra (per esempio la comprensione del dominio etc.), è necessario un periodo di formazione e istruzione per garantire che le parti interessate siano a conoscenza dei requisiti (da implementare).-->
+Prima di poter procedere alla fase di sottomissione dei questionari e delle interviste, abbiamo definito le priorità e i diritti di ciascuna categoria, in modo da poter scegliere tra due requisiti contrastanti e risolvere situazioni in cui abbiano uguale priorità e non possano essere scambiati in modo efficace. In particolare è stato scelto di attribuire maggior importanza agli studenti, poichè risultano coloro che utilizzeranno maggiormente i sistemi mobile durante la vita quotidiana e che hanno la necessità di accedere a una grande quantità di informazioni di diversa natura. Successivamente vi sono i professori che utilizzano i sistemi informativi per svolgere il loro lavoro, probabilmente per la maggior parte del tempo mediante l'utilizzo di un computer laptop, e solo infine l'amministrazione dell'università.  
+Nonostante ciò i requisiti di studenti, professori e amministrazione non dovrebbero risultare in contrasto tra di loro, poichè ognuno di essi visualizza una versione differente dell'applicazione con le sole funzionalità disponibili coerenti con il ruolo ricoperto.  
+Sono stati inoltre selezionati alcuni rappresentati appropriati degli stakeholder che possono parlare a nome del gruppo. Nel caso degli studenti, come nel caso dei professori, essi risultano coloro che ricoprono cariche amministrative, ovvero i rappresentanti degli studenti e i coordinatori dei vari dipartimenti. Nel caso dell'amministrazione invece è necessario individuare gli addetti all'analisi dei dati e questionari per la soddisfazione generale.
 
 ### <!--System models-->
 
@@ -90,14 +78,14 @@ Poiché non tutti gli stakeholders possiedono gli attributi di cui sopra (per es
 
 ## Strategia di elicitazione
 
-Secondo le specifiche sugli stakeholder del capitolo precedente la strategia di elicitazione risulta la seguente:
+Secondo le specifiche sugli stakeholder del capitolo precedente la strategia di elicitazione risulta la seguente: <!-- manca la motivazione della strtegia: perchè abbiamo eseguito certe azioni e perchè in questo ordine-->
 
-1. Background study: viene studiato e valutato il sistema esistente, il dominio e altre informazioni utili.
-2. Brainstorming: vengono effettuate una o più sessioni di brainstorming per determinare idee, problemi e soluzioni per l'applicazione.
+1. Background study: viene studiato e valutato il sistema esistente, il dominio e altre informazioni utili. <!-- Non lo abbiamo fatto però... -->
+2. Brainstorming: vengono effettuate una o più sessioni di brainstorming per determinare idee, problemi e soluzioni per l'applicazione. <!-- nemmeno questo lo abbiamo fatto. il brainstorming è un'attività che coinvolge gli stakeholders e non gli sviluppatori.-->
 3. Questionari: vengono svolti questionari da un set di stakeholder selezionato secondo i criteri riportati nei sottocapitoli successivi.
-3. Interview: vengono svolte interviste ad alcuni stakeholder sempre secondo i criteri riportati nei sottocapitoli successivi. In alcuni casi saranno utili i questionari per sviluppare interviste migliori, in altri tale operazione non sarà necessaria.
+3. Interview: vengono svolte interviste ad alcuni stakeholder sempre secondo i criteri riportati nei sottocapitoli successivi. In alcuni casi saranno utili i questionari per sviluppare interviste migliori (come nel caso degli studenti e i professori), in altri tale operazione non sarà necessaria.
 4. Nel caso in cui ci dovessero emergere dei requisiti contrastanti tra i vari stakoholder sarà necessario riprendere il processo di elicitazione del punto 2. Tenendo in considerazione le regole definite nel capitolo precedente per la risoluzione dei conflitti.
-5. Al termine dei punti precedenti sarà possibile sviluppare mock-up da sottoporre agli stakeholder, nel caso in cui tutto sia corretto sarà possibile procedere con gli sviluppi. In caso contrario risulta necessario riprendere l'attività di elicitazione fino alla produzione di mock-up validi e approvati da essi.
+5. Al termine dei punti precedenti sarà possibile sviluppare un mock-up da sottoporre agli stakeholder, nel caso in cui tutto sia corretto sarà possibile procedere con gli sviluppi. In caso contrario risulta necessario riprendere l'attività di elicitazione fino alla produzione di mock-up validi e approvati da essi. <!-- non so se ha senso parlare di mock-up se poi non lo facciamo-->
 
 ### Questionnaires
 
