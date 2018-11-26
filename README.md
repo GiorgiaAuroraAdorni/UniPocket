@@ -154,11 +154,9 @@ Infine, lo spostamento tra gli edifici per le lezioni non appare difficoltoso, n
 
 #### Interesse nelle funzionalità
 
-![Schermata 2018-11-26 alle 22.31.50](/Users/Giorgia/Downloads/PROSVISO/2ndAssignment/RE questionnaires/Schermata 2018-11-26 alle 22.31.50.jpg)
+![alt text](RE%20questionnaires/TableQuestion.jpg)
 
-![image-20181126223949057](/Users/Giorgia/Library/Application Support/typora-user-images/image-20181126223949057.png)
-
-
+![alt text](RE%20questionnaires/Functions.jpg)
 
 #### La soluzione proposta
 
