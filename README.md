@@ -87,6 +87,11 @@ Secondo le specifiche sugli stakeholder del capitolo precedente la strategia di 
 4. Nel caso in cui ci dovessero emergere dei requisiti contrastanti tra i vari stakoholder sarà necessario riprendere il processo di elicitazione del punto 2. Tenendo in considerazione le regole definite nel capitolo precedente per la risoluzione dei conflitti.
 5. Al termine dei punti precedenti sarà possibile sviluppare un mock-up da sottoporre agli stakeholder, nel caso in cui tutto sia corretto sarà possibile procedere con gli sviluppi. In caso contrario risulta necessario riprendere l'attività di elicitazione fino alla produzione di mock-up validi e approvati da essi. <!-- non so se ha senso parlare di mock-up se poi non lo facciamo-->
 
+A seguito di un background study, utile ad una valutazione preventiva del dominio e dello stato del sistema esistente, appare necessario effettuare una prima attività di brainstorming per definire quali possono essere le possibili funzionalità da inserire all'interno dell'applicazione e quali problemi sono volte a risolvere.
+Vengono a questo punto sottoposti questionari agli stakeholder maggiormente numerosi, al fine di ottenere informazioni rapide e che consentano l'organizzazione di interview maggiormente mirate. Si svolgono quindi le interview agli stakeholder di particolare importanza.
+
+Risulta necessario a questo punto analizzare i requisiti e verificare l'eventuale presenza di contrasti. Nel caso in cui dovessero essere presenti risulterebbe necessario riprendere dall'attività di brainstorming per risolverli, altrimenti è possibile procedere con la valutazione e la creazione di mockup da sottoporre agli stakeholder. Tali mockup verranno modificati man mano finchè non verrà raggiunta una versione approvata e confermata da tutti gli stakeholder.
+
 ### Questionnaires
 
 I questionari sono molteplici e differenti in base allo stakeholder. In particolare è stato scelto di sottoporre questionari diversi a studenti e professori, che rappresentano gli stakeholder più numerosi.
