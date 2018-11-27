@@ -134,6 +134,12 @@ Di seguito vengono riportate le informazioni che è necessario ottenere da ciasc
 
 Successivamente ad ogni interview viene trascritto un report per riassumere ed evidenziare le criticità e i punti di maggior interesse che sono emersi dal processo. Tale report viene sottoposto quindi allo stakeholder che deve confermare o rifinire ciò che è stato riportato. Risulta possibile a questo punto effettuare un'analisi su quanto trascritto e valutare come viene ritenuto adeguato procedere.
 
+#### Interview amministrazione
+
+All'amministrazione vengono dapprima poste domande circa l'utilizzo degli applicativi correnti per l'analisi e la consultazione di dati raccolti durante l'anno accademico. Non avendo svolto preventivamene un questionario infatti è ancora necessario comprendere questo tipo di informazioni. Nello specifico viene domandato quali processi vengono monitorati e come avviene la raccolta e l'utilizzo dei dati, i formati nei quali vengono resi disponibili e la loro effettiva utilità.
+
+Successivamente si cerca di identificare e valutare ulteriori dati potenzilamente utili al miglioramente dell'attività universitaria ma al momento non disponibili per svariati motivi. In particolare si cerca di stabilire se l'utilizzo di UniPocket posso fornire tali dati e come possa visualizzarli per agevolare la loro consultazione da parte dell'utente. Viene dunque domandato come UniPocket possa migliorare l'esperienza corrente e si cerca di identificare le statistiche che possono essere condivise anche con professori e studenti al fine di mantenere una gestione trasparente.
+
 ## Analisi dei risultati ottenuti
 
 ### Questionario studenti

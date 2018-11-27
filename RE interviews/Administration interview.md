@@ -5,6 +5,12 @@ Viene dunque dapprima compreso lo stato attuale dell'arte e successivamente veng
 
 ## Sistema corrente
 
+- Utilizza qualche applicazione per raccogliere dati circa
+	- le opinioni degli studenti e dei professori?
+	- l'andamento degli studenti nei vari corsi?
+	- il grado di soddisfazione degli studenti?
+	- il grado di soddisfazione dei professori?
+	- il gradimento dei servizi messi a disposizione dall'università? 
 - Come viene effettuata al momento l'analisi dei questionari svolti da studenti e professori?
 - Essa produce risultati considerevoli utili al miglioramento dei servizi?
 - Quali tipologie di dati sono disponibili?
@@ -12,7 +18,10 @@ Viene dunque dapprima compreso lo stato attuale dell'arte e successivamente veng
 
 ## Miglioramento del sistema corrente
 
-- Pensa vi siano altre informazioni utili all'amministrazione, che al momento non sono disponibili o non è stato possibile ottenere?
-- Pensa che un'applicazione possa portare un'immediatezza nella consultazione dei dati?
-- Cosa desidererebbe ottenere da questa?
-- Come pensa che sia necessario mostrare i dati per poter effettuare delle analisi accurate?
+- Quali informazioni sarebbe di suo gradimento raccogliere tramite un applicazione universitaria rivolta a studenti e docenti?
+- Troverebbbe utile raccogliere statistiche tramite un applicazione universitaria rivolta a docenti e studenti?
+- Quanto ritiene che sia utile l'applicazione UniPocket per la raccolta di informazioni?
+- Cosa si aspetta da UniPocket?
+- Chi pensa che sia interessato a questo progetto e come?
+- Di cosa avreste bisogno in questa applicazione per migliorare lo stato attuale delle cose?
+- Come desiderereste mostrare agli utenti le statistiche riguardo i dati raccolti?
