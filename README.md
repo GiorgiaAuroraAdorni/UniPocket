@@ -138,7 +138,9 @@ Successivamente ad ogni interview viene trascritto un report per riassumere ed e
 
 ### Questionario studenti
 
-Dal questionario sottoposto dagli studenti sono emersi diversi aspetti che vengono riportati di seguito.
+Il questionario è stato sottoposto agli studenti mediante google form ed è disponibile al seguente indirizzo: [https://docs.google.com/forms/d/e/1FAIpQLSd7e5LX8WeAVVtyQL24afb8JZkmHL7s5nHrhenUhMRVNFwtUQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSd7e5LX8WeAVVtyQL24afb8JZkmHL7s5nHrhenUhMRVNFwtUQ/viewform).
+
+A seguito della sua compilazione sono emersi diversi aspetti che vengono riportati di seguito.
 
 #### Utenti coinvolti
 
