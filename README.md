@@ -7,6 +7,10 @@ Version 1.1 –    2.12.2018
 Adorni Giorgia 806787  
 Basso Matteo 807628
 
+# Indice dei contenuti
+
+[TOC]
+
 # Requirements Elicitation (RE)
 
 ## Obiettivi del documento
@@ -36,6 +40,8 @@ Essa prevede numerosi gruppi di funzionalità, differenziati anche sulla base de
 - Consultazione del menù giornaliero delle mense universitarie
 - Consultazione degli orari della navetta
 - Analisi dei dati a scopo statistico da parte dell'amministrazione universitaria
+
+
 
 #### Studenti
 
@@ -89,21 +95,13 @@ Essi sono costituiti principalmente da domande chiuse e a scelta multipla così 
 I questionari sono stati sviluppati e svolti secondo la scala sotto riportata:
 
 1. decisione del pubblico del questionario (vari questionari per i diversi stakeholder).
-
 2. determinazione delle informazioni che si desidera ottenere.
-
 3. decisione del metodo di raccolta dei dati (elettronico, telefonico, postale).
-
 4. decisione dei tipi di domande.
-
 5. utilizzo del questionario su un campione di potenziali rispondenti e, se necessario, revisione delle domande.
-
 6. distribuzione del questionario.
-
 7. analisi delle risposte.
-
 8. presentazione e utilizzo dei risultati.
-
 
 #### Questionario studente
 
@@ -136,6 +134,10 @@ Di seguito vengono riportate le informazioni che è necessario ottenere da ciasc
 
 Successivamente ad ogni interview verrà scritto un report per riassumere ed evidenziare le criticità e i punti di maggior interesse emersi dal processo. Tale report viene sottoposto quindi allo stakeholder che deve confermare o rifinire ciò che è stato riportato. Risulterà possibile a questo punto effettuare un'analisi su quanto trascritto e valutare quale sia il modo adeguato in cui procedere.
 
+
+
+
+
 #### Intervista studente
 
 Partendo dai questionari svolti, sono stati selezionati alcuni studenti a cui sottoporre un'interview per approfondire e chiarire alcuni aspetti emersi dalle domande a risposta aperta.   
@@ -166,6 +168,8 @@ Il questionario è stato sottoposto agli studenti mediante Google Forms è è di
 Gli studenti sono stati contattati tramite social network, in particolare condividendo il link tramite la pagina Instragam 'SpottedBicocca'.  
 Il questionario è stato compilato da 34 studenti, divisi equamente tra uomini e donne. Essi provengono da diversi corsi di studio, nonostante la grande maggioranza, circa il 70%, da quello di informatica.
 
+
+
 #### Sistemi utilizzati correntemente
 
 Circa il 50% degli studenti rispondenti non sembra utilizzare alcuna applicazione per monitorare la propria carriera universitaria, piano di studi, media etc. Tra gli utilizzatori vi è una forte prevalenza dell'applicativo "UniWhere". Invece per controllare gli orari delle lezioni risulta che la maggior parte degli studenti utilizzi l'applicazione "UnimibCourse".  
@@ -183,12 +187,6 @@ In questa sezione vengono riassunte, attraverso dei grafici, le principali infor
 ![alt text](RE%20questionnaires/Domanda2.png)
 
 ![alt text](RE%20questionnaires/Domanda3.png)
-
-
-
-
-
-
 
 #### La soluzione proposta
 
