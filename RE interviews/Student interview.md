@@ -19,6 +19,17 @@ Al termine di queste domande ti verrà mostrato un mock-up dell'applicazione. Po
 
 ## Mock-up
 
-<!-- è necessario inserire domande riguarod i mockup-->
+Ti chiediamo di navigare tra le varie schermate che abbiamo realizzato per riassumere le varie funzionalità dell'applicazione, e di dire tutto ciò che non ti è chiaro o vorresti visualizzare in modo diverso.
 
-- Ti chiediamo di navigare tra le varie schermate che abbiamo realizzato per riassumere le varie funzionalità dell'applicazione, e di dire tutto ciò che non ti è chiaro o vorresti visualizzare in modo diverso.
+- Qual è stata la tua prima impressione quando hai visto l'applicazione?
+- Come ti sembra rispetto le tue aspettative?
+- Pensi possa risultare utile per te?
+- Quale operazione svolgeresti per prima se potessi utilizzarla?
+- C'è qualcosa che vorresti aggiungere, modificare o rimuovere?
+- Vedi qualche aspetto negativo?
+- Pensi che potremmo organizzare le funzionalità in modo differente?
+- La useresti oggi?
+- Quanto saresti disposto a pagare per poterla utilizzare?
+- C'è qualcosa che non ti è o ti è piaciuto particolarmente?
+- Quali aggettivi useresti per descriverla?
+- Con una scala da 1 a 5, quanto la raccomanderesti ad un amico?
