@@ -14,7 +14,7 @@ Inoltre si cercherà di identificare le statistiche che possano essere condivise
 - Quali sono le altre informazioni che vengono raccolte dai dati disponibili dalle attuali "applicazioni"? 
   <!--
   "Come viene effettuata al momento l'analisi dei questionari svolti da studenti e professori?"
-  !!! che senso ha questa domanda? le amministrazioni usano l'app solo per raccogliere dati non hanno una schermata a loro dedicata dove visualizzare grafici etc
+  !!! che senso ha questa domanda? le amministrazioni usano l'app solo per raccogliere dati non hanno una schermata a loro dedicata dove visualizzare grafici etc => i questionari che vengono effettuati al momento su s3 prima di poter fare gli esami, come vengono analizzati? Valuterei la riformulazione della domanda
   "Essa produce risultati considerevoli utili al miglioramento dei servizi?"-->
 
 ## Miglioramento del sistema corrente
