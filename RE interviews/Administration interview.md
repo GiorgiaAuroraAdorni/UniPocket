@@ -1,27 +1,26 @@
 # Administration Requirements Elicitation Interview
 
-L'interview viene effettuata allo scopo di comprendere quali dati sono rilevanti per effettuare un'analisi da parte dell'amministrazione universitaria e come possono essere visualizzati e utilizzati per migliorare i servizi offerti al personale e agli studenti.
-Viene dunque dapprima compreso lo stato attuale dell'arte e successivamente vengono poste delle domande circa i possibili miglioramenti e soluzioni che potrebbero portare dei benefici.
+L'interview viene effettuata allo scopo di comprendere quali siano i dati di interesse per l'amministrazione ed in particolare si cerca di stabilire se e come l'utilizzo di UniPocket possa contribuire ad ottenere ulteriori informazioni utili.
+
+Inoltre si cercherà di identificare le statistiche che possano essere condivise anche con gli utenti dell'applicazione, al fine di mantenere una gestione trasparente.
 
 ## Sistema corrente
 
-- Utilizza qualche applicazione per raccogliere dati circa
-	- le opinioni degli studenti e dei professori?
-	- l'andamento degli studenti nei vari corsi?
-	- il grado di soddisfazione degli studenti?
-	- il grado di soddisfazione dei professori?
-	- il gradimento dei servizi messi a disposizione dall'università? 
-- Come viene effettuata al momento l'analisi dei questionari svolti da studenti e professori?
-- Essa produce risultati considerevoli utili al miglioramento dei servizi?
-- Quali tipologie di dati sono disponibili?
-- Il processo di analisi e consultazione risulta confortevole?
+<!-- vanno motivate le domande -->
+
+- Attualmente quali sono i dati che vengono raccolti riguardo i servizi messi a disposizione dall'università?
+- Per quanto riguarda l'opinione degli studenti riguardo l'organizzazione e i corsi di studio invece?
+- Come vengono utilizzati i dati raccolti?
+- Quali sono le altre informazioni che vengono raccolte dai dati disponibili dalle attuali "applicazioni"? 
+  <!--
+  "Come viene effettuata al momento l'analisi dei questionari svolti da studenti e professori?"
+  !!! che senso ha questa domanda? le amministrazioni usano l'app solo per raccogliere dati non hanno una schermata a loro dedicata dove visualizzare grafici etc
+  "Essa produce risultati considerevoli utili al miglioramento dei servizi?"-->
 
 ## Miglioramento del sistema corrente
 
-- Quali informazioni sarebbe di suo gradimento raccogliere tramite un applicazione universitaria rivolta a studenti e docenti?
+- Quali potrebbero essere ulteriori informazioni da raccogliere per cui l'università nutre interesse?
 - Troverebbbe utile raccogliere statistiche tramite un applicazione universitaria rivolta a docenti e studenti?
-- Quanto ritiene che sia utile l'applicazione UniPocket per la raccolta di informazioni?
-- Cosa si aspetta da UniPocket?
-- Chi pensa che sia interessato a questo progetto e come?
 - Di cosa avreste bisogno in questa applicazione per migliorare lo stato attuale delle cose?
-- Come desiderereste mostrare agli utenti le statistiche riguardo i dati raccolti?
+- Quali statistiche desiderereste mostrare agli utenti  riguardo i dati raccolti, e come?
+

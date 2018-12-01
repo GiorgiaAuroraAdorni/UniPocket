@@ -83,14 +83,11 @@ Secondo le specifiche sugli stakeholder del capitolo precedente la strategia di 
 1. Background study: viene studiato e valutato il sistema esistente, il dominio e altre informazioni utili. <!-- Non lo abbiamo fatto però... -->
 2. Brainstorming: vengono effettuate una o più sessioni di brainstorming per determinare idee, problemi e soluzioni per l'applicazione. <!-- nemmeno questo lo abbiamo fatto. il brainstorming è un'attività che coinvolge gli stakeholders e non gli sviluppatori.-->
 3. Questionari: vengono svolti questionari da un set di stakeholder selezionato secondo i criteri riportati nei sottocapitoli successivi.
-3. Interview: vengono svolte interviste ad alcuni stakeholder sempre secondo i criteri riportati nei sottocapitoli successivi. In alcuni casi saranno utili i questionari per sviluppare interviste migliori (come nel caso degli studenti e i professori), in altri tale operazione non sarà necessaria.
-4. Nel caso in cui ci dovessero emergere dei requisiti contrastanti tra i vari stakoholder sarà necessario riprendere il processo di elicitazione del punto 2. Tenendo in considerazione le regole definite nel capitolo precedente per la risoluzione dei conflitti.
-5. Al termine dei punti precedenti sarà possibile sviluppare un mock-up da sottoporre agli stakeholder, nel caso in cui tutto sia corretto sarà possibile procedere con gli sviluppi. In caso contrario risulta necessario riprendere l'attività di elicitazione fino alla produzione di mock-up validi e approvati da essi. <!-- non so se ha senso parlare di mock-up se poi non lo facciamo-->
-
-A seguito di un background study, utile ad una valutazione preventiva del dominio e dello stato del sistema esistente, appare necessario effettuare una prima attività di brainstorming per definire quali possono essere le possibili funzionalità da inserire all'interno dell'applicazione e quali problemi sono volte a risolvere.
-Vengono a questo punto sottoposti questionari agli stakeholder maggiormente numerosi, al fine di ottenere informazioni rapide e che consentano l'organizzazione di interview maggiormente mirate. Si svolgono quindi le interview agli stakeholder di particolare importanza.
-
-Risulta necessario a questo punto analizzare i requisiti e verificare l'eventuale presenza di contrasti. Nel caso in cui dovessero essere presenti risulterebbe necessario riprendere dall'attività di brainstorming per risolverli, altrimenti è possibile procedere con la valutazione e la creazione di mockup da sottoporre agli stakeholder. Tali mockup verranno modificati man mano finchè non verrà raggiunta una versione approvata e confermata da tutti gli stakeholder.
+3. **Interviste**: vengono svolte le interviste rivolte alle amministrazioni universitarie, secondo i criteri riportati nei sottocapitoli successivi. <!-- manca la motivazione per cui facciamo l'intervisa all'amministrazione-->
+4. A seguito di questa prima fase di questionari ed interviste verranno analizzati i requisiti emersi e verificata l'eventuale presenza di contrasti tra essi nei diversi gruppi di stakeholder. Nel caso in cui ciò dovesse verificarsi sarà necessario riprendere il processo di elicitazione tenendo in considerazione le regole definite nel capitolo precedente per la risoluzione dei conflitti. Eventualmente sarà possibile organizzare una seduta di brainstorming che coinvolga alcuni rappresentanti dei diversi gruppi di stakeholder.
+5. **Mock-up**: al termine dei punti precedenti sarà possibile sviluppare dei mock-up da sottoporre alla valutazione degli stakeholder. Tali mockup verranno modificati man mano finchè non verrà raggiunta una versione approvata e confermata da tutti gli stakeholder.
+6. **Interviste**: a seguito dell'analisi svolta sui questionari rivolti agli studenti e della creazione dei mock-up, verranno sviluppate delle interviste mirate a specifici studenti, in cui si punterà a chiarire gli aspetti emersi dalla sottomissione del questionario e in cui verranno mostrati i mock-up realizzati nel punto precedente, la cui approvazione permetterà l’inizio dello sviluppo tecnico.
+7.  Nel caso in cui tutto sia corretto sarà possibile procedere con gli sviluppi. In caso contrario sarà necessario riprendere l'attività di elicitazione. 
 
 ### Questionnaires
 
@@ -128,7 +125,7 @@ Sono sempre presenti domande ridondanti e scale numeriche di gradimento.
 
 ### Interviews
 
-Anche per quanto riguarda le interview sono stati redatti documenti differenti in base allo stakeholder. Esse verranno poste sia a studenti, che a professori e amministrazione. Nei primi due casi le interviste saranno svolte a partire dal questionario precedentemente sottoposto a tali stakeholder, nel caso dell'amministrazione invece verrà svolta senza una precedente interazione.
+Anche per quanto riguarda le interview sono stati redatti documenti differenti in base allo stakeholder. Esse verranno poste a studenti e all'amministrazione. Nel primo caso saranno svolte a partire dal questionario precedentemente sottoposto, mentre nel secondo caso verrà svolta senza una precedente interazione.  
 Dal punto di vista pratico è stato selezionato un set limitato di domande da porre al fine di ottenere informazioni specifiche e mirate. Esse risultano volutamente non eccessivamente numerose, così da poter lasciare spazio a un libero dialogo, al fine di esplorare e comprendere meglio il sistema corrente, le problematiche e le eventuali soluzioni possibili dal suo punto di vista.  
 Le interview inizieranno dunque con la parte strutturata, costituita dalle domande definite nei documenti e proseguiranno con una parte non strutturata e libera.
 
@@ -137,19 +134,26 @@ Di seguito vengono riportate le informazioni che è necessario ottenere da ciasc
 - I professori possono esprimere la loro soddisfazione riguardo le procedure e l'utilizzo di applicativi offerti dall'università. Sono in grado di identificare le problematiche esistenti, poichè consuenti utilizzatori dei sistemi e dunque potenzialmente capaci di identificare migliorie dal punto di vista procedurale e comunicativo all'interno dell'ambiente universitario.
 - L'università ha la capacità di identificare quali dati sono rilevanti per effettuare analisi e come possono essere visualizzati e utilizzati per migliorare i servizi offerti al personale e agli studenti.
 
-Successivamente ad ogni interview viene trascritto un report per riassumere ed evidenziare le criticità e i punti di maggior interesse che sono emersi dal processo. Tale report viene sottoposto quindi allo stakeholder che deve confermare o rifinire ciò che è stato riportato. Risulta possibile a questo punto effettuare un'analisi su quanto trascritto e valutare come viene ritenuto adeguato procedere.
+Successivamente ad ogni interview verrà scritto un report per riassumere ed evidenziare le criticità e i punti di maggior interesse emersi dal processo. Tale report viene sottoposto quindi allo stakeholder che deve confermare o rifinire ciò che è stato riportato. Risulterà possibile a questo punto effettuare un'analisi su quanto trascritto e valutare quale sia il modo adeguato in cui procedere.
 
 #### Interview studente
 
-Partendo dal questionario già svolto, è stata redatta l'interview da sottoporre ad alcuni particolari studenti. Ad essi vengono sempre poste domande circa lo stato attuale dell'arte, ovvero l'utilizzo di applicazioni mobili per la visione della carriera, degli orario etc al momento corrente. Si cerca però di capire perchè solamente il 50% di loro ne fa uso.
+Partendo dai questionari svolti, sono stati selezionati alcuni studenti a cui sottoporre un'interview per approfondire e chiarire alcuni aspetti emersi dalle domande a risposta aperta.   
+Uno degli aspetti su cui ci concentreremo sarà identificare le motivazioni per cui solo il 50% degli studenti utilizza applicazioni universiterie.  
+In seguito si andrà ad indagare se i principali requisiti emersi dal questionario sono condivisi dagli intervistati.  
+Inoltre, struttando i mock-up realizzati andremo a definire l'impressione dell'applicazione al primo impatto con l'utente, in pariticolare per comprendere se dia l'idea di essere confusionaria in quanto essa contenga una vasta gamma di funzionalità.
 
-A seguito di tali domande invece è utile comprendere se il principale requisito emerso dal questionario viene condiviso anche dagli intervistati e come l'impressione che fornisce l'applicazione al primo impatto con l'utente. Risulta utile comprendere se fornisce l'idea di essere confusionaria in quanto racchiunde una vasta gamma di funzionalità oppure il contrario. Si cerca quindi di comprendere insieme all'intervistato quali funzionalità sono necessarie al suo interno e perchè.
+Si cerca quindi di comprendere insieme all'intervistato quali siano le funzionalità necessarie al suo interno e perchè.
 
 #### Interview amministrazione
 
-All'amministrazione vengono dapprima poste domande circa l'utilizzo degli applicativi correnti per l'analisi e la consultazione di dati raccolti durante l'anno accademico. Non avendo svolto preventivamene un questionario infatti è ancora necessario comprendere questo tipo di informazioni. Nello specifico viene domandato quali processi vengono monitorati e come avviene la raccolta e l'utilizzo dei dati, i formati nei quali vengono resi disponibili e la loro effettiva utilità.
+Non avendo preventivamene svolto un questionario all'amministrazione, a questo stakeholder verranno dapprima sottoposte domande circa l'utilizzo degli applicativi correnti per la raccolta dei dati durante l'anno accademico.  
+Nello specifico viene domandato quali processi vengono monitorati e come avviene la raccolta e l'utilizzo dei dati, i formati nei quali vengono resi disponibili e la loro effettiva utilità. 
 
-Successivamente si cerca di identificare e valutare ulteriori dati potenzilamente utili al miglioramente dell'attività universitaria ma al momento non disponibili per svariati motivi. In particolare si cerca di stabilire se l'utilizzo di UniPocket posso fornire tali dati e come possa visualizzarli per agevolare la loro consultazione da parte dell'utente. Viene dunque domandato come UniPocket possa migliorare l'esperienza corrente e si cerca di identificare le statistiche che possono essere condivise anche con professori e studenti al fine di mantenere una gestione trasparente.
+Successivamente si cerca di identificare quali potrebbero essere ulteriori dati di interesse per le amministrazioni, potenzilamente utili al miglioramente dell'attività universitaria, ma al momento non disponibili per svariati motivi.  
+In particolare si cerca di stabilire se e come l'utilizzo di UniPocket possa contribuire ad ottenere tali informazioni.
+
+Inoltre si cercherà di identificare le statistiche che possano essere condivise anche con gli utenti dell'applicazione, al fine di mantenere una gestione trasparente.
 
 ## Analisi dei risultati ottenuti
 

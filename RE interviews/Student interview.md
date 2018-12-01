@@ -1,21 +1,24 @@
 # Student Requirements Elicitation Interview
 
-L'interview viene effettuata allo scopo di comprendere la soddisfazione generale degli studenti riguardo l'utilizzo di applicativi offerti dall'università e da terze parti per la gestione della loro carriera universitaria, con conseguente identificazione di una soluzione.
-Viene dunque dapprima compreso il grado di soddisfazione degli studenti e quali sono le problematiche esistenti.
-Successivamente vengono poste delle domande circa le possibili soluzioni che potrebbero migliorare e risolvere i problemi preesistenti.
+L'interview che andremo ad effettuare ha lo scopo di approfondire gli aspetti emersi durante la compilazione del questionario.
+
+In particolare i due grandi aspetti su cui ci vorremmo concentrare sono l'identificazione delle motivazioni per cui solo la metà degli studenti utilizza applicazioni universiterie e se le principali necessità e funzionalità emerse dal questionario siano da te condivise.
+
+Al termine di queste domande ti verrà mostrato un mock-up dell'applicazione. Potremo a questo punto concentrarci sull'aspetto visuale del prodotto.
 
 ## Sistema corrente
 
-- Utilizzi qualche applicazione per controllare il tuo libretto, calcolare la media, base di laurea etc?
-- Utilizzi qualche applicazione per controllare l'orario delle lezioni?
-- Sembrerebbe che solamente il 50% degli studenti utilizza un'applicazione per visualizzare questo tipo di informazioni. Cosa ne pensi a riguardo?
-- Come trovi il processo per la prenotazione degli esami? Perchè?
-- Sei soddisfatto di questi applicativi?
+- Sembrerebbe che solamente il 50% degli studenti utilizzi un'applicazione universitaria, per visualizzare informazioni come i voti degli esami o gli orari delle lezioni. Cosa ne pensi a riguardo?
 
 ## Risoluzione delle problematiche
 
 - Pensi che un'unica applicazione possa rendere la tua esperienza migliore?
 - Pensi sia un punto di forza racchiundere molte funzionalità in un solo sistema o può apparire confusionario? Perchè?
 - Sembrerebbe che molti studenti trovino difficoltosa la ricerca di un posto libero a sedere in aula studio durante la giornata. Riteressti utile poter visualizzare la capienza delle aule e la disponibilità dei posti a sedere?
-- Cosa desideresti ottenere da questa UniPocket?
-- Chi pensi che sia influenzato (positivo e negativo) dal progetto e come?
+- Pensi che una sezione dedicata alla visualizzazione del materiale didattico, messo a disposizione dai docenti o condiviso tra gli studenti sia necessaria in questa applicazione?
+
+## Mock-up
+
+<!-- è necessario inserire domande riguarod i mockup-->
+
+- Ti chiediamo di navigare tra le varie schermate che abbiamo realizzato per riassumere le varie funzionalità dell'applicazione, e di dire tutto ciò che non ti è chiaro o vorresti visualizzare in modo diverso.
