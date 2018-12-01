@@ -36,8 +36,6 @@ Essa prevede numerosi gruppi di funzionalità, differenziati anche sulla base de
 - Consultazione degli orari della navetta
 - Analisi dei dati a scopo statistico da parte dell'amministrazione universitaria
 
-
-
 #### Studenti
 
 - Visibilità del piano di studi e libretto voti 
@@ -131,10 +129,6 @@ Di seguito vengono riportate le informazioni che è necessario ottenere da ciasc
 
 Successivamente ad ogni interview verrà scritto un report per riassumere ed evidenziare le criticità e i punti di maggior interesse emersi dal processo. Tale report viene sottoposto quindi allo stakeholder che deve confermare o rifinire ciò che è stato riportato. Risulterà possibile a questo punto effettuare un'analisi su quanto trascritto e valutare quale sia il modo adeguato in cui procedere.
 
-
-
-
-
 #### Intervista studente
 
 Partendo dai questionari svolti, sono stati selezionati alcuni studenti a cui sottoporre un'interview per approfondire e chiarire alcuni aspetti emersi dalle domande a risposta aperta.   
@@ -160,12 +154,12 @@ Inoltre si cercherà di identificare le statistiche che possano essere condivise
 
 Il questionario è stato sottoposto agli studenti mediante Google Forms è è disponibile al seguente link: [UniPocket Student Questionnarie](https://docs.google.com/forms/d/e/1FAIpQLSd7e5LX8WeAVVtyQL24afb8JZkmHL7s5nHrhenUhMRVNFwtUQ/viewform).
 
+
+
 #### Utenti coinvolti
 
 Gli studenti sono stati contattati tramite social network, in particolare condividendo il link tramite la pagina Instragam 'SpottedBicocca'.  
 Il questionario è stato compilato da 34 studenti, divisi equamente tra uomini e donne. Essi provengono da diversi corsi di studio, nonostante la grande maggioranza, circa il 70%, da quello di informatica.
-
-
 
 #### Sistemi utilizzati correntemente
 
@@ -191,6 +185,10 @@ Le applicazioni esistenti vengono al momento utilizzate con una media frequenza,
 Tutte le funzionalità proposte risultano quasi di uguale importanza, mentre di particolare rilevanza risulta essere la possibilità di sapere dove poter trovare posto nelle aule studio e in biblioteca per potersi fermare a studiare.  
 Per quanto riguarda l'interesse generale allo sviluppo di UniPocket è emerso che circa il 20% degli intervistati è veramente entuasiasta dell'idea, tanto da lasciare commenti esaustivi.
 Alcuni utenti appaiono visibilmente spaventati dal fatto di produrre un'applicazione unica con molte funzionalità, pensando che essa diventi particolarmente difficile da utilizzare o confusionaria. Come sottolineato da alcuni di essi è necessario sviluppare un sistema semplice, fluido e intuitivo per raggiungere il giusto obiettivo. Tramite l'utilizzo di mock-up sarà possibile verificare se questa condizione verrà correttamente rispettata.
+
+
+
+
 
 ## Segnalazione dei requisiti emergenti
 

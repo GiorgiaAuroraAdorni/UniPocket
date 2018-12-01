@@ -1,9 +1,7 @@
 # Student Requirements Elicitation Interview
 
-L'interview che andremo ad effettuare ha lo scopo di approfondire gli aspetti emersi durante la compilazione del questionario.
-
-In particolare i due grandi aspetti su cui ci vorremmo concentrare sono l'identificazione delle motivazioni per cui solo la metà degli studenti utilizza applicazioni universiterie e se le principali necessità e funzionalità emerse dal questionario siano da te condivise.
-
+L'interview che andremo ad effettuare ha lo scopo di approfondire gli aspetti emersi durante la compilazione del questionario.  
+In particolare i due grandi aspetti su cui ci vorremmo concentrare sono l'identificazione delle motivazioni per cui solo la metà degli studenti utilizza applicazioni universiterie e se le principali necessità e funzionalità emerse dal questionario siano da te condivise.  
 Al termine di queste domande ti verrà mostrato un mock-up dell'applicazione. Potremo a questo punto concentrarci sull'aspetto visuale del prodotto.
 
 ## Sistema corrente
