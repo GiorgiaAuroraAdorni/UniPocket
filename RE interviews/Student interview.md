@@ -21,4 +21,4 @@ Al termine di queste domande ti verrà mostrato un mock-up dell'applicazione. Po
 
 <!-- è necessario inserire domande riguarod i mockup-->
 
-- Ti chiediamo di navigare tra le varie schermate che abbiamo realizzato per riassumere le varie funzionalità dell'applicazione, e di dire tutto ciò che non ti è chiaro o vorresti visualizzare in modo diverso.
+- Ti chiediamo di navigare tra le diverse schermate che abbiamo realizzato e di dirci ciò che non ti è chiaro o vorresti visualizzare diversamente.
