@@ -7,6 +7,10 @@ Version 1.1 –    2.12.2018
 Adorni Giorgia 806787  
 Basso Matteo 807628
 
+# Indice dei contenuti
+
+[TOC]
+
 # Requirements Elicitation (RE)
 
 ## Obiettivi del documento
@@ -36,6 +40,8 @@ Essa prevede numerosi gruppi di funzionalità, differenziati anche sulla base de
 - Consultazione del menù giornaliero delle mense universitarie
 - Consultazione degli orari della navetta
 - Analisi dei dati a scopo statistico da parte dell'amministrazione universitaria
+
+
 
 #### Studenti
 
@@ -128,7 +134,11 @@ Di seguito vengono riportate le informazioni che è necessario ottenere da ciasc
 
 Successivamente ad ogni interview verrà scritto un report per riassumere ed evidenziare le criticità e i punti di maggior interesse emersi dal processo. Tale report viene sottoposto quindi allo stakeholder che deve confermare o rifinire ciò che è stato riportato. Risulterà possibile a questo punto effettuare un'analisi su quanto trascritto e valutare quale sia il modo adeguato in cui procedere.
 
-#### Interview studente
+
+
+
+
+#### Intervista studente
 
 Partendo dai questionari svolti, sono stati selezionati alcuni studenti a cui sottoporre un'interview per approfondire e chiarire alcuni aspetti emersi dalle domande a risposta aperta.   
 Uno degli aspetti su cui ci concentreremo sarà identificare le motivazioni per cui solo il 50% degli studenti utilizza applicazioni universiterie.  
@@ -137,7 +147,7 @@ Inoltre, struttando i mock-up realizzati andremo a definire l'impressione dell'a
 
 Si cerca quindi di comprendere insieme all'intervistato quali siano le funzionalità necessarie al suo interno e perchè.
 
-#### Interview amministrazione
+#### Intervista amministrazione
 
 Non avendo preventivamene svolto un questionario all'amministrazione, a questo stakeholder verranno dapprima sottoposte domande circa l'utilizzo degli applicativi correnti per la raccolta dei dati durante l'anno accademico.  
 Nello specifico viene domandato quali processi vengono monitorati e come avviene la raccolta e l'utilizzo dei dati, i formati nei quali vengono resi disponibili e la loro effettiva utilità. 
@@ -157,6 +167,8 @@ Il questionario è stato sottoposto agli studenti mediante Google Forms è è di
 
 Gli studenti sono stati contattati tramite social network, in particolare condividendo il link tramite la pagina Instragam 'SpottedBicocca'.  
 Il questionario è stato compilato da 34 studenti, divisi equamente tra uomini e donne. Essi provengono da diversi corsi di studio, nonostante la grande maggioranza, circa il 70%, da quello di informatica.
+
+
 
 #### Sistemi utilizzati correntemente
 

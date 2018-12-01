@@ -255,6 +255,10 @@ Quali idee di cui parli con i tuoi compagni potrebbero migliorare UniPocket?
 
 In quale luogo pensi di utilizzare questa applicazione?
 
-### Si prega di scrivere qualsiasi altro commento qui sotto.
+
+
+
+
+<br><br>Si prega di scrivere qualsiasi altro commento qui sotto.
 
 <br><br><br><br><br><br>Grazie per la partecipazione.
