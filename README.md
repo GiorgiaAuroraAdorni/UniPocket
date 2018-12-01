@@ -1,16 +1,13 @@
 # UniPocket
 Secondo Assignment di Processo e Sviluppo del Software.
 
-Version 1.0 – 20.11.2018
+Version 1.0 – 20.11.2018  
+Version 1.1 –    2.12.2018
 
 Adorni Giorgia 806787  
 Basso Matteo 807628
 
 # Requirements Elicitation (RE)
-
-## <!--Istruzioni del documento-->
-
-<!--inserire le istruzioni eventuali-->
 
 ## Obiettivi del documento
 
@@ -66,15 +63,11 @@ Esistono sei tipi principali "attori" nell'applicazione UniPocket:
 - Enti della privacy (garante della protezione dei dati personali), che impongono dei regolamenti sulla gestione dei dati degli utenti, impongono dei vincoli "normativi" ma non sono parti interessate. Il loro principale impatto sarà come una fonte di vincoli. 
 - Il team di sviluppo è colui che realizza effettivamente l'applicazione una volta ottenuti tutti i requisiti ed effettuata l'analisi. Appare dunque chiara la motivazione per la quale risulta interessato al prodotto.
 
-Esaminando questi cinque candidati abbiamo definto che solo tre di essi sono dei veri e propri stakeholders, ovvero agli studenti, ai professori e all'amministrazione universitaria. Ad essi verranno sottoposti questionari ed interviste, .
+Esaminando questi candidati abbiamo definto che solo tre di essi sono dei veri e propri stakeholders, ovvero gli studenti, i professori e l'amministrazione universitaria. Le analisi precedenti verrano utilizzate per definire la strategia di elicitazione.
 
 Prima di poter procedere alla fase di sottomissione dei questionari e delle interviste, abbiamo definito le priorità e i diritti di ciascuna categoria, in modo da poter scegliere tra due requisiti contrastanti e risolvere situazioni in cui abbiano uguale priorità e non possano essere scambiati in modo efficace. In particolare è stato scelto di attribuire maggior importanza agli studenti, poichè risultano coloro che utilizzeranno maggiormente i sistemi mobile durante la vita quotidiana e che hanno la necessità di accedere a una grande quantità di informazioni di diversa natura. Successivamente vi sono i professori che utilizzano i sistemi informativi per svolgere il loro lavoro, probabilmente per la maggior parte del tempo mediante l'utilizzo di un computer laptop, e solo infine l'amministrazione dell'università.  
 Nonostante ciò i requisiti di studenti, professori e amministrazione non dovrebbero risultare in contrasto tra di loro, poichè ognuno di essi visualizza una versione differente dell'applicazione con le sole funzionalità disponibili coerenti con il ruolo ricoperto.  
 Sono stati inoltre selezionati alcuni rappresentati appropriati degli stakeholder che possono parlare a nome del gruppo. Nel caso degli studenti, come nel caso dei professori, essi risultano coloro che ricoprono cariche amministrative, ovvero i rappresentanti degli studenti e i coordinatori dei vari dipartimenti. Nel caso dell'amministrazione invece è necessario individuare gli addetti all'analisi dei dati e questionari per la soddisfazione generale.
-
-### <!--System models-->
-
-<!-- PROSSIMA SUBMIT Eventuali scenari, storyboard e mockup dell'applicazione: modelli illustrativi, l'interfaccia utente del sistema e i percorsi di navigazione che rappresentano la sequenza di schermate-->
 
 ## Strategia di elicitazione
 
@@ -96,13 +89,21 @@ Essi sono costituiti principalmente da domande chiuse e a scelta multipla così 
 I questionari sono stati sviluppati e svolti secondo la scala sotto riportata:
 
 1. decisione del pubblico del questionario (vari questionari per i diversi stakeholder).
+
 2. determinazione delle informazioni che si desidera ottenere.
+
 3. decisione del metodo di raccolta dei dati (elettronico, telefonico, postale).
+
 4. decisione dei tipi di domande.
+
 5. utilizzo del questionario su un campione di potenziali rispondenti e, se necessario, revisione delle domande.
+
 6. distribuzione del questionario.
+
 7. analisi delle risposte.
+
 8. presentazione e utilizzo dei risultati.
+
 
 #### Questionario studente
 
@@ -135,7 +136,7 @@ Di seguito vengono riportate le informazioni che è necessario ottenere da ciasc
 
 Successivamente ad ogni interview verrà scritto un report per riassumere ed evidenziare le criticità e i punti di maggior interesse emersi dal processo. Tale report viene sottoposto quindi allo stakeholder che deve confermare o rifinire ciò che è stato riportato. Risulterà possibile a questo punto effettuare un'analisi su quanto trascritto e valutare quale sia il modo adeguato in cui procedere.
 
-#### Interview studente
+#### Intervista studente
 
 Partendo dai questionari svolti, sono stati selezionati alcuni studenti a cui sottoporre un'interview per approfondire e chiarire alcuni aspetti emersi dalle domande a risposta aperta.   
 Uno degli aspetti su cui ci concentreremo sarà identificare le motivazioni per cui solo il 50% degli studenti utilizza applicazioni universiterie.  
@@ -144,7 +145,7 @@ Inoltre, struttando i mock-up realizzati andremo a definire l'impressione dell'a
 
 Si cerca quindi di comprendere insieme all'intervistato quali siano le funzionalità necessarie al suo interno e perchè.
 
-#### Interview amministrazione
+#### Intervista amministrazione
 
 Non avendo preventivamene svolto un questionario all'amministrazione, a questo stakeholder verranno dapprima sottoposte domande circa l'utilizzo degli applicativi correnti per la raccolta dei dati durante l'anno accademico.  
 Nello specifico viene domandato quali processi vengono monitorati e come avviene la raccolta e l'utilizzo dei dati, i formati nei quali vengono resi disponibili e la loro effettiva utilità. 
@@ -158,17 +159,16 @@ Inoltre si cercherà di identificare le statistiche che possano essere condivise
 
 ### Questionario studenti
 
-Il questionario è stato sottoposto agli studenti mediante google form ed è disponibile al seguente indirizzo: [https://docs.google.com/forms/d/e/1FAIpQLSd7e5LX8WeAVVtyQL24afb8JZkmHL7s5nHrhenUhMRVNFwtUQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSd7e5LX8WeAVVtyQL24afb8JZkmHL7s5nHrhenUhMRVNFwtUQ/viewform).
-
-A seguito della sua compilazione sono emersi diversi aspetti che vengono riportati di seguito.
+Il questionario è stato sottoposto agli studenti mediante Google Forms è è disponibile al seguente link: [UniPocket Student Questionnarie](https://docs.google.com/forms/d/e/1FAIpQLSd7e5LX8WeAVVtyQL24afb8JZkmHL7s5nHrhenUhMRVNFwtUQ/viewform).
 
 #### Utenti coinvolti
 
-Il questionario è stato svolto quasi per il 50% da studenti maschili e 50% ad studenti femminili. Essi provengono da diversi corsi di studio, nonostante la grande maggioranza, circa il 70%, proviene da quello di informatica, il 10% da quello di economia e il restante da corsi differenti.
+Gli studenti sono stati contattati tramite social network, in particolare condividendo il link tramite la pagina Instragam 'SpottedBicocca'.  
+Il questionario è stato compilato da 34 studenti, divisi equamente tra uomini e donne. Essi provengono da diversi corsi di studio, nonostante la grande maggioranza, circa il 70%, da quello di informatica.
 
 #### Sistemi utilizzati correntemente
 
-Circa il 50% del totale non sembra utilizzare alcuna applicazione per monitorare la propria carriera universitaria, piano di studi, media etc. Tra gli utilizzatori vi è una forte prevalenza dell'applicativo "UniWhere". Invece per controllare gli orari delle lezioni risulta che la maggior parte degli studenti utilizza l'applicazione "UnimibCourse". <!-- definire cosa offrono queste applicazioni (?) => penso sia sufficiente così, rende l'idea generale -->  
+Circa il 50% degli studenti rispondenti non sembra utilizzare alcuna applicazione per monitorare la propria carriera universitaria, piano di studi, media etc. Tra gli utilizzatori vi è una forte prevalenza dell'applicativo "UniWhere". Invece per controllare gli orari delle lezioni risulta che la maggior parte degli studenti utilizzi l'applicazione "UnimibCourse".  
 Per quanto riguarda la vendita di libri quasi la totalità degli studenti non utilizza applicazioni, solo il 20% sfrutta canali alternativi quali social network (Facebook e Telegram in particolare) oppure negozi come il "libraccio". Inoltre gli utilizzatori non sembrano essere interessati all'aggiunta di questo tipo di funzionalità all'interno di UniPocket.  
 Il sistema di prenotazione degli esami non sembra soddisfare a sufficienza gli studenti, infatti molti esprimono l'esigenza di poterlo fare in modo più pratico tramite un app mobile.  
 La mensa universitaria non sembra essere frequentata spesso, se non da pochi studenti, nonostante ciò notiamo un certo  interesse verso i servizi che vorremmo integrare.   
@@ -176,9 +176,19 @@ Infine, lo spostamento tra gli edifici per le lezioni non appare difficoltoso, n
 
 #### Interesse nelle funzionalità
 
-![alt text](RE%20questionnaires/TableQuestion.jpg)
+In questa sezione vengono riassunte, attraverso dei grafici, le principali informazioni raccolte dal questionario. Vengono messe a disposizione in un file csv tutte le risposte al questionario.
 
-![alt text](RE%20questionnaires/Functions.jpg)
+![alt text](RE%20questionnaires/Domanda1.png)
+
+![alt text](RE%20questionnaires/Domanda2.png)
+
+![alt text](RE%20questionnaires/Domanda3.png)
+
+
+
+
+
+
 
 #### La soluzione proposta
 
@@ -189,25 +199,25 @@ Alcuni utenti appaiono visibilmente spaventati dal fatto di produrre un'applicaz
 
 ## Segnalazione dei requisiti emergenti
 
-Dopo lo svolgimento di questionari e interviste sono emersi requisiti aggiuntivi di vario genere, provenienti da studenti differenti. Non vengono dunque riportati nella loro totalità ma viene segnalato l'unico requisito richiesto più volte e che costituisce dunque un elemento di discreta importanza:
+Dopo lo svolgimento di questionari e interviste sono emersi requisiti aggiuntivi di vario genere, provenienti da studenti differenti. Vengono riportati i requisiti nella loro totalità.
 
-- visualizzazione della capienza delle aule e la disponibilità dei posti a sedere
+| **Altri requisiti**                                          |
+| ------------------------------------------------------------ |
+| Laboratori e aule libere                                     |
+| Capienza aule                                                |
+| Calendario accademico                                        |
+| Materiali forniti dai docenti                                |
+| Sezione appunti                                              |
+| Orari segreterie e tempo di attesa                           |
+| Mail universitaria integrata                                 |
+| Sostituzione delle segreterie online                         |
+| Orientamento matricole                                       |
+| Orari apertura e chiusure edificio e aule                    |
+| Sezione bibliotecaria                                        |
+| Importazione eventi e lezioni sul calendario personale       |
+| Previsione voto sulla base di statistiche generali e andamento |
+| Statistiche tempo di studio richiesto per l’esame            |
+| Elenco dei capitoli da studiare                              |
+| Controllo tasse                                              |
 
-| **Altri requisiti**                                          | **Percentuale** |
-| ------------------------------------------------------------ | --------------- |
-| Laboratori e aule libere                                     | 6%              |
-| Capienza aule                                                | 12%             |
-| Calendario accademico                                        | 6%              |
-| Materiali forniti dai docenti                                | 6%              |
-| Sezione appunti                                              | 6%              |
-| Orari segreterie e tempo di attesa                           | 6%              |
-| Mail universitaria integrata                                 | 6%              |
-| Sostituzione delle segreterie online                         | 6%              |
-| Orientamento matricole                                       | 6%              |
-| Orari apertura e chiusure edificio e aule                    | 6%              |
-| Sezione bibliotecaria                                        | 6%              |
-| Importazione eventi e lezioni sul calendario personale       | 6%              |
-| Previsione voto sulla base di statistiche generali e andamento | 6%              |
-| Statistiche tempo di studio richiesto per l’esame            | 6%              |
-| Elenco dei capitoli da studiare                              | 6%              |
-| Controllo tasse                                              | 6%              |
+Vale la pena di segnalare che il requisito "visualizzazione della capienza delle aule e la disponibilità dei posti a sedere" è stato richiesto più volte e costituisce dunque un elemento di discreta importanza.
