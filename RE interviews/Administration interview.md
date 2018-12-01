@@ -1,23 +1,18 @@
 # Administration Requirements Elicitation Interview
 
-Non avendo preventivamene svolto un questionario all'amministrazione, a questo stakeholder verranno dapprima sottoposte domande circa l'utilizzo degli applicativi correnti per la raccolta dei dati durante l'anno accademico.  
-Nello specifico viene domandato quali processi vengono monitorati e come avviene la raccolta e l'utilizzo dei dati, i formati nei quali vengono resi disponibili e la loro effettiva utilità. 
+L'interview che andremo ad effettuare ha lo scopo di comprendere quali siano i dati attualmente raccolti dall'università, indagando circa l'utilizzo degli applicativi correnti per la raccolta di informazione durante l'anno accademico.  
+Nello specifico ci chiederemo quali sono i processi che vengono monitorati e come avviene la raccolta dei dati, i formati nei quali vengono resi disponibili e la loro effettiva utilità. 
 
-Successivamente si cerca di identificare quali potrebbero essere ulteriori dati di interesse per le amministrazioni, potenzilamente utili al miglioramente dell'attività universitaria, ma al momento non disponibili per svariati motivi.  
-In particolare si cerca di stabilire se e come l'utilizzo di UniPocket possa contribuire ad ottenere tali informazioni.
+Successivamente cercheremo di identificare quali potrebbero essere ulteriori dati di interesse, stabilendo se e come l'utilizzo di UniPocket possa contribuire ad ottenere tali informazioni.
 
-Inoltre si cercherà di identificare le statistiche che possano essere condivise anche con gli utenti dell'applicazione, al fine di mantenere una gestione trasparente.
+Inoltre definiremo quali sono le statistiche che possono essere condivise anche con gli utenti dell'applicazione.
 
 ## Sistema corrente
-
-<!-- vanno motivate le domande => non è già nel readme? -->
 
 - Attualmente quali sono i dati che vengono raccolti riguardo i servizi messi a disposizione dall'università?
 - Per quanto riguarda l'opinione degli studenti riguardo l'organizzazione e i corsi di studio invece?
 - Come vengono utilizzati i dati raccolti?
 - Quali sono le altre informazioni che vengono raccolte dai dati disponibili dalle attuali "applicazioni"? 
-- A seguito della raccolta dati tramite le attuali "applicazioni", come viene effettuata l'analisi?
-- Tale analisi è in grado apportare effitivi miglioramenti ai servizi offerti dall'università?
 
 ## Miglioramento del sistema corrente
 
