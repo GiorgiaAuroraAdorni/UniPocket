@@ -1,5 +1,5 @@
 # UniPocket
-Secondo Assignment di Processo e Sviluppo del Software.
+Second Assignment for the Software Development Process course
 
 Version 1.0 – 20.11.2018  
 Version 1.1 –    2.12.2018
@@ -7,171 +7,165 @@ Version 1.1 –    2.12.2018
 Adorni Giorgia 806787  
 Basso Matteo 807628
 
-# Indice dei contenuti
-
-[TOC]
-
 # Requirements Elicitation (RE)
 
-## Obiettivi del documento
+## Objectives of the document
 
-Vengono descritte nel seguente documento le procedure di estrazione dei requisiti dell'applicazione **UniPocket** e i conseguenti risultati, incluse attività di analisi. Vengono inoltre riportate le funzionalità del sistema e ciò che intende risolvere, fungendo da base contrattuale tra il cliente e lo sviluppatore.
-Il documento viene redatto nella lingua del dominio del business e di competenza del cliente (nel nostro caso l'italiano).
+The following document describes the procedures for extracting the requirements of the **UniPocket** application and the resulting results, including analysis activities. The system's functionality and what it intends to solve are also described, serving as a contractual basis between the client and the developer.
+The document is written in the language of the business domain and of the customer's competence (in our case, Italian).
 
 ## Sistem as-is
 
-L'applicazione **UniPocket** si propone come un'alternativa che unisce al suo interno diversi sistemi preesistenti. Al momento per visualizzare la carriera universitaria e gli orari delle aule è infatti necessario l'utilizzo di due applicazioni mobile differenti. Alcune informazioni invece non risultano disponibili da alcuna di esse ma sono consultabili solamente mediante siti web.
-Appare dunque chiaro che vi sia una frammentazione dell'informazione che fa si che gli utenti possano trovarsi confusi o poco soddisfatti dei sistemi in uso. Avere un singolo applicativo mediante il quale è possibile svolgere ogni tipo di attività porterebbe alla semplificazione della vita universitaria e magari ad una maggiore inclusione da parte degli studenti.
+The **UniPocket** application is an alternative that combines several existing systems. Currently, two different mobile applications are needed to view the university career and classroom schedules. On the other hand, some information is not available from any of them but can only be accessed via websites.
+It is, therefore, clear that there is a fragmentation of information that makes users confused or dissatisfied with the systems in use. Having a single application through which all kinds of activities can be carried out would lead to the simplification of university life and perhaps to greater inclusion on the part of students.
 
-Il sistema UniPocket e i suoi servizi, elencati nei capitoli successivi, sono progettati per essere una singola applicazione destinata a dispositivi smartphone (iOS e Android). 
+The UniPocket system and its services, listed in the following chapters, are designed to be a single application for smartphone devices (iOS and Android). 
 
 ## System to-be
-UniPocket è un applicazione mobile universitaria indirizzata a due principali gruppi di utenti: studenti e docenti (dell'Università degli Studi di Milano-Bicocca). 
+UniPocket is a university mobile application aimed at two main user groups: students and teachers (of the University of Milan-Bicocca). 
 
-Essa prevede numerosi gruppi di funzionalità, differenziati anche sulla base dell'utente. In particolare, effettuando l'accesso (tramite il sistema delle segreterie online) e acconsentendo l'accesso ai dati, sono disponibili le seguenti funzionalità: 
+It provides several groups of functionalities, also differentiated based on the user. In particular, by logging in (through the online secretariat system) and consenting to access the data, the following functions are available. 
 
-- Consultazione degli orari delle lezioni e degli esami
-- News dall’università tramite la newsletter Unimib Informa
-- Consultazione del menù giornaliero delle mense universitarie
-- Consultazione degli orari della navetta
-- Analisi dei dati a scopo statistico da parte dell'amministrazione universitaria
+- Consultation of class and exam schedules
+- University news via the Unimib Informa newsletter
+- Consultation of the daily menu of the university canteens
+- Consultation of shuttle bus timetables
+- Data analysis for statistical purposes by the university administration
 
-#### Studenti
+#### Students
 
-- Visibilità del piano di studi e libretto voti 
-- Statistiche relative l'andamento della carriera, come media dei voti degli esami e base di laurea
-- Statistiche relative ai corsi difficoltà (es. valutazione dei docenti, valutazione sull'organizzazione e  difficolta di un corso etc.)
-- Iscrizione agli esami
-- Vendita e acquisto di libri usati e non
+- Visibility of study plan and grade book 
+- Statistics on career development, such as exam grade point average and graduation basis
+- Statistics relating to course difficulties (e.g. teacher evaluation, evaluation of the organisation and difficulty of a course, etc.)
+- Examination enrolment
+- Sale and purchase of used and non-used books
 
-#### Professori
+#### Professors
 
-- Statistiche relative al gradimento dei propri corsi e della proprio metodo di insegnamento 
-- Statistiche riguardo l'andamento dei propri studenti nei diversi corsi
-- Creazione di appelli d'esame 
-- Prenotazione di aule e laboratori
+- Statistics on satisfaction with one's own courses and teaching methods 
+- Statistics on the performance of one's own students in the different courses
+- Creation of exam schedules 
+- Booking classrooms and laboratories
 
 ## Stakeholders
 
-Esistono sei tipi principali "attori" nell'applicazione UniPocket:
+There are six main types of 'actors' in the UniPocket application:
 
-- Gli **studenti** hanno la possibilità di accedere all'applicazione e monitorare la loro carriera universitaria. Risultano rilevanti per il processo di elicitazione per identificare e risolvere le problematiche circa il reperimento di alcune informazioni che possono risultare utili quotidianamente. Inoltre sono in grado di fornire opinioni riguardo i sistemi correnti, ovvero le motivazioni del loro scarso utilizzo.
-- I **professori** hanno la possibilità di accedere all'applicazione ed effettuare svariate attività, tra cui la prenotazione delle aule e dei laboratori, l'inserimento di prove d'esame e la visualizzazione delle statistiche relative i propri corsi. Essi risultano coloro che utilizzano l'applicazione per gestire le attività universitarie ed è dunque necessario che il sistema risulti comodo e veloce da utilizzare secondo i loro bisogni. Sono in grado di identificare quali processi possono rendere la comunicazione con gli studenti difficoltosa e una possibile soluzione.
-- Le segreterie online possono causare difficoltà nel processo di richiesta dei dati dello studente/professore se alcuni aspetti interferiscono con i loro diritti, ma non sono considerate come stakeholder in quanto il loro impatto principale, se presente, sarà come una fonte di vincoli. 
-- L'**amministrazione universitaria** deve essere in grado di accedere a statistiche e informazioni relative l'attività svolta da studenti e professori. Essa risulta rilevante per comprendere quali sono i dati di fondamentale interesse e quali schermate possono essere sviluppate per la loro visualizzazione e analisi. È necessario determinare come l'università può essere in grado di valutare la soddisfazione complessiva e come alcuni cambiamenti si riflettano sugli utenti. L'amministrazione fornisce quindi dei vincoli esterni al progetto, per esempio quali sono i dati che è interessati a raccogliere e in che modo l'applicazione può aiutare a farlo, diventando di conseguenza uno stakeholder con diritti limitati.
-- Enti della privacy (garante della protezione dei dati personali), che impongono dei regolamenti sulla gestione dei dati degli utenti, impongono dei vincoli "normativi" ma non sono parti interessate. Il loro principale impatto sarà come una fonte di vincoli. 
-- Il team di sviluppo è colui che realizza effettivamente l'applicazione una volta ottenuti tutti i requisiti ed effettuata l'analisi. Appare dunque chiara la motivazione per la quale risulta interessato al prodotto.
+- The **students** have the possibility to access the application and monitor their university career. They are relevant for the elicitation process to identify and solve problems in finding certain information that may be useful daily. In addition, they can provide opinions about current systems, i.e. the reasons for their lack of use.  
+- The **professors** can access the application and perform various activities, including reserving classrooms and labs, entering exams and viewing statistics about their courses. They are the ones who use the application to manage university activities and, therefore, need the system to be convenient and quick to use according to their needs. They can identify which processes can make communication with students difficult and a possible solution.
+- Online secretariats may cause difficulties in the process of requesting student/professor data if certain aspects interfere with their rights, but they are not considered stakeholders since their main impact, if any, will be as a source of constraints. 
+- The **university administration** needs to be able to access statistics and information about the activities of students and professors. It is relevant to understand which data are of fundamental interest and which screens can be developed for their visualisation and analysis. It is necessary to determine how the university may be able to assess overall satisfaction and how certain changes are reflected in the users. The administration then provides external constraints on the project, e.g. what data it is interested in collecting and how the application can help to do so, thus becoming a stakeholder with limited rights.
+- Privacy authorities (data protection authorities), which impose regulations on the handling of user data, impose 'regulatory' constraints but are not stakeholders. Their main impact will be as a source of constraints. 
+- The development team is the one who actually implements the application once all the requirements have been obtained, and the analysis carried out. It is, therefore, clear why they are interested in the product.
 
-Esaminando questi candidati abbiamo definto che solo tre di essi sono dei veri e propri stakeholders, ovvero gli studenti, i professori e l'amministrazione universitaria. Le analisi precedenti verrano utilizzate per definire la strategia di elicitazione.
+By examining these candidates, we defined that only three of them are real stakeholders, namely students, professors and the university administration. The previous analyses will be used to define the elicitation strategy.
 
-Prima di poter procedere alla fase di sottomissione dei questionari e delle interviste, abbiamo definito le priorità e i diritti di ciascuna categoria, in modo da poter scegliere tra due requisiti contrastanti e risolvere situazioni in cui abbiano uguale priorità e non possano essere scambiati in modo efficace. In particolare è stato scelto di attribuire maggior importanza agli studenti, poichè risultano coloro che utilizzeranno maggiormente i sistemi mobile durante la vita quotidiana e che hanno la necessità di accedere a una grande quantità di informazioni di diversa natura. Successivamente vi sono i professori che utilizzano i sistemi informativi per svolgere il loro lavoro, probabilmente per la maggior parte del tempo mediante l'utilizzo di un computer laptop, e solo infine l'amministrazione dell'università.  
-Nonostante ciò i requisiti di studenti, professori e amministrazione non dovrebbero risultare in contrasto tra di loro, poichè ognuno di essi visualizza una versione differente dell'applicazione con le sole funzionalità disponibili coerenti con il ruolo ricoperto.  
-Sono stati inoltre selezionati alcuni rappresentati appropriati degli stakeholder che possono parlare a nome del gruppo. Nel caso degli studenti, come nel caso dei professori, essi risultano coloro che ricoprono cariche amministrative, ovvero i rappresentanti degli studenti e i coordinatori dei vari dipartimenti. Nel caso dell'amministrazione invece è necessario individuare gli addetti all'analisi dei dati e questionari per la soddisfazione generale.
+Before proceeding to the submission phase of the questionnaires and interviews, we defined the priorities and rights of each category so that we could choose between two conflicting requirements and resolve situations in which they have equal priority and cannot be exchanged effectively. In particular, we chose to give more importance to students, as they are the ones who will use mobile systems the most during their daily lives and who need access to a large number of different kinds of information. Next are the professors who use information systems to do their work, probably most of the time using a laptop computer, and only finally, the university administration.  
+Nevertheless, the requirements of students, professors and administration should not be at odds with each other, as each of them displays a different version of the application with only the available functionalities consistent with their role.  
+A number of appropriate stakeholder representatives were also selected to speak on behalf of the group. In the case of students, as in the case of professors, these are those who hold administrative positions, i.e. student representatives and departmental coordinators. In the case of the administration, on the other hand, it is necessary to identify those responsible for analysing data and questionnaires for general satisfaction.
 
-## Strategia di elicitazione
+## Elicitation strategy
 
-Secondo le specifiche sugli stakeholder esplicate nel capitolo precedente è stata elaborata una strategia di elicitazione mostrata di seguito. La prima fase consiste nella raccolta di informazioni rapide ed efficaci per comprendere il dominio e i sistemi esistenti, così da poter affrontare questionari e interview in maniera più efficiente. Successivamente questionari e inverviste vengono svolte per comprendere le problematiche attuali degli utenti e raccogliere informazioni utili per poter sviluppare un Mock-up dell'applicativo. Esso sarà poi mostrato e modificato finchè non riuscirà a soddisfare pienamente gli stakeholder. A tal punto è possibile iniziare gli sviluppi veri e propri.
-Si noti che le attività sono svolte in questo preciso ordine per ottenere il maggior numero di informazioni possibili prima di effettuare ciascuno step.
+According to the stakeholder specifications explained in the previous chapter, an elicitation strategy was elaborated as shown below. The first phase consists of gathering quick and effective information to understand the domain and existing systems so that questionnaires and interviews can be conducted more efficiently. Next, questionnaires and interviews are carried out to understand the users' current problems and gather useful information to develop a mock-up of the application. It will then be shown and modified until it satisfies the stakeholders fully. At that point, the actual developments can begin.
+Note that the activities are carried out in this precise order to obtain as much information as possible before carrying out each step.
 
-1. **Background study**: vengono inizialmente studiati e valutati il sistema esistente e il dominio dell'applicazione al fine di non dover impiegare tempo non richiesto agli stakeholder durante le interviste e i questionari. In particolare i punti che si vogliono approfondire attraverso questa attività sono la comprensione dei servizi attualmente offerti dall'università e le piattaforme che li forniscono. Risulta necessario comprendere se vi è la possibilità di reperire le informazioni da tali sistemi, come per esempio dalle segreterie online, e poter interagire con essi per svolgere alcune procedure, come potrebbe essere l'iscrizione agli esami.   
-   Inoltre si andranno ad identificare le applicazioni già sviluppate da terze parti e le feature offerte, così da poter effettuare confronti e comprenderne problematiche e punti di forza.
-2. **Questionari**: secondo i criteri riportati nei sottocapitoli successivi, vengono sottoposti due diversi questionari ai gruppi di stakeholder più numerosi: gli studenti e i docenti. Il fine di questa attività è quello di ottenere informazioni rapide e che consentano la realizzazione di un primo mock-up e l'organizzazione di interview mirate.
-3. **Interviste**: vengono svolte le interviste rivolte alle amministrazioni universitarie, secondo i criteri riportati nei sottocapitoli successivi. Si cerca comprendere gli applicativi esistenti, di identificare quali dati risultano utili per effettuare analisi di vario genere, come reperirli, visualizzarli e condividerli eventualmente con studenti e professori al fine di effettuare una gestione trasparente.
-4. A seguito di questa prima fase di questionari ed interviste verranno analizzati i requisiti emersi e verificata l'eventuale presenza di contrasti tra essi nei diversi gruppi di stakeholder. Nel caso in cui ciò dovesse verificarsi sarà necessario riprendere il processo di elicitazione tenendo in considerazione le regole definite nel capitolo precedente per la risoluzione dei conflitti. Eventualmente sarà possibile organizzare una seduta di brainstorming che coinvolga alcuni rappresentanti dei diversi gruppi di stakeholder.
-5. **Mock-up**: al termine dei punti precedenti sarà possibile sviluppare dei mock-up da sottoporre alla valutazione degli stakeholder. Tali mockup verranno modificati man mano finchè non verrà raggiunta una versione approvata e confermata da tutti gli stakeholder.
-6. **Interviste**: a seguito dell'analisi svolta sui questionari rivolti agli studenti e della creazione dei mock-up, verranno sviluppate delle interviste mirate a specifici studenti, in cui si punterà a chiarire gli aspetti emersi dalla sottomissione del questionario e in cui verranno mostrati i mock-up realizzati nel punto precedente, la cui approvazione permetterà l’inizio dello sviluppo tecnico.
-7.  Nel caso in cui tutto sia corretto sarà possibile procedere con gli sviluppi. In caso contrario sarà necessario riprendere l'attività di elicitazione. 
+1. **Background study**: Initially, the existing system and the application domain are studied and evaluated to not take up unsolicited stakeholder time during interviews and questionnaires. In particular, the points to be investigated through this activity are the understanding of the university's services and the platforms that provide them. It is necessary to understand whether it is possible to retrieve information from such systems, such as online secretariats, and to be able to interact with them to carry out certain procedures, such as exam registration.   
+Furthermore, applications already developed by third parties and the features they offer will be identified so that comparisons can be made and their problems and strengths understood.
+2. **Questionnaires**: according to the criteria set out in the following sub-chapters, two different questionnaires are submitted to the largest stakeholder groups: students and lecturers. This activity aims to obtain information quickly and enable an initial mock-up and the organisation of targeted interviews.
+3. **Interviews**: interviews are carried out with university administrations according to the criteria set out in the following sub-chapters. An attempt is made to understand the existing applications, identify which data are useful for various analyses, and how they can be found, visualised and possibly shared with students and professors to carry out transparent management.
+4. Following this first phase of questionnaires and interviews, the emerging requirements will be analysed, and any conflicts between them in the various stakeholder groups will be checked. Should this occur, it will be necessary to resume the elicitation process considering the rules defined in the previous chapter for conflict resolution. It will be possible to organise a brainstorming session involving some representatives of the different stakeholder groups.
+5. **Mock-ups**: At the end of the previous points, it will be possible to develop mock-ups for stakeholder evaluation. These mock-ups will be modified gradually until an approved and confirmed version is reached by all stakeholders.
+6. **Interviews**: Following the analysis carried out on the student questionnaires and the creation of the mock-ups, targeted interviews will be developed with specific students, in which the aspects that emerged from the submission of the questionnaire will be clarified and in which the mock-ups created in the previous point will be shown, the approval of which will allow the start of technical development.
+7.  If everything is correct, it will be possible to proceed with the developments. Otherwise, it will be necessary to resume the elicitation activity. 
 
 ### Questionnaires
 
-I questionari sono molteplici e differenti in base allo stakeholder. In particolare è stato scelto di sottoporre questionari diversi a studenti e professori, che rappresentano gli stakeholder più numerosi.
-Essi sono costituiti principalmente da domande chiuse e a scelta multipla così da poter ottenere in modo rapido e da svariate persone informazioni soggettive circa il sistema attuale e il suo utilizzo. Vengono utilizzati inoltre per mostrare il grado di interessamento alla soluzione proposta da UniPocket. Essi non mirano alla sostituzione delle interview ma solamente all'acquisizione di informazioni per migliorarle e dar maggior risalto a ciò che risulta veramente importante.
+The questionnaires are multiple and different depending on the stakeholder. In particular, it was decided to submit different questionnaires to students and professors, representing the most numerous stakeholders.
+They mainly consist of closed and multiple-choice questions so that subjective information about the current system and its use can be obtained quickly from various people. They are also used to show the degree of interest in the solution proposed by UniPocket. They do not aim to replace interviews but only to acquire information to improve them and emphasise what is really important.
 
-I questionari sono stati sviluppati e svolti secondo la scala sotto riportata:
+The questionnaires were developed and carried out according to the scale below:
 
-1. decisione del pubblico del questionario (vari questionari per i diversi stakeholder).
-2. determinazione delle informazioni che si desidera ottenere.
-3. decisione del metodo di raccolta dei dati (elettronico, telefonico, postale).
-4. decisione dei tipi di domande.
-5. utilizzo del questionario su un campione di potenziali rispondenti e, se necessario, revisione delle domande.
-6. distribuzione del questionario.
-7. analisi delle risposte.
-8. presentazione e utilizzo dei risultati.
+1. decision of the questionnaire audience (various questionnaires for different stakeholders).
+2. determination of the information to be obtained.
+3. decision on the data collection method (electronic, telephone, postal).
+4. deciding on the types of questions.
+5. use of the questionnaire on a sample of potential respondents and, if necessary, revision of the questions.
+6. distribution of the questionnaire.
+7. analysis of the answers.
+8. presentation and use of the results.
 
-#### Questionario studente
+#### Student Questionnaire
 
-La prima sezione del questionario dedicato agli studenti pone domande volte alla comprensione dei sistemi correnti e del loro utilizzo da parte degli studenti.
-In particolare richiediamo quali sono le applicazioni esistenti, quanti di essi le utilizzano, di quali funzionalità sono dotate e il grado di soddisfazione del loro utilizzo, così da poter meglio delineare la situazione corrente e poter successivamente agire di conseguenza offrendo un servizio di più alto livello.
-Sempre nella prima sezione, a seguito di tali domande, ne vengono poste alcune riguardo il livello di interesse verso UniPocket e il suo grado di utilità. In questo modo è possibile ottenere informazioni circa l'interessamento da parte degli utilizzatori verso la nostra proposta.
-Nelle due sezioni successive viene richiesto di valutare il grado di interessamento alle singole funzionalità, così da identificare al meglio gli interessi degli utenti e potergli dare priorità e rilievo.  
-Oltre alle domande a scelta multipla vengono infine poste alcune brevi domande aperte, di cui alcune opzionali, per comprendere al meglio ulteriori idee dell'utente, commenti ed interessamente complessivo.   
+The first section of the student questionnaire asks questions aimed at understanding current systems and their use by students.
+In particular, we ask what applications exist, how many of them use them, what functionalities they have and the degree of satisfaction with their use so that we can better delineate the current situation and subsequently act accordingly by offering a higher level of service.
+Also, in the first section, questions are asked about the level of interest in UniPocket and its degree of usefulness. In this way, obtaining information about the users' interest in our proposal is possible.
+In the next two sections, you are asked to assess the degree of interest in the individual functionalities, so that you can better identify the users' interests and be able to prioritise and emphasise them.  
+Finally, in addition to the multiple-choice questions, a number of short open questions are asked, some of which are optional, better to understand further user ideas, comments and overall interest.   
 
-Si noti inoltre che alcune domande vengono ripetute più volte all'interno del questionario, così da comprendere se l'utente stia effettivamente svolgendo una compilazione attenta e poter dare alle sue risposte il giusto peso. 
+It should also be noted that some questions are repeated several times within the questionnaire to understand whether the user is actually filling out the questionnaire carefully and to be able to give their answers due weight. 
 
-Molte domande sono costituite da una scala di gradimento numerica pari, ovvero da 0 a 5, in modo che l'utente non dia una risposta neutrale e possa attribuire un'importanza maggiormente espressiva ad ogni punto.
+Many questions have an even numerical rating scale, i.e. from 0 to 5, so that the user does not give a neutral answer and can attach more expressive importance to each point.
 
-#### Questionario professore
+#### Professor questionnaire
 
-Analogamente al questionario degli studenti, il questionario dei professori è composto da una prima sezione per comprendere i sistemi correnti e il loro utilizzo, successivamente vengono richieste informazioni circa l'interesse in UniPocket e i servizi a cui si è maggiormente interessati.   
-Come appare evidente le domande risultano differenti poichè differenti sono le funzionalità di cui si tratta e gli applicativi utilizzati per usufruirne. Mentre per gli studenti sono disponibili svariate applicazioni infatti, nel caso dei professori queste risultano particolarmente limitate, è necessario quindi comprendere ancor di più i requisiti necessari per il sistema.
-Sono sempre presenti domande ridondanti e scale numeriche di gradimento.
+Similarly to the students' questionnaire, the professors' questionnaire consists of a first section to understand the current systems and their use, then they are asked about their interest in UniPocket and the services they are most interested in.   
+The questions are different because the functionalities involved and the applications used to use them are different. While for students, a variety of applications are available, in the case of professors, these are particularly limited, so it is necessary to further understand the requirements for the system.
+Redundant questions and numerical rating scales are always present.
 
 ### Interviews
 
-Anche per quanto riguarda le interview sono stati redatti documenti differenti in base allo stakeholder. Esse verranno poste a studenti e all'amministrazione. Nel primo caso saranno svolte a partire dal questionario precedentemente sottoposto, mentre nel secondo caso verrà svolta senza una precedente interazione.  
-Dal punto di vista pratico è stato selezionato un set limitato di domande da porre al fine di ottenere informazioni specifiche e mirate. Esse risultano volutamente non eccessivamente numerose, così da poter lasciare spazio a un libero dialogo, al fine di esplorare e comprendere meglio il sistema corrente, le problematiche e le eventuali soluzioni possibili dal suo punto di vista.  
-Le interview inizieranno dunque con la parte strutturata, costituita dalle domande definite nei documenti e proseguiranno con una parte non strutturata e libera.
+Different documents were also drawn up for the interviews depending on the stakeholder. They will be asked of students and the administration. In the first case, they will be carried out from the previously submitted questionnaire, while in the second case, they will be carried out without previous interaction.  
+From a practical point of view, a limited set of questions was selected to be asked to obtain specific and targeted information. They are deliberately not too numerous to leave room for free dialogue to explore and better understand the current system, its problems and possible solutions from its point of view.  
+The interviews will, therefore, begin with the structured part, consisting of the questions defined in the documents, and will continue with an unstructured, free part.
 
-Di seguito vengono riportate le informazioni che è necessario ottenere da ciascuno stakeholder:
-- Gli studenti hanno la possibilità di esporre la soddisfazione generale riguardo la ricezione di informazioni, l'utilizzo di applicativi offerti dall'università e da terze parti per la gestione della loro carriera universitaria, con conseguente identificazione di una soluzione.
-- I professori possono esprimere la loro soddisfazione riguardo le procedure e l'utilizzo di applicativi offerti dall'università. Sono in grado di identificare le problematiche esistenti, poichè consuenti utilizzatori dei sistemi e dunque potenzialmente capaci di identificare migliorie dal punto di vista procedurale e comunicativo all'interno dell'ambiente universitario.
-- L'università ha la capacità di identificare quali dati sono rilevanti per effettuare analisi e come possono essere visualizzati e utilizzati per migliorare i servizi offerti al personale e agli studenti.
+Below is the information to be obtained from each stakeholder:
+- Students have the opportunity to express general satisfaction regarding the receipt of information and the use of applications offered by the university and third parties for the management of their university career, resulting in the identification of a solution.
+- Professors can express their satisfaction with the procedures and use of applications offered by the university. They are able to identify existing problems, as they are frequent users of the systems and, therefore, potentially able to identify procedural and communication improvements within the university environment.
+- The university has the ability to identify which data are relevant for analysis and how they can be visualised and used to improve the services offered to staff and students.
 
-Successivamente ad ogni interview verrà scritto un report per riassumere ed evidenziare le criticità e i punti di maggior interesse emersi dal processo. Tale report viene sottoposto quindi allo stakeholder che deve confermare o rifinire ciò che è stato riportato. Risulterà possibile a questo punto effettuare un'analisi su quanto trascritto e valutare quale sia il modo adeguato in cui procedere.
+After each interview, a report will be written to summarise and highlight the critical issues and points of interest that emerged from the process. This report is then submitted to the stakeholder, who must confirm or refine what has been reported. It will then be possible to carry out an analysis of what has been reported and assess which is the appropriate way forward.
 
-#### Intervista studente
+#### Student interview
 
-Partendo dai questionari svolti, sono stati selezionati alcuni studenti a cui sottoporre un'interview per approfondire e chiarire alcuni aspetti emersi dalle domande a risposta aperta.   
-Uno degli aspetti su cui ci concentreremo sarà identificare le motivazioni per cui solo il 50% degli studenti utilizza applicazioni universiterie.  
-In seguito si andrà ad indagare se i principali requisiti emersi dal questionario sono condivisi dagli intervistati.  
-Inoltre, struttando i mock-up realizzati andremo a definire l'impressione dell'applicazione al primo impatto con l'utente, in pariticolare per comprendere se dia l'idea di essere confusionaria in quanto essa contenga una vasta gamma di funzionalità.
+Based on the questionnaires carried out, a number of students were selected to be interviewed to investigate and clarify certain aspects that emerged from the open-ended questions.   
+One of the aspects we will focus on will be to identify the reasons why only 50% of the students use university applications.  
+We will then investigate whether the respondents share the main requirements that emerged from the questionnaire.  
+Furthermore, by structuring the mock-ups, we will define the impression of the application on first impact with the user, in particular, to understand whether it gives the idea of being confusing as it contains a wide range of functionalities.
 
-Si cerca quindi di comprendere insieme all'intervistato quali siano le funzionalità necessarie al suo interno e perchè.
+An attempt is then made to understand together with the respondent what functionality is needed within it and why.
 
-#### Intervista amministrazione
+#### Interview administration
 
-Non avendo preventivamene svolto un questionario all'amministrazione, a questo stakeholder verranno dapprima sottoposte domande circa l'utilizzo degli applicativi correnti per la raccolta dei dati durante l'anno accademico.  
-Nello specifico viene domandato quali processi vengono monitorati e come avviene la raccolta e l'utilizzo dei dati, i formati nei quali vengono resi disponibili e la loro effettiva utilità. 
+Not having previously carried out a questionnaire to the administration, this stakeholder will first be asked questions about using current applications for data collection during the academic year.  
+Specifically, it is asked which processes are monitored, how data is collected and used, the formats in which it is made available, and its actual usefulness. 
 
-Successivamente si cerca di identificare quali potrebbero essere ulteriori dati di interesse per le amministrazioni, potenzilamente utili al miglioramente dell'attività universitaria, ma al momento non disponibili per svariati motivi.  
-In particolare si cerca di stabilire se e come l'utilizzo di UniPocket possa contribuire ad ottenere tali informazioni.
+Subsequently, an attempt is made to identify what further data might interest administrations, potentially useful for improving university activity, but currently unavailable for various reasons.  
+In particular, an attempt will be made to establish whether and how the use of UniPocket could contribute to obtaining such information.
 
-Inoltre si cercherà di identificare le statistiche che possano essere condivise anche con gli utenti dell'applicazione, al fine di mantenere una gestione trasparente.
+In addition, an attempt will be made to identify statistics that can also be shared with application users to maintain transparent management.
 
-## Analisi dei risultati ottenuti
+## Analysis of results
 
-### Questionario studenti
+### Student questionnaire
 
-Il questionario è stato sottoposto agli studenti mediante Google Forms è è disponibile al seguente link: [UniPocket Student Questionnarie](https://docs.google.com/forms/d/e/1FAIpQLSd7e5LX8WeAVVtyQL24afb8JZkmHL7s5nHrhenUhMRVNFwtUQ/viewform).
+The questionnaire was submitted to the students via Google Forms and is available at the following link: [UniPocket Student Questionnarie](https://docs.google.com/forms/d/e/1FAIpQLSd7e5LX8WeAVVtyQL24afb8JZkmHL7s5nHrhenUhMRVNFwtUQ/viewform).
 
+#### Users involved
 
+The students were contacted via social networks, particularly by sharing the link via the Instragam 'SpottedBicocca' page.  
+34 students completed the questionnaire, equally divided between men and women. They came from different study courses, although the vast majority, around 70%, were from the computer science course.
 
-#### Utenti coinvolti
+#### Currently used systems
 
-Gli studenti sono stati contattati tramite social network, in particolare condividendo il link tramite la pagina Instragam 'SpottedBicocca'.  
-Il questionario è stato compilato da 34 studenti, divisi equamente tra uomini e donne. Essi provengono da diversi corsi di studio, nonostante la grande maggioranza, circa il 70%, da quello di informatica.
+Around 50% of the student respondents do not seem to use any application to monitor their university career, study plan, media, etc. Among users, there is a strong prevalence of the 'UniWhere' application. On the other hand, to check class schedules, it appears that most students use the 'UnimibCourse' application.  
+Regarding the sale of books, almost all students do not use applications, only 20% use alternative channels such as social networks (Facebook and Telegram in particular) or shops such as the "libraccio". Moreover, users do not seem to be interested in adding this kind of functionality within UniPocket.  
+The examination booking system does not satisfy students sufficiently, with many expressing the need to do this more conveniently via a mobile app.  
+The university canteen does not seem to be frequented often, except by a few students, despite which we note a certain interest in the services we would like to integrate.   
+Finally, moving between buildings for classes does not appear to be difficult, despite which many are interested in having the shuttle bus timetable and even other means of transport connecting the various buildings.
 
-#### Sistemi utilizzati correntemente
+#### Interest in functionality
 
-Circa il 50% degli studenti rispondenti non sembra utilizzare alcuna applicazione per monitorare la propria carriera universitaria, piano di studi, media etc. Tra gli utilizzatori vi è una forte prevalenza dell'applicativo "UniWhere". Invece per controllare gli orari delle lezioni risulta che la maggior parte degli studenti utilizzi l'applicazione "UnimibCourse".  
-Per quanto riguarda la vendita di libri quasi la totalità degli studenti non utilizza applicazioni, solo il 20% sfrutta canali alternativi quali social network (Facebook e Telegram in particolare) oppure negozi come il "libraccio". Inoltre gli utilizzatori non sembrano essere interessati all'aggiunta di questo tipo di funzionalità all'interno di UniPocket.  
-Il sistema di prenotazione degli esami non sembra soddisfare a sufficienza gli studenti, infatti molti esprimono l'esigenza di poterlo fare in modo più pratico tramite un app mobile.  
-La mensa universitaria non sembra essere frequentata spesso, se non da pochi studenti, nonostante ciò notiamo un certo  interesse verso i servizi che vorremmo integrare.   
-Infine, lo spostamento tra gli edifici per le lezioni non appare difficoltoso, nonostante ciò molti sono interessati ad avere a disposizione l'orario della navetta e addirittura altri mezzi di trasporto che collegano i vari edifici .
-
-#### Interesse nelle funzionalità
-
-In questa sezione vengono riassunte, attraverso dei grafici, le principali informazioni raccolte dal questionario. Vengono messe a disposizione in un file csv tutte le risposte al questionario.
+This section summarises the main information gathered from the questionnaire in graphs. All answers to the questionnaire are made available in a CSV file.
 
 ![alt text](RE%20questionnaires/Domanda1.png)
 
@@ -179,38 +173,34 @@ In questa sezione vengono riassunte, attraverso dei grafici, le principali infor
 
 ![alt text](RE%20questionnaires/Domanda3.png)
 
-#### La soluzione proposta
+#### The proposed solution
 
-Le applicazioni esistenti vengono al momento utilizzate con una media frequenza, tuttavia è emerso che un'unico applicativo contenente tutte le funzionalità farebbe risparmiare molto tempo agli studenti e semplificherebbe la vita universitaria.  
-Tutte le funzionalità proposte risultano quasi di uguale importanza, mentre di particolare rilevanza risulta essere la possibilità di sapere dove poter trovare posto nelle aule studio e in biblioteca per potersi fermare a studiare.  
-Per quanto riguarda l'interesse generale allo sviluppo di UniPocket è emerso che circa il 20% degli intervistati è veramente entuasiasta dell'idea, tanto da lasciare commenti esaustivi.
-Alcuni utenti appaiono visibilmente spaventati dal fatto di produrre un'applicazione unica con molte funzionalità, pensando che essa diventi particolarmente difficile da utilizzare o confusionaria. Come sottolineato da alcuni di essi è necessario sviluppare un sistema semplice, fluido e intuitivo per raggiungere il giusto obiettivo. Tramite l'utilizzo di mock-up sarà possibile verificare se questa condizione verrà correttamente rispettata.
+Existing applications are currently used with average frequency, but it has emerged that a single application containing all functionalities would save students a lot of time and simplify university life.  
+All the proposed functionalities appear to be of almost equal importance, while of particular relevance is the possibility of knowing where to find a place in the study rooms and the library to stop and study.  
+Concerning the general interest in the development of UniPocket, it emerged that about 20% of the respondents are enthusiastic about the idea, so much so that they left extensive comments.
+Some users appear visibly afraid of producing a single application with many functionalities, thinking it will become particularly difficult or confusing. As some of them pointed out, developing a simple, smooth and intuitive system is necessary to achieve the right objective. Through the use of mock-ups, it will be possible to verify whether this condition is correctly met.
 
+## Reporting emerging requirements
 
+After conducting questionnaires and interviews, additional requirements of various kinds emerged from different students. The requirements in their entirety are reported.
 
-
-
-## Segnalazione dei requisiti emergenti
-
-Dopo lo svolgimento di questionari e interviste sono emersi requisiti aggiuntivi di vario genere, provenienti da studenti differenti. Vengono riportati i requisiti nella loro totalità.
-
-| **Altri requisiti**                                          |
+| **Other Requirements**                                       |
 | ------------------------------------------------------------ |
-| Laboratori e aule libere                                     |
-| Capienza aule                                                |
-| Calendario accademico                                        |
-| Materiali forniti dai docenti                                |
-| Sezione appunti                                              |
-| Orari segreterie e tempo di attesa                           |
-| Mail universitaria integrata                                 |
-| Sostituzione delle segreterie online                         |
-| Orientamento matricole                                       |
-| Orari apertura e chiusure edificio e aule                    |
-| Sezione bibliotecaria                                        |
-| Importazione eventi e lezioni sul calendario personale       |
-| Previsione voto sulla base di statistiche generali e andamento |
-| Statistiche tempo di studio richiesto per l’esame            |
-| Elenco dei capitoli da studiare                              |
-| Controllo tasse                                              |
+| Laboratories and free classrooms                             |
+| Classroom capacities                                         |
+| Academic calendar                                            |
+| Materials provided by lecturers                              |
+| Notes section                                                |
+| Secretarial hours and waiting time                           |
+| Integrated university mail                                   |
+| Online answering machine replacement                         |
+| Freshman orientation                                         |
+| Building and classroom opening and closing times             |
+| Library section                                              |
+| Importing events and lectures into the personal calendar     |
+| Forecast grade based on general statistics and trends        |
+| Statistics study time required for the exam                  |
+| List of chapters to be studied                               |
+| Fee control                                                  |
 
-Vale la pena di segnalare che il requisito "visualizzazione della capienza delle aule e la disponibilità dei posti a sedere" è stato richiesto più volte e costituisce dunque un elemento di discreta importanza.
+It is worth mentioning that the requirement "display of classroom capacity and seating availability" was requested several times and is, therefore, a fairly important element.
